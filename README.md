@@ -57,7 +57,7 @@
 |53|[diagrams](https://github.com/mingrammer/diagrams.git)|:art: Diagram as Code for prototyping cloud system architectures|15205|20-9-2021|  
 |54|[driftctl](https://github.com/cloudskiff/driftctl.git)|Detect, track and alert on infrastructure drift|1576|27-9-2021|  
 |55|[cloud-custodian](https://github.com/cloud-custodian/cloud-custodian.git)|Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources|3793|24-9-2021|  
-|56|[truffleHog](https://github.com/trufflesecurity/truffleHog.git)|Searches through git repositories for high entropy strings and secrets, digging deep into commit history|5994|16-9-2021|  
+|56|[truffleHog](https://github.com/trufflesecurity/truffleHog.git)|Searches through git repositories for high entropy strings and secrets, digging deep into commit history|5995|16-9-2021|  
 |57|[x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter.git)|A Prometheus exporter to monitor x509 certificates expiration in Kubernetes clusters or standalone|118|31-8-2021|  
 |58|[pulumi](https://github.com/pulumi/pulumi.git)|Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀|9989|24-9-2021|  
 |59|[envoy](https://github.com/envoyproxy/envoy.git)|Cloud-native high-performance edge/middle/service proxy|18016|27-9-2021|  
