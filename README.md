@@ -1,6 +1,6 @@
 # List of Starred Repository  
 
-[How this generated?](../USAGE.md)  
+[How this generated?](../master/USAGE.md)  
 
 | Id 			| Name			| Description | Star Counts | Last Updated 	|  
 | ----------- | ----------- 	| ----------- | ----------- | ----------- 	|  
@@ -203,7 +203,7 @@
 |197|[kapacitor](https://github.com/influxdata/kapacitor.git)|Open source framework for processing, monitoring, and alerting on time series data|2076|24-9-2021|  
 |198|[telegraf](https://github.com/influxdata/telegraf.git)|The plugin-driven server agent for collecting & reporting metrics.|10621|27-9-2021|  
 |199|[grafana](https://github.com/grafana/grafana.git)|The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. |44046|27-9-2021|  
-|200|[cobra](https://github.com/spf13/cobra.git)|A Commander for modern Go CLI interactions|23295|23-9-2021|  
+|200|[cobra](https://github.com/spf13/cobra.git)|A Commander for modern Go CLI interactions|23296|23-9-2021|  
 |201|[viper](https://github.com/spf13/viper.git)|Go configuration with fangs|16852|24-9-2021|  
 |202|[helm](https://github.com/helm/helm.git)|The Kubernetes Package Manager|20333|26-9-2021|  
 |203|[ami-query](https://github.com/intuit/ami-query.git)|Provide a REST interface to your organization's AMIs|36|5-9-2020|  
