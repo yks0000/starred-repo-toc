@@ -80,7 +80,7 @@
 |76|[strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator.git)|Apache Kafka running on Kubernetes|2619|27-9-2021|  
 |77|[chartmuseum](https://github.com/helm/chartmuseum.git)|Host your own Helm Chart Repository|2553|26-9-2021|  
 |78|[terraformer](https://github.com/GoogleCloudPlatform/terraformer.git)|CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code|5749|26-9-2021|  
-|79|[professional-services](https://github.com/GoogleCloudPlatform/professional-services.git)|Common solutions and tools developed by Google Cloud's Professional Services team|1788|20-9-2021|  
+|79|[professional-services](https://github.com/GoogleCloudPlatform/professional-services.git)|Common solutions and tools developed by Google Cloud's Professional Services team|1790|20-9-2021|  
 |80|[python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples.git)|Code samples used on cloud.google.com|5212|27-9-2021|  
 |81|[kafka-monitor](https://github.com/linkedin/kafka-monitor.git)|Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availability, offsets commit availability & latency, message loss rate and more.|1791|19-8-2021|  
 |82|[cost-model](https://github.com/kubecost/cost-model.git)|Cross-cloud cost allocation models for Kubernetes workloads|1545|24-9-2021|  
@@ -116,7 +116,7 @@
 |112|[interview](https://github.com/mission-peace/interview.git)|Interview questions|9971|7-8-2021|  
 |113|[fastapi](https://github.com/tiangolo/fastapi.git)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|36188|27-9-2021|  
 |114|[pipeline](https://github.com/tektoncd/pipeline.git)|A cloud-native Pipeline resource.|6541|27-9-2021|  
-|115|[backstage](https://github.com/backstage/backstage.git)|Backstage is an open platform for building developer portals|13112|27-9-2021|  
+|115|[backstage](https://github.com/backstage/backstage.git)|Backstage is an open platform for building developer portals|13113|27-9-2021|  
 |116|[argo-events](https://github.com/argoproj/argo-events.git)|Event-driven workflow automation framework|1165|27-9-2021|  
 |117|[what-happens-when](https://github.com/alex/what-happens-when.git)|An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"|30969|13-9-2021|  
 |118|[service-fabric](https://github.com/microsoft/service-fabric.git)|Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.|2872|9-9-2021|  
@@ -149,7 +149,7 @@
 |145|[sonobuoy](https://github.com/vmware-tanzu/sonobuoy.git)|Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.|2373|23-9-2021|  
 |146|[terraform-provider-restapi](https://github.com/Mastercard/terraform-provider-restapi.git)|A terraform provider to manage objects in a RESTful API|504|6-9-2021|  
 |147|[terratest](https://github.com/gruntwork-io/terratest.git)| Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.|5617|26-9-2021|  
-|148|[terraform](https://github.com/hashicorp/terraform.git)|Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.|29067|26-9-2021|  
+|148|[terraform](https://github.com/hashicorp/terraform.git)|Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.|29068|26-9-2021|  
 |149|[pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform.git)|pre-commit git hooks to take care of Terraform configurations|1246|20-9-2021|  
 |150|[terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops.git)|Info about many of my Terraform, AWS, and DevOps projects.|212|13-5-2021|  
 |151|[terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices.git)|Terraform best practices (constantly updating)|1072|24-12-2020|  
@@ -157,7 +157,7 @@
 |153|[terraform-multi-account](https://github.com/inovex/terraform-multi-account.git)|Some example how toadress multiple aws accounts with Terraform|20|12-6-2018|  
 |154|[Terraform-012](https://github.com/addamstj/Terraform-012.git)|Code for the Terraform course|39|6-7-2020|  
 |155|[terraform-course](https://github.com/wardviaene/terraform-course.git)|Course files for my Udemy course about Terraform|1125|31-8-2021|  
-|156|[awesome-python-applications](https://github.com/mahmoud/awesome-python-applications.git)|💿 Free software that works great, and also happens to be open-source Python. |13059|11-9-2021|  
+|156|[awesome-python-applications](https://github.com/mahmoud/awesome-python-applications.git)|💿 Free software that works great, and also happens to be open-source Python. |13060|11-9-2021|  
 |157|[Python-Sample-Application](https://github.com/uber/Python-Sample-Application.git)|-|349|20-9-2021|  
 |158|[grequests](https://github.com/spyoungtech/grequests.git)|Requests + Gevent = <3|3858|5-4-2020|  
 |159|[opencv](https://github.com/opencv/opencv.git)|Open Source Computer Vision Library|56929|27-9-2021|  
@@ -179,7 +179,7 @@
 |175|[fortio](https://github.com/fortio/fortio.git)|Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.|2073|13-8-2021|  
 |176|[ansible](https://github.com/ansible/ansible.git)|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.|49950|27-9-2021|  
 |177|[Python-for-Algorithms--Data-Structures--and-Interviews](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews.git)|Files for Udemy Course on Algorithms and Data Structures|1872|31-8-2021|  
-|178|[coding-interview-university](https://github.com/jwasham/coding-interview-university.git)|A complete computer science study plan to become a software engineer.|193650|27-9-2021|  
+|178|[coding-interview-university](https://github.com/jwasham/coding-interview-university.git)|A complete computer science study plan to become a software engineer.|193651|27-9-2021|  
 |179|[katran](https://github.com/facebookincubator/katran.git)|A high performance layer 4 load balancer|3293|27-9-2021|  
 |180|[xdp-tutorial](https://github.com/xdp-project/xdp-tutorial.git)|XDP tutorial|963|10-9-2021|  
 |181|[bcc](https://github.com/iovisor/bcc.git)|BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more|12624|26-9-2021|  
@@ -200,12 +200,12 @@
 |196|[chef](https://github.com/chef/chef.git)|Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale|6693|26-9-2021|  
 |197|[kapacitor](https://github.com/influxdata/kapacitor.git)|Open source framework for processing, monitoring, and alerting on time series data|2076|24-9-2021|  
 |198|[telegraf](https://github.com/influxdata/telegraf.git)|The plugin-driven server agent for collecting & reporting metrics.|10621|27-9-2021|  
-|199|[grafana](https://github.com/grafana/grafana.git)|The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. |44045|27-9-2021|  
+|199|[grafana](https://github.com/grafana/grafana.git)|The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. |44046|27-9-2021|  
 |200|[cobra](https://github.com/spf13/cobra.git)|A Commander for modern Go CLI interactions|23295|23-9-2021|  
 |201|[viper](https://github.com/spf13/viper.git)|Go configuration with fangs|16852|24-9-2021|  
 |202|[helm](https://github.com/helm/helm.git)|The Kubernetes Package Manager|20333|26-9-2021|  
 |203|[ami-query](https://github.com/intuit/ami-query.git)|Provide a REST interface to your organization's AMIs|36|5-9-2020|  
-|204|[awesome-python](https://github.com/vinta/awesome-python.git)|A curated list of awesome Python frameworks, libraries, software and resources|102953|26-9-2021|  
+|204|[awesome-python](https://github.com/vinta/awesome-python.git)|A curated list of awesome Python frameworks, libraries, software and resources|102954|26-9-2021|  
 |205|[keras-yolo2](https://github.com/experiencor/keras-yolo2.git)|Easy training on custom dataset. Various backends (MobileNet and SqueezeNet) supported. A YOLO demo to detect raccoon run entirely in brower is accessible at https://git.io/vF7vI (not on Windows).|1685|25-8-2021|  
 |206|[hygieia](https://github.com/hygieia/hygieia.git)|CapitalOne  DevOps Dashboard|3646|23-9-2021|  
 |207|[cli53](https://github.com/barnybug/cli53.git)|Command line tool for Amazon Route 53|1698|25-3-2021|  
