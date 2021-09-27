@@ -27,7 +27,7 @@
 |23|[faker](https://github.com/joke2k/faker.git)|Faker is a Python package that generates fake data for you.|13097|27-9-2021|  
 |24|[onedev](https://github.com/theonedev/onedev.git)|Super Easy All-In-One DevOps Platform|4544|27-9-2021|  
 |25|[flamethrower](https://github.com/DNS-OARC/flamethrower.git)|a DNS performance and functional testing utility supporting UDP, TCP, DoT and DoH (by @ns1labs)|233|20-9-2021|  
-|26|[haproxy](https://github.com/haproxy/haproxy.git)|HAProxy Load Balancer's development branch (mirror of git.haproxy.org)|2305|26-9-2021|  
+|26|[haproxy](https://github.com/haproxy/haproxy.git)|HAProxy Load Balancer's development branch (mirror of git.haproxy.org)|2306|26-9-2021|  
 |27|[slate](https://github.com/slatedocs/slate.git)|Beautiful static documentation for your API|33159|26-9-2021|  
 |28|[zuul](https://github.com/Netflix/zuul.git)|Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.|11342|16-9-2021|  
 |29|[pygradle](https://github.com/linkedin/pygradle.git)|Using Gradle to build Python projects|541|5-3-2020|  
@@ -80,7 +80,7 @@
 |76|[strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator.git)|Apache Kafka running on Kubernetes|2619|27-9-2021|  
 |77|[chartmuseum](https://github.com/helm/chartmuseum.git)|Host your own Helm Chart Repository|2553|26-9-2021|  
 |78|[terraformer](https://github.com/GoogleCloudPlatform/terraformer.git)|CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code|5749|26-9-2021|  
-|79|[professional-services](https://github.com/GoogleCloudPlatform/professional-services.git)|Common solutions and tools developed by Google Cloud's Professional Services team|1787|20-9-2021|  
+|79|[professional-services](https://github.com/GoogleCloudPlatform/professional-services.git)|Common solutions and tools developed by Google Cloud's Professional Services team|1788|20-9-2021|  
 |80|[python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples.git)|Code samples used on cloud.google.com|5212|27-9-2021|  
 |81|[kafka-monitor](https://github.com/linkedin/kafka-monitor.git)|Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availability, offsets commit availability & latency, message loss rate and more.|1791|19-8-2021|  
 |82|[cost-model](https://github.com/kubecost/cost-model.git)|Cross-cloud cost allocation models for Kubernetes workloads|1545|24-9-2021|  
@@ -164,7 +164,7 @@
 |160|[opencv-python](https://github.com/opencv/opencv-python.git)|Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.|2217|21-9-2021|  
 |161|[game_control](https://github.com/ChoudharyChanchal/game_control.git)|-|749|30-9-2020|  
 |162|[howdoi](https://github.com/gleitz/howdoi.git)|instant coding answers via the command line|9110|25-9-2021|  
-|163|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|118623|27-9-2021|  
+|163|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|118624|27-9-2021|  
 |164|[managers-playbook](https://github.com/ksindi/managers-playbook.git)|:book: Heuristics for effective management|4419|3-8-2021|  
 |165|[tqdm](https://github.com/tqdm/tqdm.git)|A Fast, Extensible Progress Bar for Python and CLI|19541|26-9-2021|  
 |166|[admiral](https://github.com/istio-ecosystem/admiral.git)|Admiral provides automatic configuration generation, syncing and service discovery for multicluster Istio service mesh|364|23-7-2021|  
