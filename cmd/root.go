@@ -19,7 +19,7 @@ var rootCmd = &cobra.Command{
 	Long: `List all starred repo of a Github User and their description. It then generate a markdown 
 page and replace existing README.md file.
 `,
-	Run: func(cmd *cobra.Command, args []string) { },
+	Run: func(cmd *cobra.Command, args []string) {},
 }
 
 // Execute adds all child commands to the root command and sets flags appropriately.
@@ -30,7 +30,7 @@ func Execute() {
 
 func init() {
 	cobra.OnInitialize(initConfig)
-	rootCmd.PersistentFlags().StringVarP(&accessToken, "token", "t", "","GitHub Token")
+	rootCmd.PersistentFlags().StringVarP(&accessToken, "token", "t", "", "GitHub Token")
 	err := rootCmd.MarkPersistentFlagRequired("token")
 
 	if err != nil {

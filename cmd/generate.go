@@ -9,10 +9,6 @@ import (
 
 var fileName string
 
-type people struct {
-	Number int `json:"number"`
-}
-
 // generateCmd represents the generate command
 var generateCmd = &cobra.Command{
 	Use:   "generate",
@@ -25,12 +21,11 @@ var generateCmd = &cobra.Command{
 
 func init() {
 	rootCmd.AddCommand(generateCmd)
-	generateCmd.PersistentFlags().StringVarP(&fileName, "file", "f", "README.md","MarkDown File Name")
+	generateCmd.PersistentFlags().StringVarP(&fileName, "file", "f", "README.md", "MarkDown File Name")
 }
-
 
 func callGitHubAPIs() {
 	client, ctx := githubapi.GetGitHubClient(accessToken)
 	allRepos := githubapi.GetGithubStarredRepoByUser(client, ctx)
-	markdown.WriteMarkDownFile(allRepos)
+	markdown.WriteMarkDownFile(fileName, allRepos)
 }
