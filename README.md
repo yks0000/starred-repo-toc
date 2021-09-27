@@ -97,7 +97,7 @@
 |91|[thefuck](https://github.com/nvbn/thefuck.git)|Magnificent app which corrects your previous console command.|64014|17-9-2021|  
 |92|[udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui.git)|A desktop application for downloading Udemy Courses|5354|9-9-2021|  
 |93|[moto](https://github.com/spulec/moto.git)|A library that allows you to easily mock out tests based on AWS infrastructure.|5187|27-9-2021|  
-|94|[nuclei](https://github.com/projectdiscovery/nuclei.git)|Fast and customizable vulnerability scanner based on simple YAML based DSL.|5296|26-9-2021|  
+|94|[nuclei](https://github.com/projectdiscovery/nuclei.git)|Fast and customizable vulnerability scanner based on simple YAML based DSL.|5297|26-9-2021|  
 |95|[school-of-sre](https://github.com/linkedin/school-of-sre.git)|At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.|4985|12-9-2021|  
 |96|[redis-datasets](https://github.com/redis-developer/redis-datasets.git)|A Curated List of Sample Redis Datasets|20|2-8-2021|  
 |97|[snyk](https://github.com/snyk/snyk.git)|Snyk CLI scans and monitors your projects for security vulnerabilities.|3395|27-9-2021|  
@@ -138,7 +138,7 @@
 |132|[wrk2](https://github.com/giltene/wrk2.git)|A constant throughput, correct latency recording variant of wrk|3180|23-6-2021|  
 |133|[wrk](https://github.com/wg/wrk.git)|Modern HTTP benchmarking tool|30233|28-7-2021|  
 |134|[mux](https://github.com/gorilla/mux.git)|A powerful HTTP router and URL matcher for building Go web servers with 🦍|15178|14-9-2021|  
-|135|[sanic](https://github.com/sanic-org/sanic.git)|Async Python 3.7+ web server/framework   Build fast. Run fast.|15457|27-9-2021|  
+|135|[sanic](https://github.com/sanic-org/sanic.git)|Async Python 3.7+ web server/framework   Build fast. Run fast.|15458|27-9-2021|  
 |136|[awesome-sre](https://github.com/dastergon/awesome-sre.git)|A curated list of Site Reliability and Production Engineering resources.|7355|25-9-2021|  
 |137|[sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide.git)|Site Reliability Engineer Interview Preparation Guide|2176|24-9-2021|  
 |138|[vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer.git)|An extension for VS Code that visualizes data during debugging.|7026|19-8-2021|  
