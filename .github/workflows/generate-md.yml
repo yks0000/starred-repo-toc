@@ -1,7 +1,7 @@
 name: "Generate Markdown for Starred Github Repository"
 on:
   schedule:
-    - cron: "* * * * *"
+    - cron: "*/5 * * * *"
   push:
     branches: [ master ]
   pull_request:
