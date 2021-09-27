@@ -10,7 +10,7 @@
 |6|[netdata](https://github.com/netdata/netdata.git)|Real-time performance monitoring, done right! https://www.netdata.cloud|56148|27-9-2021|  
 |7|[go-github](https://github.com/google/go-github.git)|Go library for accessing the GitHub API|7798|27-9-2021|  
 |8|[pytest](https://github.com/pytest-dev/pytest.git)|The pytest framework makes it easy to write small tests, yet scales to support complex functional testing|7780|27-9-2021|  
-|9|[devops-exercises](https://github.com/bregman-arie/devops-exercises.git)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|16922|27-9-2021|  
+|9|[devops-exercises](https://github.com/bregman-arie/devops-exercises.git)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|16923|27-9-2021|  
 |10|[terrascan](https://github.com/accurics/terrascan.git)|Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.|2461|27-9-2021|  
 |11|[yaspin](https://github.com/pavdmyt/yaspin.git)|A lightweight terminal spinner for Python with safe pipes and redirects 🎁|464|20-9-2021|  
 |12|[ora](https://github.com/sindresorhus/ora.git)|Elegant terminal spinner|7185|13-9-2021|  
@@ -183,7 +183,7 @@
 |179|[katran](https://github.com/facebookincubator/katran.git)|A high performance layer 4 load balancer|3293|27-9-2021|  
 |180|[xdp-tutorial](https://github.com/xdp-project/xdp-tutorial.git)|XDP tutorial|963|10-9-2021|  
 |181|[bcc](https://github.com/iovisor/bcc.git)|BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more|12624|26-9-2021|  
-|182|[fish-shell](https://github.com/fish-shell/fish-shell.git)|The user-friendly command line shell.|17423|27-9-2021|  
+|182|[fish-shell](https://github.com/fish-shell/fish-shell.git)|The user-friendly command line shell.|17424|27-9-2021|  
 |183|[ace](https://github.com/ajaxorg/ace.git)|Ace (Ajax.org Cloud9 Editor)|23632|25-9-2021|  
 |184|[bat](https://github.com/sharkdp/bat.git)|A cat(1) clone with wings.|29546|27-9-2021|  
 |185|[awesome-hyper](https://github.com/bnb/awesome-hyper.git)|🖥 Delightful Hyper plugins, themes, and resources|9605|19-9-2021|  
