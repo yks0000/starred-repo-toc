@@ -20,7 +20,7 @@ func WriteMarkDownFile(fileName string, allRepos []*github.StarredRepository) {
 	writer := bufio.NewWriter(markDownFile)
 
 	_, _ = writer.WriteString("# List of Starred Repository" + "  " + "\n\n")
-	_, _ = writer.WriteString("[How this generated?](../USAGE.md)" + "  " + "\n\n")
+	_, _ = writer.WriteString("[How this generated?](../master/USAGE.md)" + "  " + "\n\n")
 
 	_, _ = writer.WriteString("| Id 			| Name			| Description | Star Counts | Last Updated 	|" + "  " + "\n")
 	_, _ = writer.WriteString("| ----------- | ----------- 	| ----------- | ----------- | ----------- 	|" + "  " + "\n")
