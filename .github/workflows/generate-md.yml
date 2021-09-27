@@ -1,4 +1,4 @@
-name: "Generate Markdown for Starred Github Repository"
+name: "Generate Markdown for Starred Github Repository."
 on:
   schedule:
     - cron: "*/5 * * * *"
