@@ -27,7 +27,7 @@
 |21|[MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer.git)|An all-round MQTT client that provides a structured topic overview|1432|20-9-2021|  
 |22|[google-maps-services-python](https://github.com/googlemaps/google-maps-services-python.git)|Python client library for Google Maps API Web Services|3358|6-9-2021|  
 |23|[faker](https://github.com/joke2k/faker.git)|Faker is a Python package that generates fake data for you.|13098|27-9-2021|  
-|24|[onedev](https://github.com/theonedev/onedev.git)|Super Easy All-In-One DevOps Platform|4545|27-9-2021|  
+|24|[onedev](https://github.com/theonedev/onedev.git)|Super Easy All-In-One DevOps Platform|4546|27-9-2021|  
 |25|[flamethrower](https://github.com/DNS-OARC/flamethrower.git)|a DNS performance and functional testing utility supporting UDP, TCP, DoT and DoH (by @ns1labs)|233|20-9-2021|  
 |26|[haproxy](https://github.com/haproxy/haproxy.git)|HAProxy Load Balancer's development branch (mirror of git.haproxy.org)|2306|26-9-2021|  
 |27|[slate](https://github.com/slatedocs/slate.git)|Beautiful static documentation for your API|33159|26-9-2021|  
@@ -61,7 +61,7 @@
 |55|[cloud-custodian](https://github.com/cloud-custodian/cloud-custodian.git)|Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources|3794|24-9-2021|  
 |56|[truffleHog](https://github.com/trufflesecurity/truffleHog.git)|Searches through git repositories for high entropy strings and secrets, digging deep into commit history|5995|16-9-2021|  
 |57|[x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter.git)|A Prometheus exporter to monitor x509 certificates expiration in Kubernetes clusters or standalone|118|31-8-2021|  
-|58|[pulumi](https://github.com/pulumi/pulumi.git)|Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀|9989|24-9-2021|  
+|58|[pulumi](https://github.com/pulumi/pulumi.git)|Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀|9990|24-9-2021|  
 |59|[envoy](https://github.com/envoyproxy/envoy.git)|Cloud-native high-performance edge/middle/service proxy|18016|27-9-2021|  
 |60|[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh.git)|🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.|133411|27-9-2021|  
 |61|[kubectx](https://github.com/ahmetb/kubectx.git)|Faster way to switch between clusters and namespaces in kubectl|11308|19-8-2021|  
@@ -162,7 +162,7 @@
 |156|[awesome-python-applications](https://github.com/mahmoud/awesome-python-applications.git)|💿 Free software that works great, and also happens to be open-source Python. |13060|11-9-2021|  
 |157|[Python-Sample-Application](https://github.com/uber/Python-Sample-Application.git)|-|349|20-9-2021|  
 |158|[grequests](https://github.com/spyoungtech/grequests.git)|Requests + Gevent = <3|3858|5-4-2020|  
-|159|[opencv](https://github.com/opencv/opencv.git)|Open Source Computer Vision Library|56929|27-9-2021|  
+|159|[opencv](https://github.com/opencv/opencv.git)|Open Source Computer Vision Library|56930|27-9-2021|  
 |160|[opencv-python](https://github.com/opencv/opencv-python.git)|Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.|2217|21-9-2021|  
 |161|[game_control](https://github.com/ChoudharyChanchal/game_control.git)|-|749|30-9-2020|  
 |162|[howdoi](https://github.com/gleitz/howdoi.git)|instant coding answers via the command line|9110|25-9-2021|  
@@ -181,13 +181,13 @@
 |175|[fortio](https://github.com/fortio/fortio.git)|Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.|2073|13-8-2021|  
 |176|[ansible](https://github.com/ansible/ansible.git)|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.|49950|27-9-2021|  
 |177|[Python-for-Algorithms--Data-Structures--and-Interviews](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews.git)|Files for Udemy Course on Algorithms and Data Structures|1872|31-8-2021|  
-|178|[coding-interview-university](https://github.com/jwasham/coding-interview-university.git)|A complete computer science study plan to become a software engineer.|193651|27-9-2021|  
+|178|[coding-interview-university](https://github.com/jwasham/coding-interview-university.git)|A complete computer science study plan to become a software engineer.|193652|27-9-2021|  
 |179|[katran](https://github.com/facebookincubator/katran.git)|A high performance layer 4 load balancer|3293|27-9-2021|  
 |180|[xdp-tutorial](https://github.com/xdp-project/xdp-tutorial.git)|XDP tutorial|963|10-9-2021|  
 |181|[bcc](https://github.com/iovisor/bcc.git)|BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more|12624|26-9-2021|  
 |182|[fish-shell](https://github.com/fish-shell/fish-shell.git)|The user-friendly command line shell.|17424|27-9-2021|  
 |183|[ace](https://github.com/ajaxorg/ace.git)|Ace (Ajax.org Cloud9 Editor)|23632|25-9-2021|  
-|184|[bat](https://github.com/sharkdp/bat.git)|A cat(1) clone with wings.|29546|27-9-2021|  
+|184|[bat](https://github.com/sharkdp/bat.git)|A cat(1) clone with wings.|29547|27-9-2021|  
 |185|[awesome-hyper](https://github.com/bnb/awesome-hyper.git)|🖥 Delightful Hyper plugins, themes, and resources|9605|19-9-2021|  
 |186|[hyper](https://github.com/vercel/hyper.git)|A terminal built on web technologies|36842|27-9-2021|  
 |187|[troposphere](https://github.com/cloudtools/troposphere.git)|troposphere - Python library to create AWS CloudFormation descriptions|4551|24-9-2021|  
