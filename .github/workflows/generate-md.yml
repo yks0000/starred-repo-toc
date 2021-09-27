@@ -9,6 +9,7 @@ on:
 
 jobs:
   build:
+    name: Generate Markdown File.
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
