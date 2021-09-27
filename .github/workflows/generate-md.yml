@@ -15,5 +15,11 @@ jobs:
       - uses: actions/setup-go@v2
         with:
           go-version: '1.17.1'
-      - run: go version
+      - name: Print Go Version
+        run: go version
+      - name: Run github-star CLI
+        run: go run main.go generate -t ${{ secrets.GH_TOKEN }} -f README.md
+      - name: Push New File
+        run: echo -e `git config --global user.name 'github-ci' && git config --global user.email 'github-ci@users.noreply.github.com' && git add README.md && git commit -am "README.md file updated with latest starred repo's" && git push`
+
 
