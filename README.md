@@ -13,7 +13,7 @@
 |7|[netdata](https://github.com/netdata/netdata.git)|Real-time performance monitoring, done right! https://www.netdata.cloud|56159|28-9-2021|  
 |8|[go-github](https://github.com/google/go-github.git)|Go library for accessing the GitHub API|7798|27-9-2021|  
 |9|[pytest](https://github.com/pytest-dev/pytest.git)|The pytest framework makes it easy to write small tests, yet scales to support complex functional testing|7786|28-9-2021|  
-|10|[devops-exercises](https://github.com/bregman-arie/devops-exercises.git)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|17002|27-9-2021|  
+|10|[devops-exercises](https://github.com/bregman-arie/devops-exercises.git)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|17004|27-9-2021|  
 |11|[terrascan](https://github.com/accurics/terrascan.git)|Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.|2471|28-9-2021|  
 |12|[yaspin](https://github.com/pavdmyt/yaspin.git)|A lightweight terminal spinner for Python with safe pipes and redirects 🎁|464|27-9-2021|  
 |13|[ora](https://github.com/sindresorhus/ora.git)|Elegant terminal spinner|7187|13-9-2021|  
@@ -49,7 +49,7 @@
 |43|[trafficserver](https://github.com/apache/trafficserver.git)|Apache Traffic Server™ is a fast, scalable and extensible HTTP/1.1 and HTTP/2 compliant caching proxy server.|1355|28-9-2021|  
 |44|[azure4everyone-samples](https://github.com/MarczakIO/azure4everyone-samples.git)|-|128|5-1-2021|  
 |45|[azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python.git)|This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. |2156|28-9-2021|  
-|46|[wtfpython](https://github.com/satwikkansal/wtfpython.git)|What the f*ck Python? 😱|27376|31-8-2021|  
+|46|[wtfpython](https://github.com/satwikkansal/wtfpython.git)|What the f*ck Python? 😱|27377|31-8-2021|  
 |47|[falcon](https://github.com/falconry/falcon.git)|The no-nonsense REST API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.|8574|27-9-2021|  
 |48|[awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications.git)|Google Cloud Platform Certification resources.|1926|26-9-2021|  
 |49|[python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot.git)|We have made you a wrapper you can't refuse|16478|27-9-2021|  
@@ -74,15 +74,15 @@
 |68|[pipenv](https://github.com/pypa/pipenv.git)| Python Development Workflow for Humans.|22306|27-9-2021|  
 |69|[crouton](https://github.com/dnschneid/crouton.git)|Chromium OS Universal Chroot Environment|7852|20-9-2021|  
 |70|[nativefier](https://github.com/nativefier/nativefier.git)|Make any web page a desktop application|28609|25-9-2021|  
-|71|[checkov](https://github.com/bridgecrewio/checkov.git)|Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.|3245|28-9-2021|  
+|71|[checkov](https://github.com/bridgecrewio/checkov.git)|Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.|3246|28-9-2021|  
 |72|[terraform-switcher](https://github.com/warrensbox/terraform-switcher.git)|A command line tool to switch between different versions of terraform  (install with homebrew and more)|729|27-9-2021|  
 |73|[python-slack-sdk](https://github.com/slackapi/python-slack-sdk.git)|Slack Developer Kit for Python|3249|21-9-2021|  
 |74|[django-health-check](https://github.com/KristianOellegaard/django-health-check.git)|a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc.|723|23-9-2021|  
-|75|[django](https://github.com/django/django.git)|The Web framework for perfectionists with deadlines.|59861|28-9-2021|  
+|75|[django](https://github.com/django/django.git)|The Web framework for perfectionists with deadlines.|59862|28-9-2021|  
 |76|[ssl-cert-check](https://github.com/Matty9191/ssl-cert-check.git)|Send notifications when SSL certificates are about to expire.|487|25-9-2021|  
-|77|[strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator.git)|Apache Kafka running on Kubernetes|2625|28-9-2021|  
+|77|[strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator.git)|Apache Kafka running on Kubernetes|2626|28-9-2021|  
 |78|[chartmuseum](https://github.com/helm/chartmuseum.git)|Host your own Helm Chart Repository|2553|26-9-2021|  
-|79|[terraformer](https://github.com/GoogleCloudPlatform/terraformer.git)|CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code|5765|27-9-2021|  
+|79|[terraformer](https://github.com/GoogleCloudPlatform/terraformer.git)|CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code|5766|27-9-2021|  
 |80|[professional-services](https://github.com/GoogleCloudPlatform/professional-services.git)|Common solutions and tools developed by Google Cloud's Professional Services team|1821|28-9-2021|  
 |81|[python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples.git)|Code samples used on cloud.google.com|5213|27-9-2021|  
 |82|[kafka-monitor](https://github.com/linkedin/kafka-monitor.git)|Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availability, offsets commit availability & latency, message loss rate and more.|1792|19-8-2021|  
@@ -115,7 +115,7 @@
 |109|[nicstat](https://github.com/scotte/nicstat.git)|Fork of https://sourceforge.net/projects/nicstat/ to fix bugs|52|9-5-2018|  
 |110|[FlameGraph](https://github.com/brendangregg/FlameGraph.git)|Stack trace visualizer|11914|4-9-2021|  
 |111|[perf-tools](https://github.com/brendangregg/perf-tools.git)|Performance analysis tools based on Linux perf_events (aka perf) and ftrace|7786|3-8-2021|  
-|112|[linux](https://github.com/torvalds/linux.git)|Linux kernel source tree|118783|28-9-2021|  
+|112|[linux](https://github.com/torvalds/linux.git)|Linux kernel source tree|118784|28-9-2021|  
 |113|[interview](https://github.com/mission-peace/interview.git)|Interview questions|9975|7-8-2021|  
 |114|[fastapi](https://github.com/tiangolo/fastapi.git)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|36223|28-9-2021|  
 |115|[pipeline](https://github.com/tektoncd/pipeline.git)|A cloud-native Pipeline resource.|6547|28-9-2021|  
@@ -146,13 +146,13 @@
 |140|[sops](https://github.com/mozilla/sops.git)|Simple and flexible tool for managing secrets|8289|22-9-2021|  
 |141|[GoCasts](https://github.com/StephenGrider/GoCasts.git)|Companion Repo to https://www.udemy.com/go-the-complete-developers-guide/|1395|13-6-2021|  
 |142|[golang-web-dev](https://github.com/GoesToEleven/golang-web-dev.git)|-|2775|2-3-2021|  
-|143|[GolangTraining](https://github.com/GoesToEleven/GolangTraining.git)|Training for Golang (go language)|7648|24-12-2020|  
+|143|[GolangTraining](https://github.com/GoesToEleven/GolangTraining.git)|Training for Golang (go language)|7649|24-12-2020|  
 |144|[kube2iam](https://github.com/jtblin/kube2iam.git)|kube2iam  provides different AWS IAM roles for pods running on Kubernetes|1735|26-9-2021|  
 |145|[k8s-conformance](https://github.com/cncf/k8s-conformance.git)|🧪CNCF K8s Conformance Working Group|600|28-9-2021|  
 |146|[sonobuoy](https://github.com/vmware-tanzu/sonobuoy.git)|Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.|2373|23-9-2021|  
 |147|[terraform-provider-restapi](https://github.com/Mastercard/terraform-provider-restapi.git)|A terraform provider to manage objects in a RESTful API|504|6-9-2021|  
 |148|[terratest](https://github.com/gruntwork-io/terratest.git)| Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.|5620|28-9-2021|  
-|149|[terraform](https://github.com/hashicorp/terraform.git)|Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.|29085|28-9-2021|  
+|149|[terraform](https://github.com/hashicorp/terraform.git)|Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.|29087|28-9-2021|  
 |150|[pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform.git)|pre-commit git hooks to take care of Terraform configurations|1247|20-9-2021|  
 |151|[terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops.git)|Info about many of my Terraform, AWS, and DevOps projects.|212|13-5-2021|  
 |152|[terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices.git)|Terraform best practices (constantly updating)|1073|24-12-2020|  
