@@ -13,7 +13,7 @@
 |7|[netdata](https://github.com/netdata/netdata.git)|Real-time performance monitoring, done right! https://www.netdata.cloud|56162|28-9-2021|  
 |8|[go-github](https://github.com/google/go-github.git)|Go library for accessing the GitHub API|7800|28-9-2021|  
 |9|[pytest](https://github.com/pytest-dev/pytest.git)|The pytest framework makes it easy to write small tests, yet scales to support complex functional testing|7787|28-9-2021|  
-|10|[devops-exercises](https://github.com/bregman-arie/devops-exercises.git)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|17027|27-9-2021|  
+|10|[devops-exercises](https://github.com/bregman-arie/devops-exercises.git)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|17028|27-9-2021|  
 |11|[terrascan](https://github.com/accurics/terrascan.git)|Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.|2473|28-9-2021|  
 |12|[yaspin](https://github.com/pavdmyt/yaspin.git)|A lightweight terminal spinner for Python with safe pipes and redirects 🎁|464|27-9-2021|  
 |13|[ora](https://github.com/sindresorhus/ora.git)|Elegant terminal spinner|7188|13-9-2021|  
@@ -67,13 +67,13 @@
 |61|[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh.git)|🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.|133473|28-9-2021|  
 |62|[kubectx](https://github.com/ahmetb/kubectx.git)|Faster way to switch between clusters and namespaces in kubectl|11325|19-8-2021|  
 |63|[gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse.git)|A user-space file system for interacting with Google Cloud Storage|1337|13-9-2021|  
-|64|[google-api-python-client](https://github.com/googleapis/google-api-python-client.git)|🐍 The official Python client library for Google's discovery based APIs.|5082|28-9-2021|  
+|64|[google-api-python-client](https://github.com/googleapis/google-api-python-client.git)|🐍 The official Python client library for Google's discovery based APIs.|5083|28-9-2021|  
 |65|[google-cloud-python](https://github.com/googleapis/google-cloud-python.git)|Google Cloud Client Library for Python|3691|28-9-2021|  
 |66|[python-container](https://github.com/googleapis/python-container.git)|-|22|24-9-2021|  
 |67|[helmfile](https://github.com/roboll/helmfile.git)|Deploy Kubernetes Helm Charts|3378|24-9-2021|  
 |68|[pipenv](https://github.com/pypa/pipenv.git)| Python Development Workflow for Humans.|22310|27-9-2021|  
 |69|[crouton](https://github.com/dnschneid/crouton.git)|Chromium OS Universal Chroot Environment|7852|20-9-2021|  
-|70|[nativefier](https://github.com/nativefier/nativefier.git)|Make any web page a desktop application|28611|25-9-2021|  
+|70|[nativefier](https://github.com/nativefier/nativefier.git)|Make any web page a desktop application|28612|25-9-2021|  
 |71|[checkov](https://github.com/bridgecrewio/checkov.git)|Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.|3249|28-9-2021|  
 |72|[terraform-switcher](https://github.com/warrensbox/terraform-switcher.git)|A command line tool to switch between different versions of terraform  (install with homebrew and more)|730|27-9-2021|  
 |73|[python-slack-sdk](https://github.com/slackapi/python-slack-sdk.git)|Slack Developer Kit for Python|3249|21-9-2021|  
@@ -82,7 +82,7 @@
 |76|[ssl-cert-check](https://github.com/Matty9191/ssl-cert-check.git)|Send notifications when SSL certificates are about to expire.|487|25-9-2021|  
 |77|[strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator.git)|Apache Kafka running on Kubernetes|2628|28-9-2021|  
 |78|[chartmuseum](https://github.com/helm/chartmuseum.git)|Host your own Helm Chart Repository|2554|26-9-2021|  
-|79|[terraformer](https://github.com/GoogleCloudPlatform/terraformer.git)|CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code|5769|27-9-2021|  
+|79|[terraformer](https://github.com/GoogleCloudPlatform/terraformer.git)|CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code|5769|28-9-2021|  
 |80|[professional-services](https://github.com/GoogleCloudPlatform/professional-services.git)|Common solutions and tools developed by Google Cloud's Professional Services team|1823|28-9-2021|  
 |81|[python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples.git)|Code samples used on cloud.google.com|5213|28-9-2021|  
 |82|[kafka-monitor](https://github.com/linkedin/kafka-monitor.git)|Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availability, offsets commit availability & latency, message loss rate and more.|1795|19-8-2021|  
@@ -113,13 +113,13 @@
 |107|[vector](https://github.com/Netflix/vector.git)|Vector is an on-host performance monitoring framework which exposes hand picked high resolution metrics to every engineer’s browser.|3571|10-8-2021|  
 |108|[atlas](https://github.com/Netflix/atlas.git)|In-memory dimensional time series database.|2997|21-9-2021|  
 |109|[nicstat](https://github.com/scotte/nicstat.git)|Fork of https://sourceforge.net/projects/nicstat/ to fix bugs|52|9-5-2018|  
-|110|[FlameGraph](https://github.com/brendangregg/FlameGraph.git)|Stack trace visualizer|11916|4-9-2021|  
+|110|[FlameGraph](https://github.com/brendangregg/FlameGraph.git)|Stack trace visualizer|11917|4-9-2021|  
 |111|[perf-tools](https://github.com/brendangregg/perf-tools.git)|Performance analysis tools based on Linux perf_events (aka perf) and ftrace|7787|3-8-2021|  
 |112|[linux](https://github.com/torvalds/linux.git)|Linux kernel source tree|118798|28-9-2021|  
 |113|[interview](https://github.com/mission-peace/interview.git)|Interview questions|9976|7-8-2021|  
 |114|[fastapi](https://github.com/tiangolo/fastapi.git)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|36231|28-9-2021|  
 |115|[pipeline](https://github.com/tektoncd/pipeline.git)|A cloud-native Pipeline resource.|6548|28-9-2021|  
-|116|[backstage](https://github.com/backstage/backstage.git)|Backstage is an open platform for building developer portals|13130|28-9-2021|  
+|116|[backstage](https://github.com/backstage/backstage.git)|Backstage is an open platform for building developer portals|13131|28-9-2021|  
 |117|[argo-events](https://github.com/argoproj/argo-events.git)|Event-driven workflow automation framework|1167|27-9-2021|  
 |118|[what-happens-when](https://github.com/alex/what-happens-when.git)|An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"|30979|13-9-2021|  
 |119|[service-fabric](https://github.com/microsoft/service-fabric.git)|Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.|2872|9-9-2021|  
@@ -163,10 +163,10 @@
 |157|[awesome-python-applications](https://github.com/mahmoud/awesome-python-applications.git)|💿 Free software that works great, and also happens to be open-source Python. |13062|11-9-2021|  
 |158|[Python-Sample-Application](https://github.com/uber/Python-Sample-Application.git)|-|349|20-9-2021|  
 |159|[grequests](https://github.com/spyoungtech/grequests.git)|Requests + Gevent = <3|3861|5-4-2020|  
-|160|[opencv](https://github.com/opencv/opencv.git)|Open Source Computer Vision Library|56964|28-9-2021|  
+|160|[opencv](https://github.com/opencv/opencv.git)|Open Source Computer Vision Library|56963|28-9-2021|  
 |161|[opencv-python](https://github.com/opencv/opencv-python.git)|Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.|2219|21-9-2021|  
 |162|[game_control](https://github.com/ChoudharyChanchal/game_control.git)|-|749|30-9-2020|  
-|163|[howdoi](https://github.com/gleitz/howdoi.git)|instant coding answers via the command line|9111|25-9-2021|  
+|163|[howdoi](https://github.com/gleitz/howdoi.git)|instant coding answers via the command line|9112|25-9-2021|  
 |164|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|118747|28-9-2021|  
 |165|[managers-playbook](https://github.com/ksindi/managers-playbook.git)|:book: Heuristics for effective management|4420|3-8-2021|  
 |166|[tqdm](https://github.com/tqdm/tqdm.git)|A Fast, Extensible Progress Bar for Python and CLI|19567|26-9-2021|  
