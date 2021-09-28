@@ -64,13 +64,13 @@
 |58|[x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter.git)|A Prometheus exporter to monitor x509 certificates expiration in Kubernetes clusters or standalone|118|31-8-2021|  
 |59|[pulumi](https://github.com/pulumi/pulumi.git)|Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀|10024|28-9-2021|  
 |60|[envoy](https://github.com/envoyproxy/envoy.git)|Cloud-native high-performance edge/middle/service proxy|18034|28-9-2021|  
-|61|[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh.git)|🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.|133473|28-9-2021|  
+|61|[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh.git)|🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.|133474|28-9-2021|  
 |62|[kubectx](https://github.com/ahmetb/kubectx.git)|Faster way to switch between clusters and namespaces in kubectl|11325|19-8-2021|  
 |63|[gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse.git)|A user-space file system for interacting with Google Cloud Storage|1337|13-9-2021|  
 |64|[google-api-python-client](https://github.com/googleapis/google-api-python-client.git)|🐍 The official Python client library for Google's discovery based APIs.|5083|28-9-2021|  
 |65|[google-cloud-python](https://github.com/googleapis/google-cloud-python.git)|Google Cloud Client Library for Python|3691|28-9-2021|  
 |66|[python-container](https://github.com/googleapis/python-container.git)|-|22|24-9-2021|  
-|67|[helmfile](https://github.com/roboll/helmfile.git)|Deploy Kubernetes Helm Charts|3378|24-9-2021|  
+|67|[helmfile](https://github.com/roboll/helmfile.git)|Deploy Kubernetes Helm Charts|3379|24-9-2021|  
 |68|[pipenv](https://github.com/pypa/pipenv.git)| Python Development Workflow for Humans.|22310|27-9-2021|  
 |69|[crouton](https://github.com/dnschneid/crouton.git)|Chromium OS Universal Chroot Environment|7852|20-9-2021|  
 |70|[nativefier](https://github.com/nativefier/nativefier.git)|Make any web page a desktop application|28612|25-9-2021|  
@@ -99,7 +99,7 @@
 |93|[udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui.git)|A desktop application for downloading Udemy Courses|5359|9-9-2021|  
 |94|[moto](https://github.com/spulec/moto.git)|A library that allows you to easily mock out tests based on AWS infrastructure.|5199|28-9-2021|  
 |95|[nuclei](https://github.com/projectdiscovery/nuclei.git)|Fast and customizable vulnerability scanner based on simple YAML based DSL.|5313|27-9-2021|  
-|96|[school-of-sre](https://github.com/linkedin/school-of-sre.git)|At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.|4986|12-9-2021|  
+|96|[school-of-sre](https://github.com/linkedin/school-of-sre.git)|At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.|4987|12-9-2021|  
 |97|[redis-datasets](https://github.com/redis-developer/redis-datasets.git)|A Curated List of Sample Redis Datasets|20|2-8-2021|  
 |98|[snyk](https://github.com/snyk/snyk.git)|Snyk CLI scans and monitors your projects for security vulnerabilities.|3398|28-9-2021|  
 |99|[learn-python3](https://github.com/jerry-git/learn-python3.git)|Jupyter notebooks for teaching/learning Python 3|4251|13-7-2021|  
@@ -135,7 +135,7 @@
 |129|[30-Days-of-Code](https://github.com/xeoneux/30-Days-of-Code.git)|👨‍💻 30 Days of Code by HackerRank Solutions in C++, C#, F#, Go, Java, JavaScript, Python, Ruby, Swift & TypeScript. PRs Welcome! 😄|599|17-8-2021|  
 |130|[geeksforgeeks.pdf](https://github.com/dufferzafar/geeksforgeeks.pdf.git)|Topic wise PDFs of Geeks for Geeks articles. (Last updated in October 2018)|486|7-1-2021|  
 |131|[python-patterns](https://github.com/faif/python-patterns.git)|A collection of design patterns/idioms in Python|29318|7-7-2021|  
-|132|[system-design-primer](https://github.com/donnemartin/system-design-primer.git)|Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.|145305|24-9-2021|  
+|132|[system-design-primer](https://github.com/donnemartin/system-design-primer.git)|Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.|145306|24-9-2021|  
 |133|[wrk2](https://github.com/giltene/wrk2.git)|A constant throughput, correct latency recording variant of wrk|3183|23-6-2021|  
 |134|[wrk](https://github.com/wg/wrk.git)|Modern HTTP benchmarking tool|30244|28-7-2021|  
 |135|[mux](https://github.com/gorilla/mux.git)|A powerful HTTP router and URL matcher for building Go web servers with 🦍|15186|14-9-2021|  
@@ -190,7 +190,7 @@
 |184|[ace](https://github.com/ajaxorg/ace.git)|Ace (Ajax.org Cloud9 Editor)|23637|28-9-2021|  
 |185|[bat](https://github.com/sharkdp/bat.git)|A cat(1) clone with wings.|29555|28-9-2021|  
 |186|[awesome-hyper](https://github.com/bnb/awesome-hyper.git)|🖥 Delightful Hyper plugins, themes, and resources|9604|19-9-2021|  
-|187|[hyper](https://github.com/vercel/hyper.git)|A terminal built on web technologies|36853|27-9-2021|  
+|187|[hyper](https://github.com/vercel/hyper.git)|A terminal built on web technologies|36854|27-9-2021|  
 |188|[troposphere](https://github.com/cloudtools/troposphere.git)|troposphere - Python library to create AWS CloudFormation descriptions|4552|24-9-2021|  
 |189|[kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way.git)|Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.|28320|17-7-2021|  
 |190|[sanic-prometheus](https://github.com/dkruchinin/sanic-prometheus.git)|Prometheus metrics for Sanic,  an async python web server|66|12-10-2020|  
