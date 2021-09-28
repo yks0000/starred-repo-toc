@@ -13,7 +13,7 @@
 |7|[netdata](https://github.com/netdata/netdata.git)|Real-time performance monitoring, done right! https://www.netdata.cloud|56153|28-9-2021|  
 |8|[go-github](https://github.com/google/go-github.git)|Go library for accessing the GitHub API|7798|27-9-2021|  
 |9|[pytest](https://github.com/pytest-dev/pytest.git)|The pytest framework makes it easy to write small tests, yet scales to support complex functional testing|7784|28-9-2021|  
-|10|[devops-exercises](https://github.com/bregman-arie/devops-exercises.git)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|16972|27-9-2021|  
+|10|[devops-exercises](https://github.com/bregman-arie/devops-exercises.git)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|16973|27-9-2021|  
 |11|[terrascan](https://github.com/accurics/terrascan.git)|Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.|2466|27-9-2021|  
 |12|[yaspin](https://github.com/pavdmyt/yaspin.git)|A lightweight terminal spinner for Python with safe pipes and redirects 🎁|464|27-9-2021|  
 |13|[ora](https://github.com/sindresorhus/ora.git)|Elegant terminal spinner|7186|13-9-2021|  
@@ -63,7 +63,7 @@
 |57|[truffleHog](https://github.com/trufflesecurity/truffleHog.git)|Searches through git repositories for high entropy strings and secrets, digging deep into commit history|5996|16-9-2021|  
 |58|[x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter.git)|A Prometheus exporter to monitor x509 certificates expiration in Kubernetes clusters or standalone|118|31-8-2021|  
 |59|[pulumi](https://github.com/pulumi/pulumi.git)|Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀|10007|28-9-2021|  
-|60|[envoy](https://github.com/envoyproxy/envoy.git)|Cloud-native high-performance edge/middle/service proxy|18024|28-9-2021|  
+|60|[envoy](https://github.com/envoyproxy/envoy.git)|Cloud-native high-performance edge/middle/service proxy|18025|28-9-2021|  
 |61|[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh.git)|🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.|133438|27-9-2021|  
 |62|[kubectx](https://github.com/ahmetb/kubectx.git)|Faster way to switch between clusters and namespaces in kubectl|11319|19-8-2021|  
 |63|[gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse.git)|A user-space file system for interacting with Google Cloud Storage|1335|13-9-2021|  
@@ -98,7 +98,7 @@
 |92|[thefuck](https://github.com/nvbn/thefuck.git)|Magnificent app which corrects your previous console command.|64023|17-9-2021|  
 |93|[udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui.git)|A desktop application for downloading Udemy Courses|5356|9-9-2021|  
 |94|[moto](https://github.com/spulec/moto.git)|A library that allows you to easily mock out tests based on AWS infrastructure.|5194|27-9-2021|  
-|95|[nuclei](https://github.com/projectdiscovery/nuclei.git)|Fast and customizable vulnerability scanner based on simple YAML based DSL.|5304|27-9-2021|  
+|95|[nuclei](https://github.com/projectdiscovery/nuclei.git)|Fast and customizable vulnerability scanner based on simple YAML based DSL.|5305|27-9-2021|  
 |96|[school-of-sre](https://github.com/linkedin/school-of-sre.git)|At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.|4985|12-9-2021|  
 |97|[redis-datasets](https://github.com/redis-developer/redis-datasets.git)|A Curated List of Sample Redis Datasets|20|2-8-2021|  
 |98|[snyk](https://github.com/snyk/snyk.git)|Snyk CLI scans and monitors your projects for security vulnerabilities.|3396|27-9-2021|  
@@ -134,7 +134,7 @@
 |128|[codebytere.github.io](https://github.com/codebytere/codebytere.github.io.git)|personal website|403|10-5-2021|  
 |129|[30-Days-of-Code](https://github.com/xeoneux/30-Days-of-Code.git)|👨‍💻 30 Days of Code by HackerRank Solutions in C++, C#, F#, Go, Java, JavaScript, Python, Ruby, Swift & TypeScript. PRs Welcome! 😄|599|17-8-2021|  
 |130|[geeksforgeeks.pdf](https://github.com/dufferzafar/geeksforgeeks.pdf.git)|Topic wise PDFs of Geeks for Geeks articles. (Last updated in October 2018)|486|7-1-2021|  
-|131|[python-patterns](https://github.com/faif/python-patterns.git)|A collection of design patterns/idioms in Python|29314|7-7-2021|  
+|131|[python-patterns](https://github.com/faif/python-patterns.git)|A collection of design patterns/idioms in Python|29315|7-7-2021|  
 |132|[system-design-primer](https://github.com/donnemartin/system-design-primer.git)|Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.|145241|24-9-2021|  
 |133|[wrk2](https://github.com/giltene/wrk2.git)|A constant throughput, correct latency recording variant of wrk|3182|23-6-2021|  
 |134|[wrk](https://github.com/wg/wrk.git)|Modern HTTP benchmarking tool|30240|28-7-2021|  
@@ -167,7 +167,7 @@
 |161|[opencv-python](https://github.com/opencv/opencv-python.git)|Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.|2218|21-9-2021|  
 |162|[game_control](https://github.com/ChoudharyChanchal/game_control.git)|-|749|30-9-2020|  
 |163|[howdoi](https://github.com/gleitz/howdoi.git)|instant coding answers via the command line|9111|25-9-2021|  
-|164|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|118680|27-9-2021|  
+|164|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|118681|27-9-2021|  
 |165|[managers-playbook](https://github.com/ksindi/managers-playbook.git)|:book: Heuristics for effective management|4420|3-8-2021|  
 |166|[tqdm](https://github.com/tqdm/tqdm.git)|A Fast, Extensible Progress Bar for Python and CLI|19552|26-9-2021|  
 |167|[admiral](https://github.com/istio-ecosystem/admiral.git)|Admiral provides automatic configuration generation, syncing and service discovery for multicluster Istio service mesh|364|23-7-2021|  
@@ -188,11 +188,11 @@
 |182|[bcc](https://github.com/iovisor/bcc.git)|BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more|12629|26-9-2021|  
 |183|[fish-shell](https://github.com/fish-shell/fish-shell.git)|The user-friendly command line shell.|17427|28-9-2021|  
 |184|[ace](https://github.com/ajaxorg/ace.git)|Ace (Ajax.org Cloud9 Editor)|23636|28-9-2021|  
-|185|[bat](https://github.com/sharkdp/bat.git)|A cat(1) clone with wings.|29550|27-9-2021|  
-|186|[awesome-hyper](https://github.com/bnb/awesome-hyper.git)|🖥 Delightful Hyper plugins, themes, and resources|9605|19-9-2021|  
-|187|[hyper](https://github.com/vercel/hyper.git)|A terminal built on web technologies|36848|27-9-2021|  
+|185|[bat](https://github.com/sharkdp/bat.git)|A cat(1) clone with wings.|29551|27-9-2021|  
+|186|[awesome-hyper](https://github.com/bnb/awesome-hyper.git)|🖥 Delightful Hyper plugins, themes, and resources|9604|19-9-2021|  
+|187|[hyper](https://github.com/vercel/hyper.git)|A terminal built on web technologies|36847|27-9-2021|  
 |188|[troposphere](https://github.com/cloudtools/troposphere.git)|troposphere - Python library to create AWS CloudFormation descriptions|4551|24-9-2021|  
-|189|[kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way.git)|Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.|28308|17-7-2021|  
+|189|[kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way.git)|Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.|28309|17-7-2021|  
 |190|[sanic-prometheus](https://github.com/dkruchinin/sanic-prometheus.git)|Prometheus metrics for Sanic,  an async python web server|66|12-10-2020|  
 |191|[traefik](https://github.com/traefik/traefik.git)|The Cloud Native Application Proxy|35167|28-9-2021|  
 |192|[aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller.git)|A Kubernetes controller for Elastic Load Balancers|2462|26-9-2021|  
