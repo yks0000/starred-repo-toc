@@ -12,7 +12,7 @@
 |6|[blackfriday](https://github.com/russross/blackfriday.git)|Blackfriday: a markdown processor for Go|4797|8-9-2021|  
 |7|[goldmark](https://github.com/yuin/goldmark.git)|:trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.|1717|12-9-2021|  
 |8|[netdata](https://github.com/netdata/netdata.git)|Real-time performance monitoring, done right! https://www.netdata.cloud|56175|29-9-2021|  
-|9|[go-github](https://github.com/google/go-github.git)|Go library for accessing the GitHub API|7799|29-9-2021|  
+|9|[go-github](https://github.com/google/go-github.git)|Go library for accessing the GitHub API|7800|29-9-2021|  
 |10|[pytest](https://github.com/pytest-dev/pytest.git)|The pytest framework makes it easy to write small tests, yet scales to support complex functional testing|7793|29-9-2021|  
 |11|[devops-exercises](https://github.com/bregman-arie/devops-exercises.git)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|17082|27-9-2021|  
 |12|[terrascan](https://github.com/accurics/terrascan.git)|Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.|2475|28-9-2021|  
@@ -26,7 +26,7 @@
 |20|[terminalizer](https://github.com/faressoft/terminalizer.git)|🦄 Record your terminal and generate animated gif images or share a web player|11959|10-6-2021|  
 |21|[doitlive](https://github.com/sloria/doitlive.git)|Because sometimes you need to do it live|3033|27-7-2021|  
 |22|[forcediphttpsadapter](https://github.com/Roadmaster/forcediphttpsadapter.git)|A requests TransportAdapter allowing to force a specific IP for HTTPS connections.|35|4-8-2021|  
-|23|[MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer.git)|An all-round MQTT client that provides a structured topic overview|1435|20-9-2021|  
+|23|[MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer.git)|An all-round MQTT client that provides a structured topic overview|1436|20-9-2021|  
 |24|[google-maps-services-python](https://github.com/googlemaps/google-maps-services-python.git)|Python client library for Google Maps API Web Services|3361|6-9-2021|  
 |25|[faker](https://github.com/joke2k/faker.git)|Faker is a Python package that generates fake data for you.|13104|28-9-2021|  
 |26|[onedev](https://github.com/theonedev/onedev.git)|Super Easy All-In-One DevOps Platform|4592|29-9-2021|  
@@ -52,7 +52,7 @@
 |46|[azure-sdk-for-python](https://github.com/Azure/azure-sdk-for-python.git)|This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. |2160|29-9-2021|  
 |47|[wtfpython](https://github.com/satwikkansal/wtfpython.git)|What the f*ck Python? 😱|27385|31-8-2021|  
 |48|[falcon](https://github.com/falconry/falcon.git)|The no-nonsense REST API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale.|8576|28-9-2021|  
-|49|[awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications.git)|Google Cloud Platform Certification resources.|1929|26-9-2021|  
+|49|[awesome-gcp-certifications](https://github.com/sathishvj/awesome-gcp-certifications.git)|Google Cloud Platform Certification resources.|1930|26-9-2021|  
 |50|[python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot.git)|We have made you a wrapper you can't refuse|16489|28-9-2021|  
 |51|[predictive-horizontal-pod-autoscaler](https://github.com/jthomperoo/predictive-horizontal-pod-autoscaler.git)|Horizontal Pod Autoscaler built with predictive abilities using statistical models|154|31-8-2021|  
 |52|[octodns](https://github.com/octodns/octodns.git)|Tools for managing DNS across multiple providers|2043|29-9-2021|  
@@ -96,7 +96,7 @@
 |90|[k2tf](https://github.com/sl1pm4t/k2tf.git)|Kubernetes YAML to Terraform HCL converter|592|30-7-2020|  
 |91|[chaos-mesh](https://github.com/chaos-mesh/chaos-mesh.git)|A Chaos Engineering Platform for Kubernetes.|3996|29-9-2021|  
 |92|[awless](https://github.com/wallix/awless.git)|A Mighty CLI for AWS|4802|24-3-2021|  
-|93|[thefuck](https://github.com/nvbn/thefuck.git)|Magnificent app which corrects your previous console command.|64046|17-9-2021|  
+|93|[thefuck](https://github.com/nvbn/thefuck.git)|Magnificent app which corrects your previous console command.|64047|17-9-2021|  
 |94|[udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui.git)|A desktop application for downloading Udemy Courses|5362|9-9-2021|  
 |95|[moto](https://github.com/spulec/moto.git)|A library that allows you to easily mock out tests based on AWS infrastructure.|5200|29-9-2021|  
 |96|[nuclei](https://github.com/projectdiscovery/nuclei.git)|Fast and customizable vulnerability scanner based on simple YAML based DSL.|5324|29-9-2021|  
@@ -105,7 +105,7 @@
 |99|[snyk](https://github.com/snyk/snyk.git)|Snyk CLI scans and monitors your projects for security vulnerabilities.|3400|29-9-2021|  
 |100|[learn-python3](https://github.com/jerry-git/learn-python3.git)|Jupyter notebooks for teaching/learning Python 3|4252|13-7-2021|  
 |101|[learn-python](https://github.com/trekhleb/learn-python.git)|📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.|10849|10-8-2021|  
-|102|[30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python.git)|30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. |7556|26-9-2021|  
+|102|[30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python.git)|30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. |7557|26-9-2021|  
 |103|[interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges.git)|120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.|23781|11-4-2021|  
 |104|[grumpy](https://github.com/giantswarm/grumpy.git)|Kubernetes Validation Admission Controller example|17|24-7-2020|  
 |105|[python-concurrency](https://github.com/volker48/python-concurrency.git)|Code examples from my toptal engineering blog article|138|7-9-2021|  
@@ -157,7 +157,7 @@
 |151|[pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform.git)|pre-commit git hooks to take care of Terraform configurations|1247|29-9-2021|  
 |152|[terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops.git)|Info about many of my Terraform, AWS, and DevOps projects.|213|13-5-2021|  
 |153|[terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices.git)|Terraform best practices (constantly updating)|1075|24-12-2020|  
-|154|[linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git)|Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test|5425|29-9-2021|  
+|154|[linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git)|Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test|5427|29-9-2021|  
 |155|[terraform-multi-account](https://github.com/inovex/terraform-multi-account.git)|Some example how toadress multiple aws accounts with Terraform|20|12-6-2018|  
 |156|[Terraform-012](https://github.com/addamstj/Terraform-012.git)|Code for the Terraform course|39|6-7-2020|  
 |157|[terraform-course](https://github.com/wardviaene/terraform-course.git)|Course files for my Udemy course about Terraform|1126|31-8-2021|  
@@ -175,13 +175,13 @@
 |169|[schema](https://github.com/keleshev/schema.git)|Schema validation just got Pythonic|2436|23-9-2021|  
 |170|[cheatsheets.pdf](https://github.com/qg0/cheatsheets.pdf.git)|📚 Various cheatsheets in PDF|183|19-3-2021|  
 |171|[fortio-operator](https://github.com/verfio/fortio-operator.git)|Load Testing Operator within the Kubernetes cluster and outside of it.|29|18-3-2019|  
-|172|[argo-rollouts](https://github.com/argoproj/argo-rollouts.git)|Progressive Delivery for Kubernetes|1140|29-9-2021|  
+|172|[argo-rollouts](https://github.com/argoproj/argo-rollouts.git)|Progressive Delivery for Kubernetes|1141|29-9-2021|  
 |173|[argo-cd](https://github.com/argoproj/argo-cd.git)|Declarative continuous deployment for Kubernetes.|7004|29-9-2021|  
 |174|[argo-workflows](https://github.com/argoproj/argo-workflows.git)|Workflow engine for Kubernetes|9348|29-9-2021|  
 |175|[sceptre](https://github.com/Sceptre/sceptre.git)|Build better AWS infrastructure|1243|28-9-2021|  
 |176|[go-leetcode](https://github.com/austingebauer/go-leetcode.git)|A collection of 100+ popular LeetCode problems solved in Go.|1665|11-3-2021|  
 |177|[fortio](https://github.com/fortio/fortio.git)|Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.|2078|13-8-2021|  
-|178|[ansible](https://github.com/ansible/ansible.git)|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.|49974|29-9-2021|  
+|178|[ansible](https://github.com/ansible/ansible.git)|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.|49975|29-9-2021|  
 |179|[Python-for-Algorithms--Data-Structures--and-Interviews](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews.git)|Files for Udemy Course on Algorithms and Data Structures|1873|31-8-2021|  
 |180|[coding-interview-university](https://github.com/jwasham/coding-interview-university.git)|A complete computer science study plan to become a software engineer.|193797|28-9-2021|  
 |181|[katran](https://github.com/facebookincubator/katran.git)|A high performance layer 4 load balancer|3297|29-9-2021|  
@@ -197,7 +197,7 @@
 |191|[sanic-prometheus](https://github.com/dkruchinin/sanic-prometheus.git)|Prometheus metrics for Sanic,  an async python web server|66|12-10-2020|  
 |192|[traefik](https://github.com/traefik/traefik.git)|The Cloud Native Application Proxy|35187|29-9-2021|  
 |193|[aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller.git)|A Kubernetes controller for Elastic Load Balancers|2463|28-9-2021|  
-|194|[project-based-learning](https://github.com/practical-tutorials/project-based-learning.git)|Curated list of project-based tutorials|56337|23-9-2021|  
+|194|[project-based-learning](https://github.com/practical-tutorials/project-based-learning.git)|Curated list of project-based tutorials|56338|23-9-2021|  
 |195|[istio](https://github.com/istio/istio.git)|Connect, secure, control, and observe services.|28092|29-9-2021|  
 |196|[typing](https://github.com/python/typing.git)|Python static typing home. Contains the source for typing_extensions and the documentation. Also hosts a user help forum.|1025|16-9-2021|  
 |197|[statsd](https://github.com/statsd/statsd.git)|Daemon for easy but powerful stats aggregation|16028|24-7-2021|  
