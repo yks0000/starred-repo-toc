@@ -71,7 +71,7 @@
 |65|[google-api-python-client](https://github.com/googleapis/google-api-python-client.git)|🐍 The official Python client library for Google's discovery based APIs.|5089|29-9-2021|  
 |66|[google-cloud-python](https://github.com/googleapis/google-cloud-python.git)|Google Cloud Client Library for Python|3691|29-9-2021|  
 |67|[python-container](https://github.com/googleapis/python-container.git)|-|22|24-9-2021|  
-|68|[helmfile](https://github.com/roboll/helmfile.git)|Deploy Kubernetes Helm Charts|3379|24-9-2021|  
+|68|[helmfile](https://github.com/roboll/helmfile.git)|Deploy Kubernetes Helm Charts|3380|24-9-2021|  
 |69|[pipenv](https://github.com/pypa/pipenv.git)| Python Development Workflow for Humans.|22310|27-9-2021|  
 |70|[crouton](https://github.com/dnschneid/crouton.git)|Chromium OS Universal Chroot Environment|7853|20-9-2021|  
 |71|[nativefier](https://github.com/nativefier/nativefier.git)|Make any web page a desktop application|28618|25-9-2021|  
@@ -144,7 +144,7 @@
 |138|[awesome-sre](https://github.com/dastergon/awesome-sre.git)|A curated list of Site Reliability and Production Engineering resources.|7368|25-9-2021|  
 |139|[sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide.git)|Site Reliability Engineer Interview Preparation Guide|2180|24-9-2021|  
 |140|[vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer.git)|An extension for VS Code that visualizes data during debugging.|7028|19-8-2021|  
-|141|[sops](https://github.com/mozilla/sops.git)|Simple and flexible tool for managing secrets|8294|22-9-2021|  
+|141|[sops](https://github.com/mozilla/sops.git)|Simple and flexible tool for managing secrets|8295|22-9-2021|  
 |142|[GoCasts](https://github.com/StephenGrider/GoCasts.git)|Companion Repo to https://www.udemy.com/go-the-complete-developers-guide/|1398|13-6-2021|  
 |143|[golang-web-dev](https://github.com/GoesToEleven/golang-web-dev.git)|-|2775|29-9-2021|  
 |144|[GolangTraining](https://github.com/GoesToEleven/GolangTraining.git)|Training for Golang (go language)|7652|24-12-2020|  
@@ -187,17 +187,17 @@
 |181|[katran](https://github.com/facebookincubator/katran.git)|A high performance layer 4 load balancer|3297|29-9-2021|  
 |182|[xdp-tutorial](https://github.com/xdp-project/xdp-tutorial.git)|XDP tutorial|966|10-9-2021|  
 |183|[bcc](https://github.com/iovisor/bcc.git)|BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more|12642|29-9-2021|  
-|184|[fish-shell](https://github.com/fish-shell/fish-shell.git)|The user-friendly command line shell.|17435|29-9-2021|  
+|184|[fish-shell](https://github.com/fish-shell/fish-shell.git)|The user-friendly command line shell.|17436|29-9-2021|  
 |185|[ace](https://github.com/ajaxorg/ace.git)|Ace (Ajax.org Cloud9 Editor)|23642|29-9-2021|  
 |186|[bat](https://github.com/sharkdp/bat.git)|A cat(1) clone with wings.|29565|29-9-2021|  
 |187|[awesome-hyper](https://github.com/bnb/awesome-hyper.git)|🖥 Delightful Hyper plugins, themes, and resources|9605|19-9-2021|  
 |188|[hyper](https://github.com/vercel/hyper.git)|A terminal built on web technologies|36861|29-9-2021|  
 |189|[troposphere](https://github.com/cloudtools/troposphere.git)|troposphere - Python library to create AWS CloudFormation descriptions|4554|29-9-2021|  
-|190|[kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way.git)|Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.|28335|17-7-2021|  
+|190|[kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way.git)|Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.|28334|17-7-2021|  
 |191|[sanic-prometheus](https://github.com/dkruchinin/sanic-prometheus.git)|Prometheus metrics for Sanic,  an async python web server|66|12-10-2020|  
 |192|[traefik](https://github.com/traefik/traefik.git)|The Cloud Native Application Proxy|35188|29-9-2021|  
 |193|[aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller.git)|A Kubernetes controller for Elastic Load Balancers|2464|29-9-2021|  
-|194|[project-based-learning](https://github.com/practical-tutorials/project-based-learning.git)|Curated list of project-based tutorials|56343|23-9-2021|  
+|194|[project-based-learning](https://github.com/practical-tutorials/project-based-learning.git)|Curated list of project-based tutorials|56344|23-9-2021|  
 |195|[istio](https://github.com/istio/istio.git)|Connect, secure, control, and observe services.|28092|29-9-2021|  
 |196|[typing](https://github.com/python/typing.git)|Python static typing home. Contains the source for typing_extensions and the documentation. Also hosts a user help forum.|1025|16-9-2021|  
 |197|[statsd](https://github.com/statsd/statsd.git)|Daemon for easy but powerful stats aggregation|16028|24-7-2021|  
