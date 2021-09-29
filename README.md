@@ -65,7 +65,7 @@
 |59|[x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter.git)|A Prometheus exporter to monitor x509 certificates expiration in Kubernetes clusters or standalone|118|31-8-2021|  
 |60|[pulumi](https://github.com/pulumi/pulumi.git)|Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀|10037|29-9-2021|  
 |61|[envoy](https://github.com/envoyproxy/envoy.git)|Cloud-native high-performance edge/middle/service proxy|18039|29-9-2021|  
-|62|[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh.git)|🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.|133514|29-9-2021|  
+|62|[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh.git)|🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.|133515|29-9-2021|  
 |63|[kubectx](https://github.com/ahmetb/kubectx.git)|Faster way to switch between clusters and namespaces in kubectl|11328|19-8-2021|  
 |64|[gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse.git)|A user-space file system for interacting with Google Cloud Storage|1338|13-9-2021|  
 |65|[google-api-python-client](https://github.com/googleapis/google-api-python-client.git)|🐍 The official Python client library for Google's discovery based APIs.|5089|29-9-2021|  
@@ -122,12 +122,12 @@
 |116|[pipeline](https://github.com/tektoncd/pipeline.git)|A cloud-native Pipeline resource.|6552|29-9-2021|  
 |117|[backstage](https://github.com/backstage/backstage.git)|Backstage is an open platform for building developer portals|13146|29-9-2021|  
 |118|[argo-events](https://github.com/argoproj/argo-events.git)|Event-driven workflow automation framework|1169|29-9-2021|  
-|119|[what-happens-when](https://github.com/alex/what-happens-when.git)|An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"|30988|13-9-2021|  
+|119|[what-happens-when](https://github.com/alex/what-happens-when.git)|An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"|30989|13-9-2021|  
 |120|[service-fabric](https://github.com/microsoft/service-fabric.git)|Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.|2872|9-9-2021|  
 |121|[vuls](https://github.com/future-architect/vuls.git)|Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices|8705|24-9-2021|  
 |122|[clair](https://github.com/quay/clair.git)|Vulnerability Static Analysis for Containers|8170|29-9-2021|  
 |123|[pulsar](https://github.com/apache/pulsar.git)|Apache Pulsar - distributed pub-sub messaging system|9669|29-9-2021|  
-|124|[kubernetes](https://github.com/kubernetes/kubernetes.git)|Production-Grade Container Scheduling and Management|81359|29-9-2021|  
+|124|[kubernetes](https://github.com/kubernetes/kubernetes.git)|Production-Grade Container Scheduling and Management|81360|29-9-2021|  
 |125|[resume.github.com](https://github.com/resume/resume.github.com.git)|Resumes generated using the GitHub informations|49734|20-7-2021|  
 |126|[resume-cli](https://github.com/jsonresume/resume-cli.git)|CLI tool to easily setup a new resume 📑|3930|28-9-2021|  
 |127|[aws-cloudformation-user-guide](https://github.com/awsdocs/aws-cloudformation-user-guide.git)|The open source version of the AWS CloudFormation User Guide|560|27-9-2021|  
@@ -168,7 +168,7 @@
 |162|[opencv-python](https://github.com/opencv/opencv-python.git)|Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.|2222|21-9-2021|  
 |163|[game_control](https://github.com/ChoudharyChanchal/game_control.git)|-|749|30-9-2020|  
 |164|[howdoi](https://github.com/gleitz/howdoi.git)|instant coding answers via the command line|9113|25-9-2021|  
-|165|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|118827|29-9-2021|  
+|165|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|118828|29-9-2021|  
 |166|[managers-playbook](https://github.com/ksindi/managers-playbook.git)|:book: Heuristics for effective management|4423|3-8-2021|  
 |167|[tqdm](https://github.com/tqdm/tqdm.git)|A Fast, Extensible Progress Bar for Python and CLI|19575|26-9-2021|  
 |168|[admiral](https://github.com/istio-ecosystem/admiral.git)|Admiral provides automatic configuration generation, syncing and service discovery for multicluster Istio service mesh|364|23-7-2021|  
@@ -177,13 +177,13 @@
 |171|[fortio-operator](https://github.com/verfio/fortio-operator.git)|Load Testing Operator within the Kubernetes cluster and outside of it.|29|18-3-2019|  
 |172|[argo-rollouts](https://github.com/argoproj/argo-rollouts.git)|Progressive Delivery for Kubernetes|1141|29-9-2021|  
 |173|[argo-cd](https://github.com/argoproj/argo-cd.git)|Declarative continuous deployment for Kubernetes.|7005|29-9-2021|  
-|174|[argo-workflows](https://github.com/argoproj/argo-workflows.git)|Workflow engine for Kubernetes|9348|29-9-2021|  
+|174|[argo-workflows](https://github.com/argoproj/argo-workflows.git)|Workflow engine for Kubernetes|9349|29-9-2021|  
 |175|[sceptre](https://github.com/Sceptre/sceptre.git)|Build better AWS infrastructure|1243|28-9-2021|  
 |176|[go-leetcode](https://github.com/austingebauer/go-leetcode.git)|A collection of 100+ popular LeetCode problems solved in Go.|1665|11-3-2021|  
 |177|[fortio](https://github.com/fortio/fortio.git)|Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.|2078|13-8-2021|  
 |178|[ansible](https://github.com/ansible/ansible.git)|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.|49977|29-9-2021|  
 |179|[Python-for-Algorithms--Data-Structures--and-Interviews](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews.git)|Files for Udemy Course on Algorithms and Data Structures|1873|31-8-2021|  
-|180|[coding-interview-university](https://github.com/jwasham/coding-interview-university.git)|A complete computer science study plan to become a software engineer.|193800|28-9-2021|  
+|180|[coding-interview-university](https://github.com/jwasham/coding-interview-university.git)|A complete computer science study plan to become a software engineer.|193801|28-9-2021|  
 |181|[katran](https://github.com/facebookincubator/katran.git)|A high performance layer 4 load balancer|3297|29-9-2021|  
 |182|[xdp-tutorial](https://github.com/xdp-project/xdp-tutorial.git)|XDP tutorial|966|10-9-2021|  
 |183|[bcc](https://github.com/iovisor/bcc.git)|BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more|12640|29-9-2021|  
@@ -193,7 +193,7 @@
 |187|[awesome-hyper](https://github.com/bnb/awesome-hyper.git)|🖥 Delightful Hyper plugins, themes, and resources|9605|19-9-2021|  
 |188|[hyper](https://github.com/vercel/hyper.git)|A terminal built on web technologies|36860|29-9-2021|  
 |189|[troposphere](https://github.com/cloudtools/troposphere.git)|troposphere - Python library to create AWS CloudFormation descriptions|4553|29-9-2021|  
-|190|[kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way.git)|Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.|28333|17-7-2021|  
+|190|[kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way.git)|Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.|28334|17-7-2021|  
 |191|[sanic-prometheus](https://github.com/dkruchinin/sanic-prometheus.git)|Prometheus metrics for Sanic,  an async python web server|66|12-10-2020|  
 |192|[traefik](https://github.com/traefik/traefik.git)|The Cloud Native Application Proxy|35187|29-9-2021|  
 |193|[aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller.git)|A Kubernetes controller for Elastic Load Balancers|2463|28-9-2021|  
@@ -205,7 +205,7 @@
 |199|[kapacitor](https://github.com/influxdata/kapacitor.git)|Open source framework for processing, monitoring, and alerting on time series data|2076|29-9-2021|  
 |200|[telegraf](https://github.com/influxdata/telegraf.git)|The plugin-driven server agent for collecting & reporting metrics.|10629|29-9-2021|  
 |201|[grafana](https://github.com/grafana/grafana.git)|The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. |44089|29-9-2021|  
-|202|[cobra](https://github.com/spf13/cobra.git)|A Commander for modern Go CLI interactions|23318|29-9-2021|  
+|202|[cobra](https://github.com/spf13/cobra.git)|A Commander for modern Go CLI interactions|23319|29-9-2021|  
 |203|[viper](https://github.com/spf13/viper.git)|Go configuration with fangs|16888|24-9-2021|  
 |204|[helm](https://github.com/helm/helm.git)|The Kubernetes Package Manager|20345|29-9-2021|  
 |205|[ami-query](https://github.com/intuit/ami-query.git)|Provide a REST interface to your organization's AMIs|36|5-9-2020|  
