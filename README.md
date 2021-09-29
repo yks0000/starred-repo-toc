@@ -11,10 +11,10 @@
 |5|[iris](https://github.com/kataras/iris.git)|The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel   谢谢 https://github.com/kataras/iris/issues/1329  |21236|22-9-2021|  
 |6|[blackfriday](https://github.com/russross/blackfriday.git)|Blackfriday: a markdown processor for Go|4797|8-9-2021|  
 |7|[goldmark](https://github.com/yuin/goldmark.git)|:trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.|1717|12-9-2021|  
-|8|[netdata](https://github.com/netdata/netdata.git)|Real-time performance monitoring, done right! https://www.netdata.cloud|56173|29-9-2021|  
+|8|[netdata](https://github.com/netdata/netdata.git)|Real-time performance monitoring, done right! https://www.netdata.cloud|56174|29-9-2021|  
 |9|[go-github](https://github.com/google/go-github.git)|Go library for accessing the GitHub API|7799|29-9-2021|  
 |10|[pytest](https://github.com/pytest-dev/pytest.git)|The pytest framework makes it easy to write small tests, yet scales to support complex functional testing|7792|29-9-2021|  
-|11|[devops-exercises](https://github.com/bregman-arie/devops-exercises.git)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|17074|27-9-2021|  
+|11|[devops-exercises](https://github.com/bregman-arie/devops-exercises.git)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|17075|27-9-2021|  
 |12|[terrascan](https://github.com/accurics/terrascan.git)|Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.|2475|28-9-2021|  
 |13|[yaspin](https://github.com/pavdmyt/yaspin.git)|A lightweight terminal spinner for Python with safe pipes and redirects 🎁|464|27-9-2021|  
 |14|[ora](https://github.com/sindresorhus/ora.git)|Elegant terminal spinner|7189|13-9-2021|  
@@ -23,7 +23,7 @@
 |17|[pendulum](https://github.com/sdispater/pendulum.git)|Python datetimes made easy|4547|26-9-2021|  
 |18|[python-prompt-toolkit](https://github.com/prompt-toolkit/python-prompt-toolkit.git)|Library for building powerful interactive command line applications in Python|7319|27-9-2021|  
 |19|[microsoft-authentication-library-for-python](https://github.com/AzureAD/microsoft-authentication-library-for-python.git)|Microsoft Authentication Library (MSAL) for Python makes it easy to authenticate to Azure Active Directory. These documented APIs are stable https://msal-python.readthedocs.io. If you have questions but do not have a github account, ask your questions on Stackoverflow with tag "msal" + "python".|312|29-9-2021|  
-|20|[terminalizer](https://github.com/faressoft/terminalizer.git)|🦄 Record your terminal and generate animated gif images or share a web player|11956|10-6-2021|  
+|20|[terminalizer](https://github.com/faressoft/terminalizer.git)|🦄 Record your terminal and generate animated gif images or share a web player|11957|10-6-2021|  
 |21|[doitlive](https://github.com/sloria/doitlive.git)|Because sometimes you need to do it live|3033|27-7-2021|  
 |22|[forcediphttpsadapter](https://github.com/Roadmaster/forcediphttpsadapter.git)|A requests TransportAdapter allowing to force a specific IP for HTTPS connections.|35|4-8-2021|  
 |23|[MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer.git)|An all-round MQTT client that provides a structured topic overview|1435|20-9-2021|  
@@ -65,7 +65,7 @@
 |59|[x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter.git)|A Prometheus exporter to monitor x509 certificates expiration in Kubernetes clusters or standalone|118|31-8-2021|  
 |60|[pulumi](https://github.com/pulumi/pulumi.git)|Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀|10034|29-9-2021|  
 |61|[envoy](https://github.com/envoyproxy/envoy.git)|Cloud-native high-performance edge/middle/service proxy|18039|29-9-2021|  
-|62|[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh.git)|🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.|133504|28-9-2021|  
+|62|[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh.git)|🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.|133505|28-9-2021|  
 |63|[kubectx](https://github.com/ahmetb/kubectx.git)|Faster way to switch between clusters and namespaces in kubectl|11327|19-8-2021|  
 |64|[gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse.git)|A user-space file system for interacting with Google Cloud Storage|1337|13-9-2021|  
 |65|[google-api-python-client](https://github.com/googleapis/google-api-python-client.git)|🐍 The official Python client library for Google's discovery based APIs.|5088|29-9-2021|  
@@ -79,13 +79,13 @@
 |73|[terraform-switcher](https://github.com/warrensbox/terraform-switcher.git)|A command line tool to switch between different versions of terraform  (install with homebrew and more)|731|27-9-2021|  
 |74|[python-slack-sdk](https://github.com/slackapi/python-slack-sdk.git)|Slack Developer Kit for Python|3250|21-9-2021|  
 |75|[django-health-check](https://github.com/KristianOellegaard/django-health-check.git)|a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc.|724|23-9-2021|  
-|76|[django](https://github.com/django/django.git)|The Web framework for perfectionists with deadlines.|59893|29-9-2021|  
+|76|[django](https://github.com/django/django.git)|The Web framework for perfectionists with deadlines.|59894|29-9-2021|  
 |77|[ssl-cert-check](https://github.com/Matty9191/ssl-cert-check.git)|Send notifications when SSL certificates are about to expire.|487|25-9-2021|  
-|78|[strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator.git)|Apache Kafka running on Kubernetes|2630|29-9-2021|  
+|78|[strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator.git)|Apache Kafka running on Kubernetes|2631|29-9-2021|  
 |79|[chartmuseum](https://github.com/helm/chartmuseum.git)|Host your own Helm Chart Repository|2555|26-9-2021|  
 |80|[terraformer](https://github.com/GoogleCloudPlatform/terraformer.git)|CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code|5773|29-9-2021|  
 |81|[professional-services](https://github.com/GoogleCloudPlatform/professional-services.git)|Common solutions and tools developed by Google Cloud's Professional Services team|1825|29-9-2021|  
-|82|[python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples.git)|Code samples used on cloud.google.com|5214|29-9-2021|  
+|82|[python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples.git)|Code samples used on cloud.google.com|5215|29-9-2021|  
 |83|[kafka-monitor](https://github.com/linkedin/kafka-monitor.git)|Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availability, offsets commit availability & latency, message loss rate and more.|1795|19-8-2021|  
 |84|[cost-model](https://github.com/kubecost/cost-model.git)|Cross-cloud cost allocation models for Kubernetes workloads|1547|28-9-2021|  
 |85|[flask](https://github.com/pallets/flask.git)|The Python micro framework for building web applications.|56753|29-9-2021|  
@@ -96,7 +96,7 @@
 |90|[k2tf](https://github.com/sl1pm4t/k2tf.git)|Kubernetes YAML to Terraform HCL converter|592|30-7-2020|  
 |91|[chaos-mesh](https://github.com/chaos-mesh/chaos-mesh.git)|A Chaos Engineering Platform for Kubernetes.|3995|29-9-2021|  
 |92|[awless](https://github.com/wallix/awless.git)|A Mighty CLI for AWS|4802|24-3-2021|  
-|93|[thefuck](https://github.com/nvbn/thefuck.git)|Magnificent app which corrects your previous console command.|64044|17-9-2021|  
+|93|[thefuck](https://github.com/nvbn/thefuck.git)|Magnificent app which corrects your previous console command.|64045|17-9-2021|  
 |94|[udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui.git)|A desktop application for downloading Udemy Courses|5362|9-9-2021|  
 |95|[moto](https://github.com/spulec/moto.git)|A library that allows you to easily mock out tests based on AWS infrastructure.|5200|29-9-2021|  
 |96|[nuclei](https://github.com/projectdiscovery/nuclei.git)|Fast and customizable vulnerability scanner based on simple YAML based DSL.|5324|28-9-2021|  
@@ -105,7 +105,7 @@
 |99|[snyk](https://github.com/snyk/snyk.git)|Snyk CLI scans and monitors your projects for security vulnerabilities.|3400|29-9-2021|  
 |100|[learn-python3](https://github.com/jerry-git/learn-python3.git)|Jupyter notebooks for teaching/learning Python 3|4252|13-7-2021|  
 |101|[learn-python](https://github.com/trekhleb/learn-python.git)|📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.|10849|10-8-2021|  
-|102|[30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python.git)|30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. |7554|26-9-2021|  
+|102|[30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python.git)|30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. |7556|26-9-2021|  
 |103|[interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges.git)|120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.|23780|11-4-2021|  
 |104|[grumpy](https://github.com/giantswarm/grumpy.git)|Kubernetes Validation Admission Controller example|17|24-7-2020|  
 |105|[python-concurrency](https://github.com/volker48/python-concurrency.git)|Code examples from my toptal engineering blog article|138|7-9-2021|  
@@ -116,19 +116,19 @@
 |110|[nicstat](https://github.com/scotte/nicstat.git)|Fork of https://sourceforge.net/projects/nicstat/ to fix bugs|52|9-5-2018|  
 |111|[FlameGraph](https://github.com/brendangregg/FlameGraph.git)|Stack trace visualizer|11923|4-9-2021|  
 |112|[perf-tools](https://github.com/brendangregg/perf-tools.git)|Performance analysis tools based on Linux perf_events (aka perf) and ftrace|7787|3-8-2021|  
-|113|[linux](https://github.com/torvalds/linux.git)|Linux kernel source tree|118840|29-9-2021|  
+|113|[linux](https://github.com/torvalds/linux.git)|Linux kernel source tree|118841|29-9-2021|  
 |114|[interview](https://github.com/mission-peace/interview.git)|Interview questions|9976|7-8-2021|  
 |115|[fastapi](https://github.com/tiangolo/fastapi.git)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|36247|29-9-2021|  
 |116|[pipeline](https://github.com/tektoncd/pipeline.git)|A cloud-native Pipeline resource.|6552|29-9-2021|  
 |117|[backstage](https://github.com/backstage/backstage.git)|Backstage is an open platform for building developer portals|13143|29-9-2021|  
 |118|[argo-events](https://github.com/argoproj/argo-events.git)|Event-driven workflow automation framework|1169|29-9-2021|  
-|119|[what-happens-when](https://github.com/alex/what-happens-when.git)|An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"|30985|13-9-2021|  
+|119|[what-happens-when](https://github.com/alex/what-happens-when.git)|An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"|30986|13-9-2021|  
 |120|[service-fabric](https://github.com/microsoft/service-fabric.git)|Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.|2872|9-9-2021|  
 |121|[vuls](https://github.com/future-architect/vuls.git)|Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices|8705|24-9-2021|  
 |122|[clair](https://github.com/quay/clair.git)|Vulnerability Static Analysis for Containers|8169|29-9-2021|  
 |123|[pulsar](https://github.com/apache/pulsar.git)|Apache Pulsar - distributed pub-sub messaging system|9668|29-9-2021|  
-|124|[kubernetes](https://github.com/kubernetes/kubernetes.git)|Production-Grade Container Scheduling and Management|81353|29-9-2021|  
-|125|[resume.github.com](https://github.com/resume/resume.github.com.git)|Resumes generated using the GitHub informations|49733|20-7-2021|  
+|124|[kubernetes](https://github.com/kubernetes/kubernetes.git)|Production-Grade Container Scheduling and Management|81354|29-9-2021|  
+|125|[resume.github.com](https://github.com/resume/resume.github.com.git)|Resumes generated using the GitHub informations|49734|20-7-2021|  
 |126|[resume-cli](https://github.com/jsonresume/resume-cli.git)|CLI tool to easily setup a new resume 📑|3930|28-9-2021|  
 |127|[aws-cloudformation-user-guide](https://github.com/awsdocs/aws-cloudformation-user-guide.git)|The open source version of the AWS CloudFormation User Guide|560|27-9-2021|  
 |128|[blockly](https://github.com/google/blockly.git)|The web-based visual programming editor.|9600|29-9-2021|  
@@ -168,7 +168,7 @@
 |162|[opencv-python](https://github.com/opencv/opencv-python.git)|Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.|2221|21-9-2021|  
 |163|[game_control](https://github.com/ChoudharyChanchal/game_control.git)|-|749|30-9-2020|  
 |164|[howdoi](https://github.com/gleitz/howdoi.git)|instant coding answers via the command line|9113|25-9-2021|  
-|165|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|118812|29-9-2021|  
+|165|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|118813|29-9-2021|  
 |166|[managers-playbook](https://github.com/ksindi/managers-playbook.git)|:book: Heuristics for effective management|4422|3-8-2021|  
 |167|[tqdm](https://github.com/tqdm/tqdm.git)|A Fast, Extensible Progress Bar for Python and CLI|19572|26-9-2021|  
 |168|[admiral](https://github.com/istio-ecosystem/admiral.git)|Admiral provides automatic configuration generation, syncing and service discovery for multicluster Istio service mesh|364|23-7-2021|  
@@ -209,7 +209,7 @@
 |203|[viper](https://github.com/spf13/viper.git)|Go configuration with fangs|16888|24-9-2021|  
 |204|[helm](https://github.com/helm/helm.git)|The Kubernetes Package Manager|20344|29-9-2021|  
 |205|[ami-query](https://github.com/intuit/ami-query.git)|Provide a REST interface to your organization's AMIs|36|5-9-2020|  
-|206|[awesome-python](https://github.com/vinta/awesome-python.git)|A curated list of awesome Python frameworks, libraries, software and resources|103006|26-9-2021|  
+|206|[awesome-python](https://github.com/vinta/awesome-python.git)|A curated list of awesome Python frameworks, libraries, software and resources|103007|26-9-2021|  
 |207|[keras-yolo2](https://github.com/experiencor/keras-yolo2.git)|Easy training on custom dataset. Various backends (MobileNet and SqueezeNet) supported. A YOLO demo to detect raccoon run entirely in brower is accessible at https://git.io/vF7vI (not on Windows).|1689|25-8-2021|  
 |208|[hygieia](https://github.com/hygieia/hygieia.git)|CapitalOne  DevOps Dashboard|3647|23-9-2021|  
 |209|[cli53](https://github.com/barnybug/cli53.git)|Command line tool for Amazon Route 53|1698|25-3-2021|  
