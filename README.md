@@ -27,7 +27,7 @@
 |21|[doitlive](https://github.com/sloria/doitlive.git)|Because sometimes you need to do it live|3033|27-7-2021|  
 |22|[forcediphttpsadapter](https://github.com/Roadmaster/forcediphttpsadapter.git)|A requests TransportAdapter allowing to force a specific IP for HTTPS connections.|35|4-8-2021|  
 |23|[MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer.git)|An all-round MQTT client that provides a structured topic overview|1436|20-9-2021|  
-|24|[google-maps-services-python](https://github.com/googlemaps/google-maps-services-python.git)|Python client library for Google Maps API Web Services|3361|6-9-2021|  
+|24|[google-maps-services-python](https://github.com/googlemaps/google-maps-services-python.git)|Python client library for Google Maps API Web Services|3362|6-9-2021|  
 |25|[faker](https://github.com/joke2k/faker.git)|Faker is a Python package that generates fake data for you.|13105|28-9-2021|  
 |26|[onedev](https://github.com/theonedev/onedev.git)|Super Easy All-In-One DevOps Platform|4592|29-9-2021|  
 |27|[flamethrower](https://github.com/DNS-OARC/flamethrower.git)|a DNS performance and functional testing utility supporting UDP, TCP, DoT and DoH (by @ns1labs)|234|20-9-2021|  
@@ -93,7 +93,7 @@
 |87|[metallb](https://github.com/metallb/metallb.git)|A network load-balancer implementation for Kubernetes using standard routing protocols|4108|29-9-2021|  
 |88|[auto](https://github.com/intuit/auto.git)|Generate releases based on semantic version labels on pull requests.|1319|27-9-2021|  
 |89|[cruise-control](https://github.com/linkedin/cruise-control.git)|Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters.|1969|29-9-2021|  
-|90|[k2tf](https://github.com/sl1pm4t/k2tf.git)|Kubernetes YAML to Terraform HCL converter|592|30-7-2020|  
+|90|[k2tf](https://github.com/sl1pm4t/k2tf.git)|Kubernetes YAML to Terraform HCL converter|593|30-7-2020|  
 |91|[chaos-mesh](https://github.com/chaos-mesh/chaos-mesh.git)|A Chaos Engineering Platform for Kubernetes.|3998|29-9-2021|  
 |92|[awless](https://github.com/wallix/awless.git)|A Mighty CLI for AWS|4802|24-3-2021|  
 |93|[thefuck](https://github.com/nvbn/thefuck.git)|Magnificent app which corrects your previous console command.|64049|17-9-2021|  
@@ -168,7 +168,7 @@
 |162|[opencv-python](https://github.com/opencv/opencv-python.git)|Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.|2222|21-9-2021|  
 |163|[game_control](https://github.com/ChoudharyChanchal/game_control.git)|-|749|30-9-2020|  
 |164|[howdoi](https://github.com/gleitz/howdoi.git)|instant coding answers via the command line|9113|25-9-2021|  
-|165|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|118840|29-9-2021|  
+|165|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|118841|29-9-2021|  
 |166|[managers-playbook](https://github.com/ksindi/managers-playbook.git)|:book: Heuristics for effective management|4423|3-8-2021|  
 |167|[tqdm](https://github.com/tqdm/tqdm.git)|A Fast, Extensible Progress Bar for Python and CLI|19580|26-9-2021|  
 |168|[admiral](https://github.com/istio-ecosystem/admiral.git)|Admiral provides automatic configuration generation, syncing and service discovery for multicluster Istio service mesh|364|23-7-2021|  
