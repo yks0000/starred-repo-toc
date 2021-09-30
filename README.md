@@ -14,7 +14,7 @@
 |8|[netdata](https://github.com/netdata/netdata.git)|Real-time performance monitoring, done right! https://www.netdata.cloud|56184|30-9-2021|  
 |9|[go-github](https://github.com/google/go-github.git)|Go library for accessing the GitHub API|7800|29-9-2021|  
 |10|[pytest](https://github.com/pytest-dev/pytest.git)|The pytest framework makes it easy to write small tests, yet scales to support complex functional testing|7794|29-9-2021|  
-|11|[devops-exercises](https://github.com/bregman-arie/devops-exercises.git)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|17106|27-9-2021|  
+|11|[devops-exercises](https://github.com/bregman-arie/devops-exercises.git)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|17107|27-9-2021|  
 |12|[terrascan](https://github.com/accurics/terrascan.git)|Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.|2476|28-9-2021|  
 |13|[yaspin](https://github.com/pavdmyt/yaspin.git)|A lightweight terminal spinner for Python with safe pipes and redirects 🎁|464|27-9-2021|  
 |14|[ora](https://github.com/sindresorhus/ora.git)|Elegant terminal spinner|7190|13-9-2021|  
@@ -83,7 +83,7 @@
 |77|[ssl-cert-check](https://github.com/Matty9191/ssl-cert-check.git)|Send notifications when SSL certificates are about to expire.|487|29-9-2021|  
 |78|[strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator.git)|Apache Kafka running on Kubernetes|2632|29-9-2021|  
 |79|[chartmuseum](https://github.com/helm/chartmuseum.git)|Host your own Helm Chart Repository|2557|26-9-2021|  
-|80|[terraformer](https://github.com/GoogleCloudPlatform/terraformer.git)|CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code|5785|30-9-2021|  
+|80|[terraformer](https://github.com/GoogleCloudPlatform/terraformer.git)|CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code|5786|30-9-2021|  
 |81|[professional-services](https://github.com/GoogleCloudPlatform/professional-services.git)|Common solutions and tools developed by Google Cloud's Professional Services team|1826|29-9-2021|  
 |82|[python-docs-samples](https://github.com/GoogleCloudPlatform/python-docs-samples.git)|Code samples used on cloud.google.com|5216|30-9-2021|  
 |83|[kafka-monitor](https://github.com/linkedin/kafka-monitor.git)|Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availability, offsets commit availability & latency, message loss rate and more.|1795|29-9-2021|  
@@ -94,7 +94,7 @@
 |88|[auto](https://github.com/intuit/auto.git)|Generate releases based on semantic version labels on pull requests.|1319|27-9-2021|  
 |89|[cruise-control](https://github.com/linkedin/cruise-control.git)|Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters.|1969|29-9-2021|  
 |90|[k2tf](https://github.com/sl1pm4t/k2tf.git)|Kubernetes YAML to Terraform HCL converter|593|30-7-2020|  
-|91|[chaos-mesh](https://github.com/chaos-mesh/chaos-mesh.git)|A Chaos Engineering Platform for Kubernetes.|3999|29-9-2021|  
+|91|[chaos-mesh](https://github.com/chaos-mesh/chaos-mesh.git)|A Chaos Engineering Platform for Kubernetes.|4000|29-9-2021|  
 |92|[awless](https://github.com/wallix/awless.git)|A Mighty CLI for AWS|4802|24-3-2021|  
 |93|[thefuck](https://github.com/nvbn/thefuck.git)|Magnificent app which corrects your previous console command.|64050|17-9-2021|  
 |94|[udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui.git)|A desktop application for downloading Udemy Courses|5363|9-9-2021|  
@@ -104,7 +104,7 @@
 |98|[redis-datasets](https://github.com/redis-developer/redis-datasets.git)|A Curated List of Sample Redis Datasets|20|2-8-2021|  
 |99|[snyk](https://github.com/snyk/snyk.git)|Snyk CLI scans and monitors your projects for security vulnerabilities.|3403|29-9-2021|  
 |100|[learn-python3](https://github.com/jerry-git/learn-python3.git)|Jupyter notebooks for teaching/learning Python 3|4253|13-7-2021|  
-|101|[learn-python](https://github.com/trekhleb/learn-python.git)|📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.|10850|10-8-2021|  
+|101|[learn-python](https://github.com/trekhleb/learn-python.git)|📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.|10851|10-8-2021|  
 |102|[30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python.git)|30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. |7556|26-9-2021|  
 |103|[interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges.git)|120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.|23784|11-4-2021|  
 |104|[grumpy](https://github.com/giantswarm/grumpy.git)|Kubernetes Validation Admission Controller example|17|24-7-2020|  
@@ -116,9 +116,9 @@
 |110|[nicstat](https://github.com/scotte/nicstat.git)|Fork of https://sourceforge.net/projects/nicstat/ to fix bugs|52|9-5-2018|  
 |111|[FlameGraph](https://github.com/brendangregg/FlameGraph.git)|Stack trace visualizer|11928|4-9-2021|  
 |112|[perf-tools](https://github.com/brendangregg/perf-tools.git)|Performance analysis tools based on Linux perf_events (aka perf) and ftrace|7788|3-8-2021|  
-|113|[linux](https://github.com/torvalds/linux.git)|Linux kernel source tree|118871|29-9-2021|  
-|114|[interview](https://github.com/mission-peace/interview.git)|Interview questions|9977|7-8-2021|  
-|115|[fastapi](https://github.com/tiangolo/fastapi.git)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|36262|29-9-2021|  
+|113|[linux](https://github.com/torvalds/linux.git)|Linux kernel source tree|118873|29-9-2021|  
+|114|[interview](https://github.com/mission-peace/interview.git)|Interview questions|9978|7-8-2021|  
+|115|[fastapi](https://github.com/tiangolo/fastapi.git)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|36263|29-9-2021|  
 |116|[pipeline](https://github.com/tektoncd/pipeline.git)|A cloud-native Pipeline resource.|6552|30-9-2021|  
 |117|[backstage](https://github.com/backstage/backstage.git)|Backstage is an open platform for building developer portals|13149|30-9-2021|  
 |118|[argo-events](https://github.com/argoproj/argo-events.git)|Event-driven workflow automation framework|1171|30-9-2021|  
@@ -127,8 +127,8 @@
 |121|[vuls](https://github.com/future-architect/vuls.git)|Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices|8707|30-9-2021|  
 |122|[clair](https://github.com/quay/clair.git)|Vulnerability Static Analysis for Containers|8171|29-9-2021|  
 |123|[pulsar](https://github.com/apache/pulsar.git)|Apache Pulsar - distributed pub-sub messaging system|9668|30-9-2021|  
-|124|[kubernetes](https://github.com/kubernetes/kubernetes.git)|Production-Grade Container Scheduling and Management|81375|30-9-2021|  
-|125|[resume.github.com](https://github.com/resume/resume.github.com.git)|Resumes generated using the GitHub informations|49738|20-7-2021|  
+|124|[kubernetes](https://github.com/kubernetes/kubernetes.git)|Production-Grade Container Scheduling and Management|81376|30-9-2021|  
+|125|[resume.github.com](https://github.com/resume/resume.github.com.git)|Resumes generated using the GitHub informations|49739|20-7-2021|  
 |126|[resume-cli](https://github.com/jsonresume/resume-cli.git)|CLI tool to easily setup a new resume 📑|3930|28-9-2021|  
 |127|[aws-cloudformation-user-guide](https://github.com/awsdocs/aws-cloudformation-user-guide.git)|The open source version of the AWS CloudFormation User Guide|560|27-9-2021|  
 |128|[blockly](https://github.com/google/blockly.git)|The web-based visual programming editor.|9603|29-9-2021|  
@@ -140,7 +140,7 @@
 |134|[wrk2](https://github.com/giltene/wrk2.git)|A constant throughput, correct latency recording variant of wrk|3186|23-6-2021|  
 |135|[wrk](https://github.com/wg/wrk.git)|Modern HTTP benchmarking tool|30252|28-7-2021|  
 |136|[mux](https://github.com/gorilla/mux.git)|A powerful HTTP router and URL matcher for building Go web servers with 🦍|15190|14-9-2021|  
-|137|[sanic](https://github.com/sanic-org/sanic.git)|Async Python 3.7+ web server/framework   Build fast. Run fast.|15465|29-9-2021|  
+|137|[sanic](https://github.com/sanic-org/sanic.git)|Async Python 3.7+ web server/framework   Build fast. Run fast.|15466|29-9-2021|  
 |138|[awesome-sre](https://github.com/dastergon/awesome-sre.git)|A curated list of Site Reliability and Production Engineering resources.|7371|25-9-2021|  
 |139|[sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide.git)|Site Reliability Engineer Interview Preparation Guide|2181|24-9-2021|  
 |140|[vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer.git)|An extension for VS Code that visualizes data during debugging.|7028|19-8-2021|  
@@ -150,25 +150,25 @@
 |144|[GolangTraining](https://github.com/GoesToEleven/GolangTraining.git)|Training for Golang (go language)|7653|24-12-2020|  
 |145|[kube2iam](https://github.com/jtblin/kube2iam.git)|kube2iam  provides different AWS IAM roles for pods running on Kubernetes|1735|26-9-2021|  
 |146|[k8s-conformance](https://github.com/cncf/k8s-conformance.git)|🧪CNCF K8s Conformance Working Group|601|30-9-2021|  
-|147|[sonobuoy](https://github.com/vmware-tanzu/sonobuoy.git)|Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.|2374|23-9-2021|  
+|147|[sonobuoy](https://github.com/vmware-tanzu/sonobuoy.git)|Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.|2375|23-9-2021|  
 |148|[terraform-provider-restapi](https://github.com/Mastercard/terraform-provider-restapi.git)|A terraform provider to manage objects in a RESTful API|509|6-9-2021|  
 |149|[terratest](https://github.com/gruntwork-io/terratest.git)| Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.|5624|29-9-2021|  
 |150|[terraform](https://github.com/hashicorp/terraform.git)|Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.|29117|30-9-2021|  
 |151|[pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform.git)|pre-commit git hooks to take care of Terraform configurations|1248|30-9-2021|  
 |152|[terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops.git)|Info about many of my Terraform, AWS, and DevOps projects.|213|13-5-2021|  
 |153|[terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices.git)|Terraform best practices (constantly updating)|1075|24-12-2020|  
-|154|[linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git)|Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test|5440|30-9-2021|  
+|154|[linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git)|Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test|5441|30-9-2021|  
 |155|[terraform-multi-account](https://github.com/inovex/terraform-multi-account.git)|Some example how toadress multiple aws accounts with Terraform|20|12-6-2018|  
 |156|[Terraform-012](https://github.com/addamstj/Terraform-012.git)|Code for the Terraform course|39|6-7-2020|  
 |157|[terraform-course](https://github.com/wardviaene/terraform-course.git)|Course files for my Udemy course about Terraform|1126|31-8-2021|  
 |158|[awesome-python-applications](https://github.com/mahmoud/awesome-python-applications.git)|💿 Free software that works great, and also happens to be open-source Python. |13066|11-9-2021|  
 |159|[Python-Sample-Application](https://github.com/uber/Python-Sample-Application.git)|-|349|20-9-2021|  
 |160|[grequests](https://github.com/spyoungtech/grequests.git)|Requests + Gevent = <3|3863|5-4-2020|  
-|161|[opencv](https://github.com/opencv/opencv.git)|Open Source Computer Vision Library|56994|30-9-2021|  
+|161|[opencv](https://github.com/opencv/opencv.git)|Open Source Computer Vision Library|56995|30-9-2021|  
 |162|[opencv-python](https://github.com/opencv/opencv-python.git)|Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.|2222|21-9-2021|  
 |163|[game_control](https://github.com/ChoudharyChanchal/game_control.git)|-|749|30-9-2020|  
 |164|[howdoi](https://github.com/gleitz/howdoi.git)|instant coding answers via the command line|9113|25-9-2021|  
-|165|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|118848|29-9-2021|  
+|165|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|118849|29-9-2021|  
 |166|[managers-playbook](https://github.com/ksindi/managers-playbook.git)|:book: Heuristics for effective management|4424|3-8-2021|  
 |167|[tqdm](https://github.com/tqdm/tqdm.git)|A Fast, Extensible Progress Bar for Python and CLI|19584|26-9-2021|  
 |168|[admiral](https://github.com/istio-ecosystem/admiral.git)|Admiral provides automatic configuration generation, syncing and service discovery for multicluster Istio service mesh|364|23-7-2021|  
@@ -176,24 +176,24 @@
 |170|[cheatsheets.pdf](https://github.com/qg0/cheatsheets.pdf.git)|📚 Various cheatsheets in PDF|183|19-3-2021|  
 |171|[fortio-operator](https://github.com/verfio/fortio-operator.git)|Load Testing Operator within the Kubernetes cluster and outside of it.|29|18-3-2019|  
 |172|[argo-rollouts](https://github.com/argoproj/argo-rollouts.git)|Progressive Delivery for Kubernetes|1141|30-9-2021|  
-|173|[argo-cd](https://github.com/argoproj/argo-cd.git)|Declarative continuous deployment for Kubernetes.|7006|30-9-2021|  
-|174|[argo-workflows](https://github.com/argoproj/argo-workflows.git)|Workflow engine for Kubernetes|9349|30-9-2021|  
+|173|[argo-cd](https://github.com/argoproj/argo-cd.git)|Declarative continuous deployment for Kubernetes.|7007|30-9-2021|  
+|174|[argo-workflows](https://github.com/argoproj/argo-workflows.git)|Workflow engine for Kubernetes|9350|30-9-2021|  
 |175|[sceptre](https://github.com/Sceptre/sceptre.git)|Build better AWS infrastructure|1243|28-9-2021|  
 |176|[go-leetcode](https://github.com/austingebauer/go-leetcode.git)|A collection of 100+ popular LeetCode problems solved in Go.|1665|11-3-2021|  
 |177|[fortio](https://github.com/fortio/fortio.git)|Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.|2078|13-8-2021|  
-|178|[ansible](https://github.com/ansible/ansible.git)|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.|49982|29-9-2021|  
+|178|[ansible](https://github.com/ansible/ansible.git)|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.|49983|29-9-2021|  
 |179|[Python-for-Algorithms--Data-Structures--and-Interviews](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews.git)|Files for Udemy Course on Algorithms and Data Structures|1873|31-8-2021|  
-|180|[coding-interview-university](https://github.com/jwasham/coding-interview-university.git)|A complete computer science study plan to become a software engineer.|193842|28-9-2021|  
+|180|[coding-interview-university](https://github.com/jwasham/coding-interview-university.git)|A complete computer science study plan to become a software engineer.|193843|28-9-2021|  
 |181|[katran](https://github.com/facebookincubator/katran.git)|A high performance layer 4 load balancer|3298|30-9-2021|  
 |182|[xdp-tutorial](https://github.com/xdp-project/xdp-tutorial.git)|XDP tutorial|966|10-9-2021|  
 |183|[bcc](https://github.com/iovisor/bcc.git)|BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more|12645|29-9-2021|  
-|184|[fish-shell](https://github.com/fish-shell/fish-shell.git)|The user-friendly command line shell.|17438|29-9-2021|  
+|184|[fish-shell](https://github.com/fish-shell/fish-shell.git)|The user-friendly command line shell.|17439|29-9-2021|  
 |185|[ace](https://github.com/ajaxorg/ace.git)|Ace (Ajax.org Cloud9 Editor)|23644|29-9-2021|  
 |186|[bat](https://github.com/sharkdp/bat.git)|A cat(1) clone with wings.|29568|29-9-2021|  
 |187|[awesome-hyper](https://github.com/bnb/awesome-hyper.git)|🖥 Delightful Hyper plugins, themes, and resources|9605|19-9-2021|  
 |188|[hyper](https://github.com/vercel/hyper.git)|A terminal built on web technologies|36864|29-9-2021|  
 |189|[troposphere](https://github.com/cloudtools/troposphere.git)|troposphere - Python library to create AWS CloudFormation descriptions|4554|29-9-2021|  
-|190|[kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way.git)|Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.|28336|17-7-2021|  
+|190|[kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way.git)|Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.|28337|17-7-2021|  
 |191|[sanic-prometheus](https://github.com/dkruchinin/sanic-prometheus.git)|Prometheus metrics for Sanic,  an async python web server|66|12-10-2020|  
 |192|[traefik](https://github.com/traefik/traefik.git)|The Cloud Native Application Proxy|35190|29-9-2021|  
 |193|[aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller.git)|A Kubernetes controller for Elastic Load Balancers|2466|29-9-2021|  
@@ -204,16 +204,16 @@
 |198|[chef](https://github.com/chef/chef.git)|Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale|6695|30-9-2021|  
 |199|[kapacitor](https://github.com/influxdata/kapacitor.git)|Open source framework for processing, monitoring, and alerting on time series data|2077|29-9-2021|  
 |200|[telegraf](https://github.com/influxdata/telegraf.git)|The plugin-driven server agent for collecting & reporting metrics.|10630|29-9-2021|  
-|201|[grafana](https://github.com/grafana/grafana.git)|The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. |44095|30-9-2021|  
+|201|[grafana](https://github.com/grafana/grafana.git)|The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. |44096|30-9-2021|  
 |202|[cobra](https://github.com/spf13/cobra.git)|A Commander for modern Go CLI interactions|23327|30-9-2021|  
-|203|[viper](https://github.com/spf13/viper.git)|Go configuration with fangs|16897|24-9-2021|  
+|203|[viper](https://github.com/spf13/viper.git)|Go configuration with fangs|16898|24-9-2021|  
 |204|[helm](https://github.com/helm/helm.git)|The Kubernetes Package Manager|20345|29-9-2021|  
 |205|[ami-query](https://github.com/intuit/ami-query.git)|Provide a REST interface to your organization's AMIs|36|5-9-2020|  
-|206|[awesome-python](https://github.com/vinta/awesome-python.git)|A curated list of awesome Python frameworks, libraries, software and resources|103033|26-9-2021|  
+|206|[awesome-python](https://github.com/vinta/awesome-python.git)|A curated list of awesome Python frameworks, libraries, software and resources|103034|26-9-2021|  
 |207|[keras-yolo2](https://github.com/experiencor/keras-yolo2.git)|Easy training on custom dataset. Various backends (MobileNet and SqueezeNet) supported. A YOLO demo to detect raccoon run entirely in brower is accessible at https://git.io/vF7vI (not on Windows).|1689|25-8-2021|  
 |208|[hygieia](https://github.com/hygieia/hygieia.git)|CapitalOne  DevOps Dashboard|3647|23-9-2021|  
 |209|[cli53](https://github.com/barnybug/cli53.git)|Command line tool for Amazon Route 53|1698|25-3-2021|  
-|210|[vegeta](https://github.com/tsenart/vegeta.git)|HTTP load testing tool and library. It's over 9000!|18332|23-9-2021|  
+|210|[vegeta](https://github.com/tsenart/vegeta.git)|HTTP load testing tool and library. It's over 9000!|18333|23-9-2021|  
 |211|[acme.sh](https://github.com/acmesh-official/acme.sh.git)|A pure Unix shell script implementing ACME client protocol|23714|25-9-2021|  
 |212|[aws-cli](https://github.com/aws/aws-cli.git)|Universal Command Line Interface for Amazon Web Services|11486|29-9-2021|  
 |213|[rundeck](https://github.com/rundeck/rundeck.git)|Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts|4345|29-9-2021|  
