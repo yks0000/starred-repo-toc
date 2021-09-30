@@ -65,7 +65,7 @@
 |59|[truffleHog](https://github.com/trufflesecurity/truffleHog.git)|Searches through git repositories for high entropy strings and secrets, digging deep into commit history|6003|16-9-2021|  
 |60|[x509-certificate-exporter](https://github.com/enix/x509-certificate-exporter.git)|A Prometheus exporter to monitor x509 certificates expiration in Kubernetes clusters or standalone|118|31-8-2021|  
 |61|[pulumi](https://github.com/pulumi/pulumi.git)|Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀|10048|30-9-2021|  
-|62|[envoy](https://github.com/envoyproxy/envoy.git)|Cloud-native high-performance edge/middle/service proxy|18044|30-9-2021|  
+|62|[envoy](https://github.com/envoyproxy/envoy.git)|Cloud-native high-performance edge/middle/service proxy|18045|30-9-2021|  
 |63|[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh.git)|🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.|133532|30-9-2021|  
 |64|[kubectx](https://github.com/ahmetb/kubectx.git)|Faster way to switch between clusters and namespaces in kubectl|11332|19-8-2021|  
 |65|[gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse.git)|A user-space file system for interacting with Google Cloud Storage|1338|13-9-2021|  
@@ -119,7 +119,7 @@
 |113|[perf-tools](https://github.com/brendangregg/perf-tools.git)|Performance analysis tools based on Linux perf_events (aka perf) and ftrace|7789|3-8-2021|  
 |114|[linux](https://github.com/torvalds/linux.git)|Linux kernel source tree|118879|29-9-2021|  
 |115|[interview](https://github.com/mission-peace/interview.git)|Interview questions|9978|7-8-2021|  
-|116|[fastapi](https://github.com/tiangolo/fastapi.git)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|36267|29-9-2021|  
+|116|[fastapi](https://github.com/tiangolo/fastapi.git)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|36268|29-9-2021|  
 |117|[pipeline](https://github.com/tektoncd/pipeline.git)|A cloud-native Pipeline resource.|6552|30-9-2021|  
 |118|[backstage](https://github.com/backstage/backstage.git)|Backstage is an open platform for building developer portals|13149|30-9-2021|  
 |119|[argo-events](https://github.com/argoproj/argo-events.git)|Event-driven workflow automation framework|1171|30-9-2021|  
@@ -169,7 +169,7 @@
 |163|[opencv-python](https://github.com/opencv/opencv-python.git)|Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.|2224|21-9-2021|  
 |164|[game_control](https://github.com/ChoudharyChanchal/game_control.git)|-|749|30-9-2020|  
 |165|[howdoi](https://github.com/gleitz/howdoi.git)|instant coding answers via the command line|9113|25-9-2021|  
-|166|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|118860|30-9-2021|  
+|166|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|118861|30-9-2021|  
 |167|[managers-playbook](https://github.com/ksindi/managers-playbook.git)|:book: Heuristics for effective management|4424|3-8-2021|  
 |168|[tqdm](https://github.com/tqdm/tqdm.git)|A Fast, Extensible Progress Bar for Python and CLI|19586|26-9-2021|  
 |169|[admiral](https://github.com/istio-ecosystem/admiral.git)|Admiral provides automatic configuration generation, syncing and service discovery for multicluster Istio service mesh|364|23-7-2021|  
@@ -184,7 +184,7 @@
 |178|[fortio](https://github.com/fortio/fortio.git)|Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.|2081|13-8-2021|  
 |179|[ansible](https://github.com/ansible/ansible.git)|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.|49985|30-9-2021|  
 |180|[Python-for-Algorithms--Data-Structures--and-Interviews](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews.git)|Files for Udemy Course on Algorithms and Data Structures|1873|31-8-2021|  
-|181|[coding-interview-university](https://github.com/jwasham/coding-interview-university.git)|A complete computer science study plan to become a software engineer.|193864|28-9-2021|  
+|181|[coding-interview-university](https://github.com/jwasham/coding-interview-university.git)|A complete computer science study plan to become a software engineer.|193865|28-9-2021|  
 |182|[katran](https://github.com/facebookincubator/katran.git)|A high performance layer 4 load balancer|3298|30-9-2021|  
 |183|[xdp-tutorial](https://github.com/xdp-project/xdp-tutorial.git)|XDP tutorial|966|10-9-2021|  
 |184|[bcc](https://github.com/iovisor/bcc.git)|BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more|12648|30-9-2021|  
@@ -205,7 +205,7 @@
 |199|[chef](https://github.com/chef/chef.git)|Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale|6695|30-9-2021|  
 |200|[kapacitor](https://github.com/influxdata/kapacitor.git)|Open source framework for processing, monitoring, and alerting on time series data|2077|29-9-2021|  
 |201|[telegraf](https://github.com/influxdata/telegraf.git)|The plugin-driven server agent for collecting & reporting metrics.|10630|30-9-2021|  
-|202|[grafana](https://github.com/grafana/grafana.git)|The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. |44101|30-9-2021|  
+|202|[grafana](https://github.com/grafana/grafana.git)|The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. |44102|30-9-2021|  
 |203|[cobra](https://github.com/spf13/cobra.git)|A Commander for modern Go CLI interactions|23328|30-9-2021|  
 |204|[viper](https://github.com/spf13/viper.git)|Go configuration with fangs|16900|24-9-2021|  
 |205|[helm](https://github.com/helm/helm.git)|The Kubernetes Package Manager|20345|29-9-2021|  
