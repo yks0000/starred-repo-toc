@@ -27,5 +27,6 @@ func init() {
 func callGitHubAPIs() {
 	client, ctx := githubapi.GetGitHubClient(accessToken)
 	allRepos := githubapi.GetGithubStarredRepoByUser(client, ctx)
-	markdown.WriteMarkDownFile(fileName, allRepos)
+	githubResponse := githubapi.ParseGitHubApiResponse(allRepos, client, ctx)
+	markdown.WriteMarkDownFile(fileName, githubResponse)
 }

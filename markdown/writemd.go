@@ -3,13 +3,13 @@ package markdown
 import (
 	"bufio"
 	"fmt"
-	"github.com/google/go-github/github"
+	"github-stars/githubapi"
 	"os"
 	"strconv"
 	"strings"
 )
 
-func WriteMarkDownFile(fileName string, allRepos []*github.StarredRepository) {
+func WriteMarkDownFile(fileName string, allRepos []githubapi.GitHubResponseField) {
 	pwd, err := os.Getwd()
 	if err != nil {
 		panic(err)
@@ -22,8 +22,8 @@ func WriteMarkDownFile(fileName string, allRepos []*github.StarredRepository) {
 	_, _ = writer.WriteString("# List of Starred Repository" + "  " + "\n\n")
 	_, _ = writer.WriteString("[How this generated?](../master/USAGE.md)" + "  " + "\n\n")
 
-	_, _ = writer.WriteString("| Id 			| Name			| Description | Star Counts | Last Updated 	|" + "  " + "\n")
-	_, _ = writer.WriteString("| ----------- | ----------- 	| ----------- | ----------- | ----------- 	|" + "  " + "\n")
+	_, _ = writer.WriteString("| Id 			| Name			| Description | Star Counts | Topics/Tags   | Last Updated 	|" + "  " + "\n")
+	_, _ = writer.WriteString("| ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |" + "  " + "\n")
 
 	if err != nil {
 		fmt.Println(err)
@@ -35,24 +35,16 @@ func WriteMarkDownFile(fileName string, allRepos []*github.StarredRepository) {
 	}
 
 	for index, getRepo := range allRepos {
-		repoDetails := getRepo.GetRepository()
-		name := *repoDetails.Name
-		fullName := *repoDetails.FullName
+		name := getRepo.Name
+		fullName := getRepo.FullName
+		lastUpdated := getRepo.LastUpdated
 
-		year, month, day := repoDetails.PushedAt.Date()
-		lastUpdated := strconv.Itoa(day) + "-" + strconv.Itoa(int(month)) + "-" + strconv.Itoa(year)
-
-		description := "-"
-		if repoDetails.Description != nil {
-			description = strings.Replace(*repoDetails.Description, "|", " ", -1)
-		}
-		cloneUrl := *repoDetails.CloneURL
-		ownerName := "-"
-		if repoDetails.Owner != nil && repoDetails.Owner.Login != nil {
-			ownerName = *repoDetails.Owner.Login
-		}
-		starCount := *repoDetails.StargazersCount
-		_, err = writer.WriteString("|" + strconv.Itoa(index+1) + "|" + "[" + name + "]" + "(" + cloneUrl + ")" + "|" + description + "|" + strconv.Itoa(starCount) + "|" + lastUpdated + "|" + "  " + "\n")
+		description := getRepo.Description
+		cloneUrl := getRepo.CloneUrl
+		ownerName := getRepo.OwnerName
+		starCount := getRepo.StarCount
+		topics := strings.Join(getRepo.Topics, ", ")
+		_, err = writer.WriteString("|" + strconv.Itoa(index+1) + "|" + "[" + name + "]" + "(" + cloneUrl + ")" + "|" + description + "|" + strconv.Itoa(starCount) + "|" + topics + "|" + lastUpdated + "|" + "  " + "\n")
 
 		fmt.Printf("Id: %d\tName: %s\tFullName: %s\tDescription: %s\tCloneURL: %s\tOwner: %s\tStargazersCount: %d\tLastUpdated: %s\n", index, name, fullName, description, cloneUrl, ownerName, starCount, lastUpdated)
 	}
