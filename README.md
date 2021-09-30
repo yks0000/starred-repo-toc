@@ -8,16 +8,16 @@
 |2|[azure-cli](https://github.com/Azure/azure-cli.git)|Azure Command-Line Interface|2733|30-9-2021|  
 |3|[starred-repo-toc](https://github.com/yks0000/starred-repo-toc.git)|Generate Markdown table for starred repo for a user.|1|30-9-2021|  
 |4|[pongo2](https://github.com/flosch/pongo2.git)|Django-syntax like template-engine for Go|2058|6-8-2021|  
-|5|[iris](https://github.com/kataras/iris.git)|The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel   谢谢 https://github.com/kataras/iris/issues/1329  |21236|22-9-2021|  
+|5|[iris](https://github.com/kataras/iris.git)|The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel   谢谢 https://github.com/kataras/iris/issues/1329  |21237|22-9-2021|  
 |6|[blackfriday](https://github.com/russross/blackfriday.git)|Blackfriday: a markdown processor for Go|4797|8-9-2021|  
 |7|[goldmark](https://github.com/yuin/goldmark.git)|:trophy: A markdown parser written in Go. Easy to extend, standard(CommonMark) compliant, well structured.|1717|12-9-2021|  
-|8|[netdata](https://github.com/netdata/netdata.git)|Real-time performance monitoring, done right! https://www.netdata.cloud|56182|30-9-2021|  
+|8|[netdata](https://github.com/netdata/netdata.git)|Real-time performance monitoring, done right! https://www.netdata.cloud|56183|30-9-2021|  
 |9|[go-github](https://github.com/google/go-github.git)|Go library for accessing the GitHub API|7800|29-9-2021|  
 |10|[pytest](https://github.com/pytest-dev/pytest.git)|The pytest framework makes it easy to write small tests, yet scales to support complex functional testing|7794|29-9-2021|  
 |11|[devops-exercises](https://github.com/bregman-arie/devops-exercises.git)|Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions|17094|27-9-2021|  
 |12|[terrascan](https://github.com/accurics/terrascan.git)|Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.|2476|28-9-2021|  
 |13|[yaspin](https://github.com/pavdmyt/yaspin.git)|A lightweight terminal spinner for Python with safe pipes and redirects 🎁|464|27-9-2021|  
-|14|[ora](https://github.com/sindresorhus/ora.git)|Elegant terminal spinner|7189|13-9-2021|  
+|14|[ora](https://github.com/sindresorhus/ora.git)|Elegant terminal spinner|7190|13-9-2021|  
 |15|[cli-spinners](https://github.com/sindresorhus/cli-spinners.git)|Spinners for use in the terminal|1838|7-5-2021|  
 |16|[halo](https://github.com/manrajgrover/halo.git)|💫 Beautiful spinners for terminal, IPython and Jupyter|2495|19-6-2021|  
 |17|[pendulum](https://github.com/sdispater/pendulum.git)|Python datetimes made easy|4547|26-9-2021|  
@@ -41,7 +41,7 @@
 |35|[emissary](https://github.com/emissary-ingress/emissary.git)|open source Kubernetes-native API gateway for microservices built on the Envoy Proxy|3488|30-9-2021|  
 |36|[tokei](https://github.com/XAMPPRocky/tokei.git)|Count your code, quickly.|5441|24-9-2021|  
 |37|[brooklin](https://github.com/linkedin/brooklin.git)|An extensible distributed system for reliable nearline data streaming at scale|719|28-9-2021|  
-|38|[http2smugl](https://github.com/neex/http2smugl.git)|-|311|27-9-2021|  
+|38|[http2smugl](https://github.com/neex/http2smugl.git)|-|312|27-9-2021|  
 |39|[rest.li](https://github.com/linkedin/rest.li.git)|Rest.li is a REST+JSON framework for building robust, scalable service architectures using dynamic discovery and simple asynchronous APIs.|2151|29-9-2021|  
 |40|[flower](https://github.com/mher/flower.git)|Real-time monitor and web admin for Celery distributed task queue|4952|26-9-2021|  
 |41|[flask-celery-example](https://github.com/miguelgrinberg/flask-celery-example.git)|This repository contains the example code for my blog article Using Celery with Flask.|983|12-9-2021|  
@@ -99,7 +99,7 @@
 |93|[thefuck](https://github.com/nvbn/thefuck.git)|Magnificent app which corrects your previous console command.|64049|17-9-2021|  
 |94|[udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui.git)|A desktop application for downloading Udemy Courses|5363|9-9-2021|  
 |95|[moto](https://github.com/spulec/moto.git)|A library that allows you to easily mock out tests based on AWS infrastructure.|5200|30-9-2021|  
-|96|[nuclei](https://github.com/projectdiscovery/nuclei.git)|Fast and customizable vulnerability scanner based on simple YAML based DSL.|5325|29-9-2021|  
+|96|[nuclei](https://github.com/projectdiscovery/nuclei.git)|Fast and customizable vulnerability scanner based on simple YAML based DSL.|5326|29-9-2021|  
 |97|[school-of-sre](https://github.com/linkedin/school-of-sre.git)|At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.|4988|12-9-2021|  
 |98|[redis-datasets](https://github.com/redis-developer/redis-datasets.git)|A Curated List of Sample Redis Datasets|20|2-8-2021|  
 |99|[snyk](https://github.com/snyk/snyk.git)|Snyk CLI scans and monitors your projects for security vulnerabilities.|3403|29-9-2021|  
@@ -124,10 +124,10 @@
 |118|[argo-events](https://github.com/argoproj/argo-events.git)|Event-driven workflow automation framework|1170|29-9-2021|  
 |119|[what-happens-when](https://github.com/alex/what-happens-when.git)|An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"|30989|13-9-2021|  
 |120|[service-fabric](https://github.com/microsoft/service-fabric.git)|Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.|2872|9-9-2021|  
-|121|[vuls](https://github.com/future-architect/vuls.git)|Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices|8705|30-9-2021|  
+|121|[vuls](https://github.com/future-architect/vuls.git)|Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices|8706|30-9-2021|  
 |122|[clair](https://github.com/quay/clair.git)|Vulnerability Static Analysis for Containers|8171|29-9-2021|  
 |123|[pulsar](https://github.com/apache/pulsar.git)|Apache Pulsar - distributed pub-sub messaging system|9668|30-9-2021|  
-|124|[kubernetes](https://github.com/kubernetes/kubernetes.git)|Production-Grade Container Scheduling and Management|81370|30-9-2021|  
+|124|[kubernetes](https://github.com/kubernetes/kubernetes.git)|Production-Grade Container Scheduling and Management|81371|30-9-2021|  
 |125|[resume.github.com](https://github.com/resume/resume.github.com.git)|Resumes generated using the GitHub informations|49736|20-7-2021|  
 |126|[resume-cli](https://github.com/jsonresume/resume-cli.git)|CLI tool to easily setup a new resume 📑|3930|28-9-2021|  
 |127|[aws-cloudformation-user-guide](https://github.com/awsdocs/aws-cloudformation-user-guide.git)|The open source version of the AWS CloudFormation User Guide|560|27-9-2021|  
@@ -164,7 +164,7 @@
 |158|[awesome-python-applications](https://github.com/mahmoud/awesome-python-applications.git)|💿 Free software that works great, and also happens to be open-source Python. |13065|11-9-2021|  
 |159|[Python-Sample-Application](https://github.com/uber/Python-Sample-Application.git)|-|349|20-9-2021|  
 |160|[grequests](https://github.com/spyoungtech/grequests.git)|Requests + Gevent = <3|3863|5-4-2020|  
-|161|[opencv](https://github.com/opencv/opencv.git)|Open Source Computer Vision Library|56991|29-9-2021|  
+|161|[opencv](https://github.com/opencv/opencv.git)|Open Source Computer Vision Library|56992|29-9-2021|  
 |162|[opencv-python](https://github.com/opencv/opencv-python.git)|Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.|2222|21-9-2021|  
 |163|[game_control](https://github.com/ChoudharyChanchal/game_control.git)|-|749|30-9-2020|  
 |164|[howdoi](https://github.com/gleitz/howdoi.git)|instant coding answers via the command line|9113|25-9-2021|  
@@ -205,7 +205,7 @@
 |199|[kapacitor](https://github.com/influxdata/kapacitor.git)|Open source framework for processing, monitoring, and alerting on time series data|2076|29-9-2021|  
 |200|[telegraf](https://github.com/influxdata/telegraf.git)|The plugin-driven server agent for collecting & reporting metrics.|10629|29-9-2021|  
 |201|[grafana](https://github.com/grafana/grafana.git)|The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. |44093|30-9-2021|  
-|202|[cobra](https://github.com/spf13/cobra.git)|A Commander for modern Go CLI interactions|23324|30-9-2021|  
+|202|[cobra](https://github.com/spf13/cobra.git)|A Commander for modern Go CLI interactions|23325|30-9-2021|  
 |203|[viper](https://github.com/spf13/viper.git)|Go configuration with fangs|16895|24-9-2021|  
 |204|[helm](https://github.com/helm/helm.git)|The Kubernetes Package Manager|20346|29-9-2021|  
 |205|[ami-query](https://github.com/intuit/ami-query.git)|Provide a REST interface to your organization's AMIs|36|5-9-2020|  
