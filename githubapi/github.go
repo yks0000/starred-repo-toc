@@ -76,10 +76,7 @@ func ParseGitHubApiResponse(allRepos []*github.StarredRepository, client *github
 			ownerName = *repoDetails.Owner.Login
 		}
 		starCount := *repoDetails.StargazersCount
-
-		lastUpdatedChannel := make(chan string)
-		go GetDefaultBranchDetails(client, context, name, ownerName, defaultBranch, lastUpdatedChannel)
-		lastUpdated := <- lastUpdatedChannel
+		lastUpdated := GetDefaultBranchDetails(client, context, name, ownerName, defaultBranch)
 
 		channels := make(chan []string)
 		go GetGitHubRepoTopics(client, context, name, ownerName, channels)
@@ -98,13 +95,14 @@ func ParseGitHubApiResponse(allRepos []*github.StarredRepository, client *github
 	return githubResponseField
 }
 
-func GetDefaultBranchDetails(client *github.Client, context context.Context, repoName string, ownerName string, branchName string, channel chan string) {
+func GetDefaultBranchDetails(client *github.Client, context context.Context, repoName string, ownerName string, branchName string) string {
 	branch, _, err := client.Repositories.GetBranch(context, ownerName, repoName, branchName)
 	if err != nil {
 		log.Println(err)
+		return ""
 	}
 	year, month, day := branch.GetCommit().Commit.Committer.GetDate().Date()
-	channel <- strconv.Itoa(day) + "-" + strconv.Itoa(int(month)) + "-" + strconv.Itoa(year)
+	return strconv.Itoa(day) + "-" + strconv.Itoa(int(month)) + "-" + strconv.Itoa(year)
 
 }
 
