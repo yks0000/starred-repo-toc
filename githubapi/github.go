@@ -101,7 +101,7 @@ func ParseGitHubApiResponse(allRepos []*github.StarredRepository, client *github
 func GetDefaultBranchDetails(client *github.Client, context context.Context, repoName string, ownerName string, branchName string, channel chan string) {
 	branch, _, err := client.Repositories.GetBranch(context, ownerName, repoName, branchName)
 	if err != nil {
-		return
+		log.Println(err)
 	}
 	year, month, day := branch.GetCommit().Commit.Committer.GetDate().Date()
 	channel <- strconv.Itoa(day) + "-" + strconv.Itoa(int(month)) + "-" + strconv.Itoa(year)
