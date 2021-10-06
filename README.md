@@ -6,7 +6,7 @@
 | ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |  
 |1|[goreleaser](https://github.com/goreleaser/goreleaser.git)|Deliver Go binaries as fast and easily as possible|8801|homebrew, golang, travis, release-automation, docker, snapcraft, package, deb, rpm, go, apk, hacktoberfest|6-10-2021|  
 |2|[coreutils](https://github.com/uutils/coreutils.git)|Cross-platform Rust rewrite of the GNU coreutils|9008|rust, coreutils, gnu-coreutils, busybox, cross-platform, command-line-tool|6-10-2021|  
-|3|[schedule](https://github.com/dbader/schedule.git)|Python job scheduling for humans.|9038||26-6-2021|  
+|3|[schedule](https://github.com/dbader/schedule.git)|Python job scheduling for humans.|9039||26-6-2021|  
 |4|[howdoi](https://github.com/gleitz/howdoi.git)|instant coding answers via the command line|9123||25-9-2021|  
 |5|[awesome-algorithms](https://github.com/tayllan/awesome-algorithms.git)|A curated list of awesome places to learn and/or practice algorithms.|10101||7-7-2021|  
 |6|[terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy.git)|💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.|10121|terminal, curated-list, awesome-lists, cli-lovers|13-12-2020|  
@@ -59,10 +59,10 @@
 |53|[interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges.git)|120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.|23831|python, algorithm, data-structure, development, programming, coding, interview, interview-questions, interview-practice, competitive-programming|5-8-2020|  
 |54|[gitbook](https://github.com/GitbookIO/gitbook.git)|📝 Modern documentation format and toolchain using Git and Markdown|24035||27-12-2018|  
 |55|[pyenv](https://github.com/pyenv/pyenv.git)|Simple Python version management|24753|hacktoberfest|6-10-2021|  
-|56|[python-cheatsheet](https://github.com/gto76/python-cheatsheet.git)|Comprehensive Python Cheatsheet|25290|cheatsheet, python, reference, python-cheatsheet|4-10-2021|  
+|56|[python-cheatsheet](https://github.com/gto76/python-cheatsheet.git)|Comprehensive Python Cheatsheet|25291|cheatsheet, python, reference, python-cheatsheet|4-10-2021|  
 |57|[cli](https://github.com/cli/cli.git)|GitHub’s official command line tool|25656|github-api-v4, cli, git, golang, hacktoberfest|6-10-2021|  
 |58|[awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line.git)|Use your macOS terminal shell to do awesome things.|25603|macos, macosx, shell, terminal, awesome-list, awesome, list|2-9-2021|  
-|59|[drawio](https://github.com/jgraph/drawio.git)|Source to app.diagrams.net|25847||5-10-2021|  
+|59|[drawio](https://github.com/jgraph/drawio.git)|Source to app.diagrams.net|25848||5-10-2021|  
 |60|[leveldb](https://github.com/google/leveldb.git)|LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.|26612||12-9-2021|  
 |61|[cheat.sh](https://github.com/chubin/cheat.sh.git)|the only cheat sheet you need|27238|cheatsheet, curl, terminal, command-line, cli, examples, documentation, help, tldr|25-4-2021|  
 |62|[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness.git)|A curated list of awesome awesomeness|28049||28-6-2021|  
@@ -108,15 +108,15 @@
 |102|[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted.git)|A list of Free Software network services and web applications which can be hosted on your own servers|64998|selfhosted, awesome, awesome-list, privacy, hosting, cloud, self-hosted|2-10-2021|  
 |103|[awesome-go](https://github.com/avelino/awesome-go.git)|A curated list of awesome Go frameworks, libraries and software|68720|golang, golang-library, go, awesome, awesome-list, hacktoberfest|5-10-2021|  
 |104|[computer-science](https://github.com/ossu/computer-science.git)|:mortar_board: Path to a free self-taught education in Computer Science!|97173|computer-science, awesome-list, courses, curriculum|16-9-2021|  
-|105|[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line.git)|Master the command line, in one page|97364|bash, unix, documentation, linux, macos, windows|7-9-2020|  
+|105|[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line.git)|Master the command line, in one page|97365|bash, unix, documentation, linux, macos, windows|7-9-2020|  
 |106|[youtube-dl](https://github.com/ytdl-org/youtube-dl.git)|Command-line program to download videos from YouTube.com and other video sites|100944||1-7-2021|  
-|107|[build-your-own-x](https://github.com/danistefanovic/build-your-own-x.git)|🤓 Build your own (insert technology here)|119521|programming, tutorials, tutorial-code, tutorial-exercises, free|29-6-2021|  
+|107|[build-your-own-x](https://github.com/danistefanovic/build-your-own-x.git)|🤓 Build your own (insert technology here)|119522|programming, tutorials, tutorial-code, tutorial-exercises, free|29-6-2021|  
 |108|[gitignore](https://github.com/github/gitignore.git)|A collection of useful .gitignore templates|123922|gitignore, git|18-8-2021|  
 |109|[system-design-primer](https://github.com/donnemartin/system-design-primer.git)|Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.|146079|programming, development, design, design-system, system, design-patterns, web, web-application, webapp, python, interview, interview-questions, interview-practice|9-5-2021|  
-|110|[public-apis](https://github.com/public-apis/public-apis.git)|A collective list of free APIs|162746|api, public-apis, free, apis, list, development, software, public, resources, hacktoberfest|6-10-2021|  
-|111|[awesome](https://github.com/sindresorhus/awesome.git)|😎 Awesome lists about all kinds of interesting topics|171335|awesome, awesome-list, unicorns, lists, resources|3-10-2021|  
+|110|[public-apis](https://github.com/public-apis/public-apis.git)|A collective list of free APIs|162747|api, public-apis, free, apis, list, development, software, public, resources, hacktoberfest|6-10-2021|  
+|111|[awesome](https://github.com/sindresorhus/awesome.git)|😎 Awesome lists about all kinds of interesting topics|171337|awesome, awesome-list, unicorns, lists, resources|3-10-2021|  
 |112|[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap.git)|Roadmap to becoming a web developer in 2021|173289|computer-science, roadmap, developer-roadmap, frontend-roadmap, devops-roadmap, backend-roadmap, study-plan, engineering|7-9-2021|  
-|113|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|207507|education, books, list, resource, hacktoberfest|6-10-2021|  
+|113|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|207508|education, books, list, resource, hacktoberfest|6-10-2021|  
 |114|[miniserve](https://github.com/svenstaro/miniserve.git)|🌟 For when you really just want to serve some files over HTTP right now!|2685|serve, http-server, server, static-files, cli, command-line, command-line-tool|29-9-2021|  
 |115|[gitui](https://github.com/extrawurst/gitui.git)|Blazing 💥 fast terminal-ui for git written in rust 🦀|5786|rust, tui, terminal, git, command-line-tool, command-line-interface, async, hacktoberfest, bash|6-10-2021|  
 |116|[wuzz](https://github.com/asciimoo/wuzz.git)|Interactive cli tool for HTTP inspection|9782|curl, golang, cli, http, inspector, http-inspection, go|22-1-2021|  
@@ -154,7 +154,7 @@
 |148|[gotty](https://github.com/sorenisanerd/gotty.git)|Share your terminal as a web application|1254||4-7-2021|  
 |149|[ytfzf](https://github.com/pystardust/ytfzf.git)|A posix script to find and watch youtube videos from the terminal. (Without API)|2048|youtube, cli, terminal, posix, fzf, dmenu, ueberzug|3-10-2021|  
 |150|[pyWhat](https://github.com/bee-san/pyWhat.git)|🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️|4568|cyber, security, hacking, cybersecurity, malware, re, python, pcap, malware-analysis, malware-research, tryhackme, hacktoberfest|6-10-2021|  
-|151|[textual](https://github.com/willmcgugan/textual.git)|Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.|5675|terminal, python, tui, rich|26-9-2021|  
+|151|[textual](https://github.com/willmcgugan/textual.git)|Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.|5676|terminal, python, tui, rich|26-9-2021|  
 |152|[age](https://github.com/FiloSottile/age.git)|A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.|8649|built-at-rc, age-encryption|4-10-2021|  
 |153|[htmlq](https://github.com/mgdm/htmlq.git)|Like jq, but for HTML.|4731||30-9-2021|  
 |154|[sqlc](https://github.com/kyleconroy/sqlc.git)|Generate type safe Go from SQL|4026|go, postgresql, sql, orm, code-generator, mysql|30-9-2021|  
@@ -222,7 +222,7 @@
 |216|[pulumi](https://github.com/pulumi/pulumi.git)|Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀|10110|infrastructure-as-code, serverless, containers, aws, azure, gcp, kubernetes, cloud, cloud-computing, iac, csharp, typescript, javascript, golang, go, dotnet, fsharp, python|6-10-2021|  
 |217|[envoy](https://github.com/envoyproxy/envoy.git)|Cloud-native high-performance edge/middle/service proxy|18070|cats, rocket-ships, cars, more-cats, cats-over-dogs, nanoservices, corgis, cncf|6-10-2021|  
 |218|[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh.git)|🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.|134262|shell, zsh-configuration, theme, terminal, productivity, hacktoberfest|6-10-2021|  
-|219|[kubectx](https://github.com/ahmetb/kubectx.git)|Faster way to switch between clusters and namespaces in kubectl|11402|kubernetes, kubectl, kubectl-plugins, kubernetes-clusters|19-8-2021|  
+|219|[kubectx](https://github.com/ahmetb/kubectx.git)|Faster way to switch between clusters and namespaces in kubectl|11403|kubernetes, kubectl, kubectl-plugins, kubernetes-clusters|19-8-2021|  
 |220|[gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse.git)|A user-space file system for interacting with Google Cloud Storage|1344||4-10-2021|  
 |221|[google-api-python-client](https://github.com/googleapis/google-api-python-client.git)|🐍 The official Python client library for Google's discovery based APIs.|5111||5-10-2021|  
 |222|[google-cloud-python](https://github.com/googleapis/google-cloud-python.git)|Google Cloud Client Library for Python|3698||5-10-2021|  
@@ -271,7 +271,7 @@
 |265|[nicstat](https://github.com/scotte/nicstat.git)|Fork of https://sourceforge.net/projects/nicstat/ to fix bugs|52||9-5-2018|  
 |266|[FlameGraph](https://github.com/brendangregg/FlameGraph.git)|Stack trace visualizer|11943||31-8-2021|  
 |267|[perf-tools](https://github.com/brendangregg/perf-tools.git)|Performance analysis tools based on Linux perf_events (aka perf) and ftrace|7797||14-1-2020|  
-|268|[linux](https://github.com/torvalds/linux.git)|Linux kernel source tree|119146||5-10-2021|  
+|268|[linux](https://github.com/torvalds/linux.git)|Linux kernel source tree|119147||5-10-2021|  
 |269|[interview](https://github.com/mission-peace/interview.git)|Interview questions|9989||30-7-2018|  
 |270|[fastapi](https://github.com/tiangolo/fastapi.git)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|36587|python, json, swagger-ui, redoc, starlette, openapi, api, openapi3, framework, async, asyncio, uvicorn, python3, python-types, pydantic, json-schema, fastapi, swagger, rest, web|6-10-2021|  
 |271|[pipeline](https://github.com/tektoncd/pipeline.git)|A cloud-native Pipeline resource.|6558|tekton, pipeline, kubernetes, cdf|6-10-2021|  
@@ -284,7 +284,7 @@
 |278|[pulsar](https://github.com/apache/pulsar.git)|Apache Pulsar - distributed pub-sub messaging system|9687|pulsar, pubsub, messaging, streaming, queuing, event-streaming|6-10-2021|  
 |279|[kubernetes](https://github.com/kubernetes/kubernetes.git)|Production-Grade Container Scheduling and Management|81540|kubernetes, go, cncf, containers|6-10-2021|  
 |280|[resume.github.com](https://github.com/resume/resume.github.com.git)|Resumes generated using the GitHub informations|49885||5-8-2016|  
-|281|[resume-cli](https://github.com/jsonresume/resume-cli.git)|CLI tool to easily setup a new resume 📑|3933|cli, javascript, resume, json|19-6-2021|  
+|281|[resume-cli](https://github.com/jsonresume/resume-cli.git)|CLI tool to easily setup a new resume 📑|3934|cli, javascript, resume, json|19-6-2021|  
 |282|[aws-cloudformation-user-guide](https://github.com/awsdocs/aws-cloudformation-user-guide.git)|The open source version of the AWS CloudFormation User Guide|562|aws, aws-cloudformation, cloudformation|6-10-2021|  
 |283|[blockly](https://github.com/google/blockly.git)|The web-based visual programming editor.|9617||28-9-2021|  
 |284|[codebytere.github.io](https://github.com/codebytere/codebytere.github.io.git)|personal website|405||10-5-2021|  
@@ -311,14 +311,14 @@
 |305|[pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform.git)|pre-commit git hooks to take care of Terraform configurations|1259|git-hooks, terraform, code-style, hooks, pre-commit, automation|4-10-2021|  
 |306|[terraform-aws-devops](https://github.com/antonbabenko/terraform-aws-devops.git)|Info about many of my Terraform, AWS, and DevOps projects.|213|terraform, infrastructure-as-code, aws, aws-community, antonbabenko|13-5-2021|  
 |307|[terraform-best-practices](https://github.com/antonbabenko/terraform-best-practices.git)|Terraform best practices (constantly updating)|1078|terraform, terraform-configurations, best-practices, free, terraform-modules|17-1-2020|  
-|308|[linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git)|Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test|5782|linkedin, quiz-questions, answers, assessment, quiz, linkedin-questions, free, hacktoberfest, hacktoberfest2020, exam, skills, stargazers, hacktoberfest2021|6-10-2021|  
+|308|[linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes.git)|Full reference of LinkedIn answers 2021 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, css, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test|5783|linkedin, quiz-questions, answers, assessment, quiz, linkedin-questions, free, hacktoberfest, hacktoberfest2020, exam, skills, stargazers, hacktoberfest2021|6-10-2021|  
 |309|[terraform-multi-account](https://github.com/inovex/terraform-multi-account.git)|Some example how toadress multiple aws accounts with Terraform|20||12-6-2018|  
 |310|[Terraform-012](https://github.com/addamstj/Terraform-012.git)|Code for the Terraform course|39||6-7-2020|  
 |311|[terraform-course](https://github.com/wardviaene/terraform-course.git)|Course files for my Udemy course about Terraform|1130||31-8-2021|  
 |312|[awesome-python-applications](https://github.com/mahmoud/awesome-python-applications.git)|💿 Free software that works great, and also happens to be open-source Python. |13077|python, application, video, audio, graphics, gui, productivity, education, science, game|11-9-2021|  
 |313|[Python-Sample-Application](https://github.com/uber/Python-Sample-Application.git)|-|349||9-3-2015|  
 |314|[grequests](https://github.com/spyoungtech/grequests.git)|Requests + Gevent = <3|3870||4-10-2021|  
-|315|[opencv](https://github.com/opencv/opencv.git)|Open Source Computer Vision Library|57115|opencv, c-plus-plus, computer-vision, deep-learning, image-processing|6-10-2021|  
+|315|[opencv](https://github.com/opencv/opencv.git)|Open Source Computer Vision Library|57116|opencv, c-plus-plus, computer-vision, deep-learning, image-processing|6-10-2021|  
 |316|[opencv-python](https://github.com/opencv/opencv-python.git)|Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.|2237|opencv, python, wheel, python-3, opencv-python, opencv-contrib-python, precompiled, pypi, manylinux|20-9-2021|  
 |317|[game_control](https://github.com/ChoudharyChanchal/game_control.git)|-|749||19-7-2020|  
 |318|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|119895|python, algorithm, algorithms-implemented, algorithm-competitions, algos, sorts, searches, sorting-algorithms, education, learn, practice, community-driven, interview, hacktoberfest|6-10-2021|  
@@ -342,7 +342,7 @@
 |336|[bcc](https://github.com/iovisor/bcc.git)|BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more|12675||30-9-2021|  
 |337|[fish-shell](https://github.com/fish-shell/fish-shell.git)|The user-friendly command line shell.|17460||6-10-2021|  
 |338|[ace](https://github.com/ajaxorg/ace.git)|Ace (Ajax.org Cloud9 Editor)|23664||30-9-2021|  
-|339|[bat](https://github.com/sharkdp/bat.git)|A cat(1) clone with wings.|29674|command-line, tool, syntax-highlighting, git, terminal, cli, rust, hacktoberfest|6-10-2021|  
+|339|[bat](https://github.com/sharkdp/bat.git)|A cat(1) clone with wings.|29675|command-line, tool, syntax-highlighting, git, terminal, cli, rust, hacktoberfest|6-10-2021|  
 |340|[awesome-hyper](https://github.com/bnb/awesome-hyper.git)|🖥 Delightful Hyper plugins, themes, and resources|9606|hyper, hyperterm, zeit, terminal, awesome, awesome-list|13-7-2021|  
 |341|[hyper](https://github.com/vercel/hyper.git)|A terminal built on web technologies|36894|terminal, javascript, html, css, react, terminal-emulators, hyper, macos, linux|4-10-2021|  
 |342|[troposphere](https://github.com/cloudtools/troposphere.git)|troposphere - Python library to create AWS CloudFormation descriptions|4559|aws-cloudformation, cloudformation, python, python3|5-9-2021|  
