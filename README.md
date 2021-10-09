@@ -126,7 +126,7 @@
 |120|[mattermost-server](https://github.com/mattermost/mattermost-server.git)|Open source Slack-alternative in Golang and React - Mattermost|21039|collaboration, mattermost, golang, go, react, react-native, hacktoberfest|8-10-2021|  
 |121|[hub](https://github.com/github/hub.git)|A command-line tool that makes git easier to use with GitHub.|21274|go, homebrew, git, github-api, pull-request|4-9-2021|  
 |122|[awesome-shell](https://github.com/alebcay/awesome-shell.git)|A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.|22249|awesome-list, awesome, list, zsh, fish, bash, cli, shell|31-8-2021|  
-|123|[black](https://github.com/psf/black.git)|The uncompromising Python code formatter|22792|python, code, formatter, codeformatter, gofmt, yapf, autopep8, pre-commit-hook|5-10-2021|  
+|123|[black](https://github.com/psf/black.git)|The uncompromising Python code formatter|22793|python, code, formatter, codeformatter, gofmt, yapf, autopep8, pre-commit-hook|5-10-2021|  
 |124|[nprogress](https://github.com/rstacruz/nprogress.git)|For slim progress bars like on YouTube, Medium, etc|23452||19-4-2020|  
 |125|[python-guide](https://github.com/realpython/python-guide.git)|Python best practices guidebook, written for humans. |23714|python, guide, book, kennethreitz|5-10-2021|  
 |126|[interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges.git)|120+ interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.|23860|python, algorithm, data-structure, development, programming, coding, interview, interview-questions, interview-practice, competitive-programming|5-8-2020|  
@@ -148,7 +148,7 @@
 |142|[pi-hole](https://github.com/pi-hole/pi-hole.git)|A black hole for Internet advertisements|32832|pi-hole, ad-blocker, shell, blocker, raspberry-pi, cloud, dnsmasq, dhcp, dhcp-server, dns-server, dashboard, hacktoberfest|29-9-2021|  
 |143|[github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet.git)|A list of cool features of Git and GitHub.|33295|awesome, awesome-list, list, github, git|6-10-2020|  
 |144|[brackets](https://github.com/adobe/brackets.git)|An open source code editor for the web, written in JavaScript, HTML and CSS.|33719||18-3-2021|  
-|145|[discourse](https://github.com/discourse/discourse.git)|A platform for community discussion. Free, open, simple.|34208|discourse, javascript, rails, ruby, ember, forum, postgresql|8-10-2021|  
+|145|[discourse](https://github.com/discourse/discourse.git)|A platform for community discussion. Free, open, simple.|34209|discourse, javascript, rails, ruby, ember, forum, postgresql|8-10-2021|  
 |146|[tldr](https://github.com/tldr-pages/tldr.git)|📚 Collaborative cheatsheets for console commands|35342|shell, man-page, tldr, manpages, documentation, cheatsheets, terminal, command-line, console, examples, help, manual, hacktoberfest|9-10-2021|  
 |147|[caddy](https://github.com/caddyserver/caddy.git)|Fast, multi-platform web server with automatic HTTPS|34842|go, web-server, caddyfile, http, http-server, reverse-proxy, https, tls, automatic-https, privacy, security|1-10-2021|  
 |148|[algorithm-visualizer](https://github.com/algorithm-visualizer/algorithm-visualizer.git)|:fireworks:Interactive Online Platform that Visualizes Algorithms from Code|35564|algorithm, data-structure, visualization, animation|1-5-2021|  
@@ -175,21 +175,21 @@
 |169|[hugo](https://github.com/gohugoio/hugo.git)|The world’s fastest framework for building websites.|54594|go, hugo, static-site-generator, blog-engine, cms, content-management-system, documentation-tool, hacktoberfest|9-10-2021|  
 |170|[atom](https://github.com/atom/atom.git)|:atom: The hackable text editor|56107|atom, editor, javascript, electron, windows, linux, macos|4-10-2021|  
 |171|[elasticsearch](https://github.com/elastic/elasticsearch.git)|Free and Open, Distributed, RESTful Search Engine|56721|elasticsearch, java, search-engine|8-10-2021|  
-|172|[bitcoin](https://github.com/bitcoin/bitcoin.git)|Bitcoin Core integration/staging tree|57473|bitcoin, c-plus-plus, p2p, cryptocurrency, cryptography|9-10-2021|  
+|172|[bitcoin](https://github.com/bitcoin/bitcoin.git)|Bitcoin Core integration/staging tree|57474|bitcoin, c-plus-plus, p2p, cryptocurrency, cryptography|9-10-2021|  
 |173|[tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook.git)|💯 Curated interview preparation materials for busy engineers|59917|interview-questions, coding-interviews, interview-practice, interview-preparation, algorithm, algorithms|7-10-2021|  
 |174|[realworld](https://github.com/gothinkster/realworld.git)|"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅|60678|hacktoberfest|8-10-2021|  
 |175|[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted.git)|A list of Free Software network services and web applications which can be hosted on your own servers|65381|selfhosted, awesome, awesome-list, privacy, hosting, cloud, self-hosted|2-10-2021|  
 |176|[awesome-go](https://github.com/avelino/awesome-go.git)|A curated list of awesome Go frameworks, libraries and software|68843|golang, golang-library, go, awesome, awesome-list, hacktoberfest|9-10-2021|  
-|177|[computer-science](https://github.com/ossu/computer-science.git)|:mortar_board: Path to a free self-taught education in Computer Science!|97312|computer-science, awesome-list, courses, curriculum|9-10-2021|  
+|177|[computer-science](https://github.com/ossu/computer-science.git)|:mortar_board: Path to a free self-taught education in Computer Science!|97313|computer-science, awesome-list, courses, curriculum|9-10-2021|  
 |178|[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line.git)|Master the command line, in one page|97443|bash, unix, documentation, linux, macos, windows|7-9-2020|  
 |179|[youtube-dl](https://github.com/ytdl-org/youtube-dl.git)|Command-line program to download videos from YouTube.com and other video sites|101047||1-7-2021|  
 |180|[build-your-own-x](https://github.com/danistefanovic/build-your-own-x.git)|🤓 Build your own (insert technology here)|119653|programming, tutorials, tutorial-code, tutorial-exercises, free|29-6-2021|  
 |181|[gitignore](https://github.com/github/gitignore.git)|A collection of useful .gitignore templates|124038|gitignore, git|18-8-2021|  
 |182|[system-design-primer](https://github.com/donnemartin/system-design-primer.git)|Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.|146291|programming, development, design, design-system, system, design-patterns, web, web-application, webapp, python, interview, interview-questions, interview-practice|9-5-2021|  
 |183|[public-apis](https://github.com/public-apis/public-apis.git)|A collective list of free APIs|163487|api, public-apis, free, apis, list, development, software, public, resources, hacktoberfest|8-10-2021|  
-|184|[awesome](https://github.com/sindresorhus/awesome.git)|😎 Awesome lists about all kinds of interesting topics|171592|awesome, awesome-list, unicorns, lists, resources|3-10-2021|  
+|184|[awesome](https://github.com/sindresorhus/awesome.git)|😎 Awesome lists about all kinds of interesting topics|171593|awesome, awesome-list, unicorns, lists, resources|3-10-2021|  
 |185|[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap.git)|Roadmap to becoming a web developer in 2021|173455|computer-science, roadmap, developer-roadmap, frontend-roadmap, devops-roadmap, backend-roadmap, study-plan, engineering|7-9-2021|  
-|186|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|207758|education, books, list, resource, hacktoberfest|9-10-2021|  
+|186|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|207761|education, books, list, resource, hacktoberfest|9-10-2021|  
 |187|[miniserve](https://github.com/svenstaro/miniserve.git)|🌟 For when you really just want to serve some files over HTTP right now!|2692|serve, http-server, server, static-files, cli, command-line, command-line-tool|8-10-2021|  
 |188|[gitui](https://github.com/extrawurst/gitui.git)|Blazing 💥 fast terminal-ui for git written in rust 🦀|5814|rust, tui, terminal, git, command-line-tool, command-line-interface, async, hacktoberfest, bash|7-10-2021|  
 |189|[wuzz](https://github.com/asciimoo/wuzz.git)|Interactive cli tool for HTTP inspection|9785|curl, golang, cli, http, inspector, http-inspection, go|22-1-2021|  
@@ -324,7 +324,7 @@
 |318|[k2tf](https://github.com/sl1pm4t/k2tf.git)|Kubernetes YAML to Terraform HCL converter|606|terraform, kubernetes, yaml, hcl, tool, utility, command-line-tool, converter, hashicorp, hashicorp-terraform|5-10-2021|  
 |319|[chaos-mesh](https://github.com/chaos-mesh/chaos-mesh.git)|A Chaos Engineering Platform for Kubernetes.|4032|chaos, chaos-engineering, chaos-testing, kubernetes, operator, golang, microservice, site-reliability-engineering, fault-injection, cncf, cloud-native, chaos-mesh, chaos-experiments, crd, hacktoberfest|9-10-2021|  
 |320|[awless](https://github.com/wallix/awless.git)|A Mighty CLI for AWS|4808|aws, cli, cloud, aws-cli, cloud-management, awless, golang, devops, devops-tools|10-12-2018|  
-|321|[thefuck](https://github.com/nvbn/thefuck.git)|Magnificent app which corrects your previous console command.|64166|python, shell|5-9-2021|  
+|321|[thefuck](https://github.com/nvbn/thefuck.git)|Magnificent app which corrects your previous console command.|64167|python, shell|5-9-2021|  
 |322|[udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui.git)|A desktop application for downloading Udemy Courses|5397|electron, nodejs, udemy, udemy-dl, udemy-downloader-gui, windows, mac, macos, linux, downloader|11-8-2020|  
 |323|[moto](https://github.com/spulec/moto.git)|A library that allows you to easily mock out tests based on AWS infrastructure.|5225|boto, aws, ec2, s3|9-10-2021|  
 |324|[nuclei](https://github.com/projectdiscovery/nuclei.git)|Fast and customizable vulnerability scanner based on simple YAML based DSL.|5416|cve-scanner, subdomain-takeover, nuclei-engine, vulnerability-detection, vulnerability-assessment, vulnerability-scanner, hacktoberfest|18-9-2021|  
@@ -339,13 +339,13 @@
 |333|[badges](https://github.com/Naereen/badges.git)|:pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!|2846|forthebadge, badges, markdown, markdown-cheatsheet, meta-badge, forthebadge-cc, restructuredtext, pokemon, python, awesome, markup|28-9-2021|  
 |334|[DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms.git)|The best library for implementation of all Data Structures and Algorithms - Trees + Graph Algorithms too!|2049|algorithms, data-structures, interview-prep, interview-preparation, competitive-programming, cpp, cpp-library, leetcode, leetcode-solutions|13-6-2021|  
 |335|[vector](https://github.com/Netflix/vector.git)|Vector is an on-host performance monitoring framework which exposes hand picked high resolution metrics to every engineer’s browser.|3570||10-10-2020|  
-|336|[atlas](https://github.com/Netflix/atlas.git)|In-memory dimensional time series database.|3007||8-10-2021|  
+|336|[atlas](https://github.com/Netflix/atlas.git)|In-memory dimensional time series database.|3007||9-10-2021|  
 |337|[nicstat](https://github.com/scotte/nicstat.git)|Fork of https://sourceforge.net/projects/nicstat/ to fix bugs|52||9-5-2018|  
 |338|[FlameGraph](https://github.com/brendangregg/FlameGraph.git)|Stack trace visualizer|11959||31-8-2021|  
 |339|[perf-tools](https://github.com/brendangregg/perf-tools.git)|Performance analysis tools based on Linux perf_events (aka perf) and ftrace|7802||14-1-2020|  
-|340|[linux](https://github.com/torvalds/linux.git)|Linux kernel source tree|119287||9-10-2021|  
+|340|[linux](https://github.com/torvalds/linux.git)|Linux kernel source tree|119286||9-10-2021|  
 |341|[interview](https://github.com/mission-peace/interview.git)|Interview questions|9990||30-7-2018|  
-|342|[fastapi](https://github.com/tiangolo/fastapi.git)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|36781|python, json, swagger-ui, redoc, starlette, openapi, api, openapi3, framework, async, asyncio, uvicorn, python3, python-types, pydantic, json-schema, fastapi, swagger, rest, web|7-10-2021|  
+|342|[fastapi](https://github.com/tiangolo/fastapi.git)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|36782|python, json, swagger-ui, redoc, starlette, openapi, api, openapi3, framework, async, asyncio, uvicorn, python3, python-types, pydantic, json-schema, fastapi, swagger, rest, web|7-10-2021|  
 |343|[pipeline](https://github.com/tektoncd/pipeline.git)|A cloud-native Pipeline resource.|6563|tekton, pipeline, kubernetes, cdf|7-10-2021|  
 |344|[backstage](https://github.com/backstage/backstage.git)|Backstage is an open platform for building developer portals|13242|infrastructure, dx, developer-experience, developer-portal, service-catalog, microservices, cncf, backstage, hacktoberfest|9-10-2021|  
 |345|[argo-events](https://github.com/argoproj/argo-events.git)|Event-driven workflow automation framework|1180|kubernetes, event-driven, cloudevents, workflows, triggers, automation-framework, cloud-native, argo, pipelines, event-source, workflow-automation|6-10-2021|  
@@ -357,7 +357,7 @@
 |351|[resume.github.com](https://github.com/resume/resume.github.com.git)|Resumes generated using the GitHub informations|49905||5-8-2016|  
 |352|[resume-cli](https://github.com/jsonresume/resume-cli.git)|CLI tool to easily setup a new resume 📑|3934|cli, javascript, resume, json|19-6-2021|  
 |353|[aws-cloudformation-user-guide](https://github.com/awsdocs/aws-cloudformation-user-guide.git)|The open source version of the AWS CloudFormation User Guide|562|aws, aws-cloudformation, cloudformation|6-10-2021|  
-|354|[blockly](https://github.com/google/blockly.git)|The web-based visual programming editor.|9628||28-9-2021|  
+|354|[blockly](https://github.com/google/blockly.git)|The web-based visual programming editor.|9629||28-9-2021|  
 |355|[codebytere.github.io](https://github.com/codebytere/codebytere.github.io.git)|personal website|405||10-5-2021|  
 |356|[30-Days-of-Code](https://github.com/xeoneux/30-Days-of-Code.git)|👨‍💻 30 Days of Code by HackerRank Solutions in C++, C#, F#, Go, Java, JavaScript, Python, Ruby, Swift & TypeScript. PRs Welcome! 😄|601|hackerrank, java, swift, python, csharp, fsharp, cplusplus, solutions, 30, days, of, code, typescript, go, ruby, kotlin, javascript|17-8-2021|  
 |357|[geeksforgeeks.pdf](https://github.com/dufferzafar/geeksforgeeks.pdf.git)|Topic wise PDFs of Geeks for Geeks articles. (Last updated in October 2018)|486|||  
@@ -368,7 +368,7 @@
 |362|[sanic](https://github.com/sanic-org/sanic.git)|Async Python 3.7+ web server/framework   Build fast. Run fast.|15490|python, framework, asyncio, api-server, web, web-server, web-framework, asgi, sanic, hacktoberfest|2-10-2021|  
 |363|[awesome-sre](https://github.com/dastergon/awesome-sre.git)|A curated list of Site Reliability and Production Engineering resources.|7411|site-reliability-engineering, production, availability, monitoring, post-mortem, reliability-engineering, capacity-planning, service-level-agreement, scalability, reliability, alerting, on-call, site-reliability, postmortem, incident-response, sre, awesome, awesome-list, devops, list|25-9-2021|  
 |364|[sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide.git)|Site Reliability Engineer Interview Preparation Guide|2209|study, preparation, sre, sre-interview, interview-preparation, site-reliability-engineer|24-9-2021|  
-|365|[vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer.git)|An extension for VS Code that visualizes data during debugging.|7047|vscode-extension, hacktoberfest, visualization|19-8-2021|  
+|365|[vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer.git)|An extension for VS Code that visualizes data during debugging.|7048|vscode-extension, hacktoberfest, visualization|19-8-2021|  
 |366|[sops](https://github.com/mozilla/sops.git)|Simple and flexible tool for managing secrets|8358|security, secret-distribution, devops, aws, pgp, gcp, secret-management, azure, sops|8-4-2021|  
 |367|[GoCasts](https://github.com/StephenGrider/GoCasts.git)|Companion Repo to https://www.udemy.com/go-the-complete-developers-guide/|1416||25-8-2017|  
 |368|[golang-web-dev](https://github.com/GoesToEleven/golang-web-dev.git)|-|2782||13-12-2019|  
@@ -392,7 +392,7 @@
 |386|[opencv](https://github.com/opencv/opencv.git)|Open Source Computer Vision Library|57168|opencv, c-plus-plus, computer-vision, deep-learning, image-processing|9-10-2021|  
 |387|[opencv-python](https://github.com/opencv/opencv-python.git)|Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.|2242|opencv, python, wheel, python-3, opencv-python, opencv-contrib-python, precompiled, pypi, manylinux|7-10-2021|  
 |388|[game_control](https://github.com/ChoudharyChanchal/game_control.git)|-|749||19-7-2020|  
-|389|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|120102|python, algorithm, algorithms-implemented, algorithm-competitions, algos, sorts, searches, sorting-algorithms, education, learn, practice, community-driven, interview, hacktoberfest|7-10-2021|  
+|389|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|120101|python, algorithm, algorithms-implemented, algorithm-competitions, algos, sorts, searches, sorting-algorithms, education, learn, practice, community-driven, interview, hacktoberfest|7-10-2021|  
 |390|[managers-playbook](https://github.com/ksindi/managers-playbook.git)|:book: Heuristics for effective management|4428|management, one-on-ones, feedback, advice, coaching, meetings, decision-making|3-8-2021|  
 |391|[tqdm](https://github.com/tqdm/tqdm.git)|A Fast, Extensible Progress Bar for Python and CLI|19667|progressbar, progressmeter, progress-bar, meter, rate, console, terminal, time, progress, gui, python, parallel, cli, utilities, jupyter, tkinter, discord, telegram, pandas, keras|20-9-2021|  
 |392|[admiral](https://github.com/istio-ecosystem/admiral.git)|Admiral provides automatic configuration generation, syncing and service discovery for multicluster Istio service mesh|364|admiral, service-mesh, istio, k8s, multi-cluster, automation, configuration, service-discovery, multicluster, microservices, clusters|30-6-2021|  
