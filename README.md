@@ -69,7 +69,7 @@
 |63|[minio](https://github.com/minio/minio.git)|High Performance, Kubernetes Native Object Storage|29648|go, storage, cloud, s3, objectstorage, cloudstorage, amazon-s3, cloudnative|15-10-2021|  
 |64|[mkcert](https://github.com/FiloSottile/mkcert.git)|A simple zero-config tool to make locally trusted development certificates with any names you'd like.|32231|https, tls, certificates, local-development, localhost, root-ca, macos, linux, windows, ios, firefox, chrome|13-2-2021|  
 |65|[localstack](https://github.com/localstack/localstack.git)|💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!|35668|aws, localstack, testing, continuous-integration, developer-tools, python|15-10-2021|  
-|66|[etcd](https://github.com/etcd-io/etcd.git)|Distributed reliable key-value store for the most critical data of a distributed system|37547|etcd, raft, distributed-systems, kubernetes, go, database, key-value, consensus, distributed-database|15-10-2021|  
+|66|[etcd](https://github.com/etcd-io/etcd.git)|Distributed reliable key-value store for the most critical data of a distributed system|37548|etcd, raft, distributed-systems, kubernetes, go, database, key-value, consensus, distributed-database|15-10-2021|  
 |67|[prometheus](https://github.com/prometheus/prometheus.git)|The Prometheus monitoring system and time series database.|39154|monitoring, metrics, alerting, graphing, time-series, prometheus, hacktoberfest|15-10-2021|  
 |68|[serverless](https://github.com/serverless/serverless.git)|⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – |40955|serverless, serverless-framework, serverless-architectures, aws-lambda, google-cloud-functions, azure-functions, aws, microservice, aws-dynamodb|15-10-2021|  
 |69|[gin](https://github.com/gin-gonic/gin.git)|Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.|52171|server, middleware, framework, go, router, performance, gin|9-10-2021|  
@@ -126,7 +126,7 @@
 |120|[engineering-blogs](https://github.com/kilimchoi/engineering-blogs.git)|A curated list of engineering blogs|20387|engineering-blogs, tech, programming-blogs, software-development, lists|2-7-2021|  
 |121|[jq](https://github.com/stedolan/jq.git)|Command-line JSON processor|20455||7-9-2021|  
 |122|[ngrok](https://github.com/inconshreveable/ngrok.git)|Introspected tunnels to localhost|20890||31-5-2016|  
-|123|[mattermost-server](https://github.com/mattermost/mattermost-server.git)|Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.|21093|collaboration, mattermost, golang, go, react, react-native, hacktoberfest|15-10-2021|  
+|123|[mattermost-server](https://github.com/mattermost/mattermost-server.git)|Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.|21094|collaboration, mattermost, golang, go, react, react-native, hacktoberfest|15-10-2021|  
 |124|[hub](https://github.com/github/hub.git)|A command-line tool that makes git easier to use with GitHub.|21289|go, homebrew, git, github-api, pull-request|4-9-2021|  
 |125|[awesome-shell](https://github.com/alebcay/awesome-shell.git)|A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.|22289|awesome-list, awesome, list, zsh, fish, bash, cli, shell|31-8-2021|  
 |126|[black](https://github.com/psf/black.git)|The uncompromising Python code formatter|22871|python, code, formatter, codeformatter, gofmt, yapf, autopep8, pre-commit-hook|12-10-2021|  
@@ -141,7 +141,7 @@
 |135|[drawio](https://github.com/jgraph/drawio.git)|Source to app.diagrams.net|25988||15-10-2021|  
 |136|[leveldb](https://github.com/google/leveldb.git)|LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.|26682||12-9-2021|  
 |137|[cheat.sh](https://github.com/chubin/cheat.sh.git)|the only cheat sheet you need|27328|cheatsheet, curl, terminal, command-line, cli, examples, documentation, help, tldr, hacktoberfest2021|25-4-2021|  
-|138|[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness.git)|A curated list of awesome awesomeness|28122||15-10-2021|  
+|138|[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness.git)|A curated list of awesome awesomeness|28123||15-10-2021|  
 |139|[styleguide](https://github.com/google/styleguide.git)|Style guides for Google-originated open-source projects|28917|cpplint, styleguide, style-guide|13-9-2021|  
 |140|[rich](https://github.com/willmcgugan/rich.git)|Rich is a Python library for rich text and beautiful formatting in the terminal.|30127|python, python3, python-library, terminal, terminal-color, markdown, tables, syntax-highlighting, ansi-colors, progress-bar-python, progress-bar, traceback, rich, tracebacks-rich, emoji, hacktoberfest|15-10-2021|  
 |141|[og-aws](https://github.com/open-guides/og-aws.git)|📙 Amazon Web Services — a practical guide|30140||24-6-2021|  
@@ -190,9 +190,9 @@
 |184|[gitignore](https://github.com/github/gitignore.git)|A collection of useful .gitignore templates|124263|gitignore, git|14-10-2021|  
 |185|[system-design-primer](https://github.com/donnemartin/system-design-primer.git)|Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.|146793|programming, development, design, design-system, system, design-patterns, web, web-application, webapp, python, interview, interview-questions, interview-practice|9-5-2021|  
 |186|[public-apis](https://github.com/public-apis/public-apis.git)|A collective list of free APIs|164152|api, public-apis, free, apis, list, development, software, public, resources, hacktoberfest|15-10-2021|  
-|187|[awesome](https://github.com/sindresorhus/awesome.git)|😎 Awesome lists about all kinds of interesting topics|172258|awesome, awesome-list, unicorns, lists, resources|3-10-2021|  
+|187|[awesome](https://github.com/sindresorhus/awesome.git)|😎 Awesome lists about all kinds of interesting topics|172259|awesome, awesome-list, unicorns, lists, resources|3-10-2021|  
 |188|[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap.git)|Roadmap to becoming a web developer in 2021|174123|computer-science, roadmap, developer-roadmap, frontend-roadmap, devops-roadmap, backend-roadmap, study-plan, engineering|7-9-2021|  
-|189|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|208402|education, books, list, resource, hacktoberfest|15-10-2021|  
+|189|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|208403|education, books, list, resource, hacktoberfest|15-10-2021|  
 |190|[miniserve](https://github.com/svenstaro/miniserve.git)|🌟 For when you really just want to serve some files over HTTP right now!|2720|serve, http-server, server, static-files, cli, command-line, command-line-tool|13-10-2021|  
 |191|[gitui](https://github.com/extrawurst/gitui.git)|Blazing 💥 fast terminal-ui for git written in rust 🦀|5898|rust, tui, terminal, git, command-line-tool, command-line-interface, async, hacktoberfest, bash|15-10-2021|  
 |192|[wuzz](https://github.com/asciimoo/wuzz.git)|Interactive cli tool for HTTP inspection|9794|curl, golang, cli, http, inspector, http-inspection, go|22-1-2021|  
@@ -217,7 +217,7 @@
 |211|[gping](https://github.com/orf/gping.git)|Ping, but with a graph|5353||12-9-2021|  
 |212|[k6](https://github.com/grafana/k6.git)|A modern load testing tool, using Go and JavaScript - https://k6.io|14138|golang, load-testing, load-generator, javascript, es6, performance, hacktoberfest|13-10-2021|  
 |213|[typer](https://github.com/tiangolo/typer.git)|Typer, build great CLIs. Easy to code. Based on Python type hints.|6420|cli, click, python3, typehints, terminal, shell, python, typer|30-8-2021|  
-|214|[Depix](https://github.com/beurtschipper/Depix.git)|Recovers passwords from pixelized screenshots|20227||3-10-2021|  
+|214|[Depix](https://github.com/beurtschipper/Depix.git)|Recovers passwords from pixelized screenshots|20228||3-10-2021|  
 |215|[ImHex](https://github.com/WerWolv/ImHex.git)|A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.|11083|hex-editor, reverse-engineering, ips, ips32, pattern-highlighting, dear-imgui, disassembler, analyzer, mathematical-evaluator, pattern-language, dark-mode, nodes, data-processor, hacktoberfest-accepted|14-10-2021|  
 |216|[litestream](https://github.com/benbjohnson/litestream.git)|Streaming replication for SQLite.|3634|sqlite, replication, s3|10-10-2021|  
 |217|[github1s](https://github.com/conwnet/github1s.git)|One second to read GitHub code with VS Code.|20256||22-9-2021|  
@@ -320,7 +320,7 @@
 |314|[kafka-monitor](https://github.com/linkedin/kafka-monitor.git)|Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availability, offsets commit availability & latency, message loss rate and more.|1799|kafka-monitor, kafka-cluster, monitor-topic, partition, broker, partition-count, leader, latency, cluster, metrics, kmf, kafka-broker, xinfra-monitor, monitor-single-clusters, reassigns-partition, jmx-metrics, clusters, xinfra, monitor, topic|19-8-2021|  
 |315|[cost-model](https://github.com/kubecost/cost-model.git)|Cross-cloud cost allocation models for Kubernetes workloads|1591|kubernetes, kubecost|11-10-2021|  
 |316|[flask](https://github.com/pallets/flask.git)|The Python micro framework for building web applications.|56890|python, flask, wsgi, web-framework, werkzeug, jinja, pallets|5-10-2021|  
-|317|[awesome-sanic](https://github.com/mekicha/awesome-sanic.git)|A curated list of awesome Sanic resources and extensions|481||14-7-2021|  
+|317|[awesome-sanic](https://github.com/mekicha/awesome-sanic.git)|A curated list of awesome Sanic resources and extensions|482||14-7-2021|  
 |318|[metallb](https://github.com/metallb/metallb.git)|A network load-balancer implementation for Kubernetes using standard routing protocols|4148|kubernetes, bgp, load-balancer, bare-metal, arp, vrrp, keepalived|15-10-2021|  
 |319|[auto](https://github.com/intuit/auto.git)|Generate releases based on semantic version labels on pull requests.|1331|release, auto-release, github, slack, jira, releases, publishing, hack, hacktoberfest|30-9-2021|  
 |320|[cruise-control](https://github.com/linkedin/cruise-control.git)|Cruise-control is the first of its kind to fully automate the dynamic workload rebalance and self-healing of a Kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters.|1987|kafka, cluster-management|13-10-2021|  
@@ -348,7 +348,7 @@
 |342|[perf-tools](https://github.com/brendangregg/perf-tools.git)|Performance analysis tools based on Linux perf_events (aka perf) and ftrace|7822||14-1-2020|  
 |343|[linux](https://github.com/torvalds/linux.git)|Linux kernel source tree|119629||15-10-2021|  
 |344|[interview](https://github.com/mission-peace/interview.git)|Interview questions|9994||30-7-2018|  
-|345|[fastapi](https://github.com/tiangolo/fastapi.git)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|36955|python, json, swagger-ui, redoc, starlette, openapi, api, openapi3, framework, async, asyncio, uvicorn, python3, python-types, pydantic, json-schema, fastapi, swagger, rest, web|7-10-2021|  
+|345|[fastapi](https://github.com/tiangolo/fastapi.git)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|36956|python, json, swagger-ui, redoc, starlette, openapi, api, openapi3, framework, async, asyncio, uvicorn, python3, python-types, pydantic, json-schema, fastapi, swagger, rest, web|7-10-2021|  
 |346|[pipeline](https://github.com/tektoncd/pipeline.git)|A cloud-native Pipeline resource.|6569|tekton, pipeline, kubernetes, cdf, hacktoberfest|15-10-2021|  
 |347|[backstage](https://github.com/backstage/backstage.git)|Backstage is an open platform for building developer portals|13316|infrastructure, dx, developer-experience, developer-portal, service-catalog, microservices, cncf, backstage, hacktoberfest|15-10-2021|  
 |348|[argo-events](https://github.com/argoproj/argo-events.git)|Event-driven workflow automation framework|1185|kubernetes, event-driven, cloudevents, workflows, triggers, automation-framework, cloud-native, argo, pipelines, event-source, workflow-automation|14-10-2021|  
@@ -395,7 +395,7 @@
 |389|[opencv](https://github.com/opencv/opencv.git)|Open Source Computer Vision Library|57293|opencv, c-plus-plus, computer-vision, deep-learning, image-processing|15-10-2021|  
 |390|[opencv-python](https://github.com/opencv/opencv-python.git)|Automated CI toolchain to produce precompiled opencv-python, opencv-python-headless, opencv-contrib-python and opencv-contrib-python-headless packages.|2256|opencv, python, wheel, python-3, opencv-python, opencv-contrib-python, precompiled, pypi, manylinux|15-10-2021|  
 |391|[game_control](https://github.com/ChoudharyChanchal/game_control.git)|-|749||19-7-2020|  
-|392|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|120417|python, algorithm, algorithms-implemented, algorithm-competitions, algos, sorts, searches, sorting-algorithms, education, learn, practice, community-driven, interview, hacktoberfest|15-10-2021|  
+|392|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|120418|python, algorithm, algorithms-implemented, algorithm-competitions, algos, sorts, searches, sorting-algorithms, education, learn, practice, community-driven, interview, hacktoberfest|15-10-2021|  
 |393|[managers-playbook](https://github.com/ksindi/managers-playbook.git)|:book: Heuristics for effective management|4437|management, one-on-ones, feedback, advice, coaching, meetings, decision-making|3-8-2021|  
 |394|[tqdm](https://github.com/tqdm/tqdm.git)|A Fast, Extensible Progress Bar for Python and CLI|19737|progressbar, progressmeter, progress-bar, meter, rate, console, terminal, time, progress, gui, python, parallel, cli, utilities, jupyter, tkinter, discord, telegram, pandas, keras|20-9-2021|  
 |395|[admiral](https://github.com/istio-ecosystem/admiral.git)|Admiral provides automatic configuration generation, syncing and service discovery for multicluster Istio service mesh|388|admiral, service-mesh, istio, k8s, multi-cluster, automation, configuration, service-discovery, multicluster, microservices, clusters|30-6-2021|  
@@ -436,7 +436,7 @@
 |430|[viper](https://github.com/spf13/viper.git)|Go configuration with fangs|17053||22-9-2021|  
 |431|[helm](https://github.com/helm/helm.git)|The Kubernetes Package Manager|20418|cncf, chart, kubernetes, helm, charts|13-10-2021|  
 |432|[ami-query](https://github.com/intuit/ami-query.git)|Provide a REST interface to your organization's AMIs|36||31-8-2020|  
-|433|[awesome-python](https://github.com/vinta/awesome-python.git)|A curated list of awesome Python frameworks, libraries, software and resources|104055|awesome, python, collections, python-library, python-framework, python-resources|25-7-2021|  
+|433|[awesome-python](https://github.com/vinta/awesome-python.git)|A curated list of awesome Python frameworks, libraries, software and resources|104056|awesome, python, collections, python-library, python-framework, python-resources|25-7-2021|  
 |434|[keras-yolo2](https://github.com/experiencor/keras-yolo2.git)|Easy training on custom dataset. Various backends (MobileNet and SqueezeNet) supported. A YOLO demo to detect raccoon run entirely in brower is accessible at https://git.io/vF7vI (not on Windows).|1689|convolutional-networks, deep-learning, yolo2, realtime, regression|31-12-2019|  
 |435|[hygieia](https://github.com/hygieia/hygieia.git)|CapitalOne  DevOps Dashboard|3654|devops, dashboard, hygieia, delivery-pipeline, visualization, continuous-delivery, continuous-deployment, continuous-integration|23-9-2021|  
 |436|[cli53](https://github.com/barnybug/cli53.git)|Command line tool for Amazon Route 53|1704||17-1-2021|  
