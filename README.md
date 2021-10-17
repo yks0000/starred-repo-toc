@@ -11,7 +11,7 @@
 |5|[shiv](https://github.com/linkedin/shiv.git)|shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.|1257||12-10-2021|  
 |6|[influxdb](https://github.com/influxdata/influxdb.git)|Scalable datastore for metrics, events, and real-time analytics|22233|influxdb, monitoring, database, time-series, metrics, go, react|15-10-2021|  
 |7|[project-layout](https://github.com/golang-standards/project-layout.git)|Standard Go Project Layout|26997|go, golang, project-template, standards, project-structure|22-8-2021|  
-|8|[minikube](https://github.com/kubernetes/minikube.git)|Run Kubernetes locally|22072|minikube, kubernetes, cluster, containers, go, cncf|15-10-2021|  
+|8|[minikube](https://github.com/kubernetes/minikube.git)|Run Kubernetes locally|22073|minikube, kubernetes, cluster, containers, go, cncf|15-10-2021|  
 |9|[ksonnet](https://github.com/ksonnet/ksonnet.git)|A CLI-supported framework that streamlines writing and deployment of Kubernetes configurations to multiple clusters.|1149||5-2-2019|  
 |10|[jsonnet](https://github.com/google/jsonnet.git)|Jsonnet - The data templating language|5125|jsonnet, configuration, config, functional, json|15-10-2021|  
 |11|[vscode](https://github.com/microsoft/vscode.git)|Visual Studio Code|122639|editor, electron, visual-studio-code, typescript, microsoft|16-10-2021|  
@@ -138,7 +138,7 @@
 |132|[python-cheatsheet](https://github.com/gto76/python-cheatsheet.git)|Comprehensive Python Cheatsheet|25397|cheatsheet, python, reference, python-cheatsheet|16-10-2021|  
 |133|[cli](https://github.com/cli/cli.git)|GitHub’s official command line tool|25832|github-api-v4, cli, git, golang, hacktoberfest|15-10-2021|  
 |134|[awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line.git)|Use your macOS terminal shell to do awesome things.|25598|macos, macosx, shell, terminal, awesome-list, awesome, list|2-9-2021|  
-|135|[drawio](https://github.com/jgraph/drawio.git)|Source to app.diagrams.net|25994||15-10-2021|  
+|135|[drawio](https://github.com/jgraph/drawio.git)|Source to app.diagrams.net|25995||15-10-2021|  
 |136|[leveldb](https://github.com/google/leveldb.git)|LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.|26689||12-9-2021|  
 |137|[cheat.sh](https://github.com/chubin/cheat.sh.git)|the only cheat sheet you need|27335|cheatsheet, curl, terminal, command-line, cli, examples, documentation, help, tldr, hacktoberfest2021|25-4-2021|  
 |138|[awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness.git)|A curated list of awesome awesomeness|28129||15-10-2021|  
@@ -163,10 +163,10 @@
 |157|[awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions.git)|:octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: |43812|awesome-list, awesomeness, interview-questions, interviewing, interview-practice, ruby, javascript, awesome, list, python-interview-questions, rails-interview, javascript-interview-questions, angularjs-interview-questions, android-interview-questions|4-8-2021|  
 |158|[every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know.git)|A collection of (mostly) technical things every software developer should know about|45283|cc-by, computer-science, educational, novice, collection|19-4-2021|  
 |159|[core](https://github.com/home-assistant/core.git)|:house_with_garden: Open source home automation that puts local control and privacy first.|46608|python, home-automation, iot, internet-of-things, mqtt, raspberry-pi, asyncio, hacktoberfest|17-10-2021|  
-|160|[requests](https://github.com/psf/requests.git)|A simple, yet elegant, HTTP library.|46200|python, http, forhumans, requests, python-requests, client, humans, cookies|9-10-2021|  
+|160|[requests](https://github.com/psf/requests.git)|A simple, yet elegant, HTTP library.|46201|python, http, forhumans, requests, python-requests, client, humans, cookies|9-10-2021|  
 |161|[echarts](https://github.com/apache/echarts.git)|Apache ECharts is a powerful, interactive charting and data visualization library for browser|48377|echarts, data-visualization, charts, charting-library, visualization, apache, data-viz, canvas, svg|14-10-2021|  
-|162|[frp](https://github.com/fatedier/frp.git)|A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.|49544|proxy, reverse-proxy, tunnel, nat, go, firewall, frp, expose, http-proxy|11-10-2021|  
-|163|[nocode](https://github.com/kelseyhightower/nocode.git)|The best way to write secure and reliable applications. Write nothing; deploy nowhere.|49126||21-1-2020|  
+|162|[frp](https://github.com/fatedier/frp.git)|A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.|49545|proxy, reverse-proxy, tunnel, nat, go, firewall, frp, expose, http-proxy|11-10-2021|  
+|163|[nocode](https://github.com/kelseyhightower/nocode.git)|The best way to write secure and reliable applications. Write nothing; deploy nowhere.|49127||21-1-2020|  
 |164|[free-for-dev](https://github.com/ripienaar/free-for-dev.git)|A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev|49954||14-10-2021|  
 |165|[papers-we-love](https://github.com/papers-we-love/papers-we-love.git)|Papers from the computer science community to read and discuss.|49744|computer-science, read-papers, meetup, papers, programming, theory, awesome|11-10-2021|  
 |166|[the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge.git)|A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.|50493|awesome, awesome-list, lists, manuals, resources, howtos, hacks, search-engines, one-liners, cheatsheets, guidelines, sysops, devops, pentesters, security-researchers, linux, bsd, security, hacking|18-8-2021|  
@@ -176,23 +176,23 @@
 |170|[markdown-here](https://github.com/adam-p/markdown-here.git)|Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.|53326||30-9-2018|  
 |171|[interviews](https://github.com/kdn251/interviews.git)|Everything you need to know to get the job.|54220|java, interview, interview-questions, interview-practice, interview-preparation, interview-prep, algorithm, algorithm-challenges, algorithms, algorithm-competitions, technical-coding-interview, leetcode, leetcode-solutions, leetcode-java, coding-interviews, coding-interview, coding-challenge, coding-challenges, leetcode-questions, interviews|6-6-2020|  
 |172|[hugo](https://github.com/gohugoio/hugo.git)|The world’s fastest framework for building websites.|54734|go, hugo, static-site-generator, blog-engine, cms, content-management-system, documentation-tool, hacktoberfest|16-10-2021|  
-|173|[atom](https://github.com/atom/atom.git)|:atom: The hackable text editor|56154|atom, editor, javascript, electron, windows, linux, macos|12-10-2021|  
+|173|[atom](https://github.com/atom/atom.git)|:atom: The hackable text editor|56155|atom, editor, javascript, electron, windows, linux, macos|12-10-2021|  
 |174|[elasticsearch](https://github.com/elastic/elasticsearch.git)|Free and Open, Distributed, RESTful Search Engine|56835|elasticsearch, java, search-engine|17-10-2021|  
 |175|[bitcoin](https://github.com/bitcoin/bitcoin.git)|Bitcoin Core integration/staging tree|57862|bitcoin, c-plus-plus, p2p, cryptocurrency, cryptography|16-10-2021|  
 |176|[tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook.git)|💯 Curated interview preparation materials for busy engineers|60165|interview-questions, coding-interviews, interview-practice, interview-preparation, algorithm, algorithms|7-10-2021|  
 |177|[realworld](https://github.com/gothinkster/realworld.git)|"The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅|60780|hacktoberfest|15-10-2021|  
 |178|[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted.git)|A list of Free Software network services and web applications which can be hosted on your own servers|65900|selfhosted, awesome, awesome-list, privacy, hosting, cloud, self-hosted|2-10-2021|  
 |179|[awesome-go](https://github.com/avelino/awesome-go.git)|A curated list of awesome Go frameworks, libraries and software|69230|golang, golang-library, go, awesome, awesome-list, hacktoberfest|14-10-2021|  
-|180|[computer-science](https://github.com/ossu/computer-science.git)|:mortar_board: Path to a free self-taught education in Computer Science!|98164|computer-science, awesome-list, courses, curriculum|10-10-2021|  
-|181|[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line.git)|Master the command line, in one page|97611|bash, unix, documentation, linux, macos, windows|7-9-2020|  
+|180|[computer-science](https://github.com/ossu/computer-science.git)|:mortar_board: Path to a free self-taught education in Computer Science!|98165|computer-science, awesome-list, courses, curriculum|10-10-2021|  
+|181|[the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line.git)|Master the command line, in one page|97614|bash, unix, documentation, linux, macos, windows|7-9-2020|  
 |182|[youtube-dl](https://github.com/ytdl-org/youtube-dl.git)|Command-line program to download videos from YouTube.com and other video sites|101313||1-7-2021|  
-|183|[build-your-own-x](https://github.com/danistefanovic/build-your-own-x.git)|🤓 Build your own (insert technology here)|120277|programming, tutorials, tutorial-code, tutorial-exercises, free|29-6-2021|  
-|184|[gitignore](https://github.com/github/gitignore.git)|A collection of useful .gitignore templates|124300|gitignore, git|14-10-2021|  
+|183|[build-your-own-x](https://github.com/danistefanovic/build-your-own-x.git)|🤓 Build your own (insert technology here)|120278|programming, tutorials, tutorial-code, tutorial-exercises, free|29-6-2021|  
+|184|[gitignore](https://github.com/github/gitignore.git)|A collection of useful .gitignore templates|124301|gitignore, git|14-10-2021|  
 |185|[system-design-primer](https://github.com/donnemartin/system-design-primer.git)|Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.|146865|programming, development, design, design-system, system, design-patterns, web, web-application, webapp, python, interview, interview-questions, interview-practice|9-5-2021|  
-|186|[public-apis](https://github.com/public-apis/public-apis.git)|A collective list of free APIs|164275|api, public-apis, free, apis, list, development, software, public, resources, hacktoberfest|16-10-2021|  
+|186|[public-apis](https://github.com/public-apis/public-apis.git)|A collective list of free APIs|164276|api, public-apis, free, apis, list, development, software, public, resources, hacktoberfest|16-10-2021|  
 |187|[awesome](https://github.com/sindresorhus/awesome.git)|😎 Awesome lists about all kinds of interesting topics|172394|awesome, awesome-list, unicorns, lists, resources|3-10-2021|  
 |188|[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap.git)|Roadmap to becoming a web developer in 2021|174189|computer-science, roadmap, developer-roadmap, frontend-roadmap, devops-roadmap, backend-roadmap, study-plan, engineering|7-9-2021|  
-|189|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|208482|education, books, list, resource, hacktoberfest|16-10-2021|  
+|189|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|208483|education, books, list, resource, hacktoberfest|16-10-2021|  
 |190|[miniserve](https://github.com/svenstaro/miniserve.git)|🌟 For when you really just want to serve some files over HTTP right now!|2729|serve, http-server, server, static-files, cli, command-line, command-line-tool|13-10-2021|  
 |191|[gitui](https://github.com/extrawurst/gitui.git)|Blazing 💥 fast terminal-ui for git written in rust 🦀|5903|rust, tui, terminal, git, command-line-tool, command-line-interface, async, hacktoberfest, bash|15-10-2021|  
 |192|[wuzz](https://github.com/asciimoo/wuzz.git)|Interactive cli tool for HTTP inspection|9795|curl, golang, cli, http, inspector, http-inspection, go|22-1-2021|  
@@ -328,7 +328,7 @@
 |322|[chaos-mesh](https://github.com/chaos-mesh/chaos-mesh.git)|A Chaos Engineering Platform for Kubernetes.|4048|chaos, chaos-engineering, chaos-testing, kubernetes, operator, golang, microservice, site-reliability-engineering, fault-injection, cncf, cloud-native, chaos-mesh, chaos-experiments, crd, hacktoberfest|16-10-2021|  
 |323|[awless](https://github.com/wallix/awless.git)|A Mighty CLI for AWS|4809|aws, cli, cloud, aws-cli, cloud-management, awless, golang, devops, devops-tools|10-12-2018|  
 |324|[thefuck](https://github.com/nvbn/thefuck.git)|Magnificent app which corrects your previous console command.|64289|python, shell|5-9-2021|  
-|325|[udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui.git)|A desktop application for downloading Udemy Courses|5409|electron, nodejs, udemy, udemy-dl, udemy-downloader-gui, windows, mac, macos, linux, downloader|11-8-2020|  
+|325|[udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui.git)|A desktop application for downloading Udemy Courses|5408|electron, nodejs, udemy, udemy-dl, udemy-downloader-gui, windows, mac, macos, linux, downloader|11-8-2020|  
 |326|[moto](https://github.com/spulec/moto.git)|A library that allows you to easily mock out tests based on AWS infrastructure.|5264|boto, aws, ec2, s3|16-10-2021|  
 |327|[nuclei](https://github.com/projectdiscovery/nuclei.git)|Fast and customizable vulnerability scanner based on simple YAML based DSL.|5492|cve-scanner, subdomain-takeover, nuclei-engine, vulnerability-detection, vulnerability-assessment, vulnerability-scanner, hacktoberfest|18-9-2021|  
 |328|[school-of-sre](https://github.com/linkedin/school-of-sre.git)|At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.|5025|sre, linux, networking, git, python, mysql, nosql, hadoop, system-design, security|13-8-2021|  
@@ -346,7 +346,7 @@
 |340|[nicstat](https://github.com/scotte/nicstat.git)|Fork of https://sourceforge.net/projects/nicstat/ to fix bugs|52||9-5-2018|  
 |341|[FlameGraph](https://github.com/brendangregg/FlameGraph.git)|Stack trace visualizer|11995||31-8-2021|  
 |342|[perf-tools](https://github.com/brendangregg/perf-tools.git)|Performance analysis tools based on Linux perf_events (aka perf) and ftrace|7824||14-1-2020|  
-|343|[linux](https://github.com/torvalds/linux.git)|Linux kernel source tree|119678||16-10-2021|  
+|343|[linux](https://github.com/torvalds/linux.git)|Linux kernel source tree|119679||16-10-2021|  
 |344|[interview](https://github.com/mission-peace/interview.git)|Interview questions|9995||30-7-2018|  
 |345|[fastapi](https://github.com/tiangolo/fastapi.git)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|36991|python, json, swagger-ui, redoc, starlette, openapi, api, openapi3, framework, async, asyncio, uvicorn, python3, python-types, pydantic, json-schema, fastapi, swagger, rest, web|7-10-2021|  
 |346|[pipeline](https://github.com/tektoncd/pipeline.git)|A cloud-native Pipeline resource.|6571|tekton, pipeline, kubernetes, cdf, hacktoberfest|15-10-2021|  
@@ -357,7 +357,7 @@
 |351|[vuls](https://github.com/future-architect/vuls.git)|Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices|8737|vuls, vulnerability-scanners, golang, go, linux, freebsd, vulnerability-detection, security, security-tools, cybersecurity, security-vulnerability, security-scanner, security-hardening, security-automation, security-audit, vulnerability-assessment, vulnerability-management, vulnerability-scanner, vulnerabilities, administrator|13-10-2021|  
 |352|[pulsar](https://github.com/apache/pulsar.git)|Apache Pulsar - distributed pub-sub messaging system|9738|pulsar, pubsub, messaging, streaming, queuing, event-streaming|15-10-2021|  
 |353|[kubernetes](https://github.com/kubernetes/kubernetes.git)|Production-Grade Container Scheduling and Management|81828|kubernetes, go, cncf, containers|16-10-2021|  
-|354|[resume.github.com](https://github.com/resume/resume.github.com.git)|Resumes generated using the GitHub informations|49985||5-8-2016|  
+|354|[resume.github.com](https://github.com/resume/resume.github.com.git)|Resumes generated using the GitHub informations|49986||5-8-2016|  
 |355|[resume-cli](https://github.com/jsonresume/resume-cli.git)|CLI tool to easily setup a new resume 📑|3937|cli, javascript, resume, json|19-6-2021|  
 |356|[aws-cloudformation-user-guide](https://github.com/awsdocs/aws-cloudformation-user-guide.git)|The open source version of the AWS CloudFormation User Guide|563|aws, aws-cloudformation, cloudformation|13-10-2021|  
 |357|[blockly](https://github.com/google/blockly.git)|The web-based visual programming editor.|9653||28-9-2021|  
@@ -374,7 +374,7 @@
 |368|[vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer.git)|An extension for VS Code that visualizes data during debugging.|7055|vscode-extension, hacktoberfest, visualization|19-8-2021|  
 |369|[sops](https://github.com/mozilla/sops.git)|Simple and flexible tool for managing secrets|8396|security, secret-distribution, devops, aws, pgp, gcp, secret-management, azure, sops|8-4-2021|  
 |370|[GoCasts](https://github.com/StephenGrider/GoCasts.git)|Companion Repo to https://www.udemy.com/go-the-complete-developers-guide/|1423||25-8-2017|  
-|371|[golang-web-dev](https://github.com/GoesToEleven/golang-web-dev.git)|-|2790||13-12-2019|  
+|371|[golang-web-dev](https://github.com/GoesToEleven/golang-web-dev.git)|-|2791||13-12-2019|  
 |372|[GolangTraining](https://github.com/GoesToEleven/GolangTraining.git)|Training for Golang (go language)|7688||4-12-2018|  
 |373|[kube2iam](https://github.com/jtblin/kube2iam.git)|kube2iam  provides different AWS IAM roles for pods running on Kubernetes|1744|kubernetes, aws|10-3-2021|  
 |374|[k8s-conformance](https://github.com/cncf/k8s-conformance.git)|🧪CNCF K8s Conformance Working Group|608|cncf, kubernetes, conformance|15-10-2021|  
@@ -389,7 +389,7 @@
 |383|[terraform-multi-account](https://github.com/inovex/terraform-multi-account.git)|Some example how toadress multiple aws accounts with Terraform|20||12-6-2018|  
 |384|[Terraform-012](https://github.com/addamstj/Terraform-012.git)|Code for the Terraform course|39||6-7-2020|  
 |385|[terraform-course](https://github.com/wardviaene/terraform-course.git)|Course files for my Udemy course about Terraform|1136||31-8-2021|  
-|386|[awesome-python-applications](https://github.com/mahmoud/awesome-python-applications.git)|💿 Free software that works great, and also happens to be open-source Python. |13116|python, application, video, audio, graphics, gui, productivity, education, science, game|11-10-2021|  
+|386|[awesome-python-applications](https://github.com/mahmoud/awesome-python-applications.git)|💿 Free software that works great, and also happens to be open-source Python. |13117|python, application, video, audio, graphics, gui, productivity, education, science, game|11-10-2021|  
 |387|[Python-Sample-Application](https://github.com/uber/Python-Sample-Application.git)|-|349||9-3-2015|  
 |388|[grequests](https://github.com/spyoungtech/grequests.git)|Requests + Gevent = <3|3881||4-10-2021|  
 |389|[opencv](https://github.com/opencv/opencv.git)|Open Source Computer Vision Library|57313|opencv, c-plus-plus, computer-vision, deep-learning, image-processing|15-10-2021|  
@@ -403,19 +403,19 @@
 |397|[cheatsheets.pdf](https://github.com/qg0/cheatsheets.pdf.git)|📚 Various cheatsheets in PDF|185|pandas, keras, python, django, deep-learning, scikit-learn, skipy, numpy, python3, django-framework, r, jupyter, jython, ipython, cheatsheet, apache-spark, cheat-sheets, cheatsheets, jquery, php|19-3-2021|  
 |398|[fortio-operator](https://github.com/verfio/fortio-operator.git)|Load Testing Operator within the Kubernetes cluster and outside of it.|29||18-3-2019|  
 |399|[argo-rollouts](https://github.com/argoproj/argo-rollouts.git)|Progressive Delivery for Kubernetes|1164|gitops, canary, bluegreen, kubernetes, argoproj, deployments, experiments, argo-rollouts, progressive-delivery|12-10-2021|  
-|400|[argo-cd](https://github.com/argoproj/argo-cd.git)|Declarative continuous deployment for Kubernetes.|7242|argo, kubernetes, continuous-deployment, gitops, continuous-delivery, docker, cd, cicd, pipeline, devops, ci-cd, argo-cd, ksonnet, helm, hacktoberfest|12-10-2021|  
+|400|[argo-cd](https://github.com/argoproj/argo-cd.git)|Declarative continuous deployment for Kubernetes.|7242|argo, kubernetes, continuous-deployment, gitops, continuous-delivery, docker, cd, cicd, pipeline, devops, ci-cd, argo-cd, ksonnet, helm, hacktoberfest|17-10-2021|  
 |401|[argo-workflows](https://github.com/argoproj/argo-workflows.git)|Workflow engine for Kubernetes|9452|workflow, kubernetes, argo, dag, knative, airflow, machine-learning, argo-workflows, workflow-engine, hacktoberfest, cloud-native, cncf, k8s|15-10-2021|  
 |402|[sceptre](https://github.com/Sceptre/sceptre.git)|Build better AWS infrastructure|1252|aws, cloudformation, infrastructure, python, devops, cloud, sceptre|16-10-2021|  
 |403|[go-leetcode](https://github.com/austingebauer/go-leetcode.git)|A collection of 100+ popular LeetCode problems solved in Go.|1667||10-3-2021|  
 |404|[fortio](https://github.com/fortio/fortio.git)|Fortio load testing library, command line tool, advanced echo server and web UI in go (golang). Allows to specify a set query-per-second load and record latency histograms and other useful stats.|2097|golang, golang-library, golang-application, performance, performance-testing, performance-visualization, http, grpc, proxy, go|13-8-2021|  
 |405|[ansible](https://github.com/ansible/ansible.git)|Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.|50352|python, ansible, hacktoberfest|15-10-2021|  
 |406|[Python-for-Algorithms--Data-Structures--and-Interviews](https://github.com/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews.git)|Files for Udemy Course on Algorithms and Data Structures|1886||26-12-2017|  
-|407|[coding-interview-university](https://github.com/jwasham/coding-interview-university.git)|A complete computer science study plan to become a software engineer.|194809|computer-science, interview, programming-interviews, study-plan, data-structures, algorithms, software-engineering, algorithm, coding-interviews, interview-prep, coding-interview, interview-preparation|7-10-2021|  
+|407|[coding-interview-university](https://github.com/jwasham/coding-interview-university.git)|A complete computer science study plan to become a software engineer.|194810|computer-science, interview, programming-interviews, study-plan, data-structures, algorithms, software-engineering, algorithm, coding-interviews, interview-prep, coding-interview, interview-preparation|7-10-2021|  
 |408|[katran](https://github.com/facebookincubator/katran.git)|A high performance layer 4 load balancer|3320||17-10-2021|  
 |409|[xdp-tutorial](https://github.com/xdp-project/xdp-tutorial.git)|XDP tutorial|989|xdp, bpf, libbpf, tutorial|7-10-2021|  
 |410|[bcc](https://github.com/iovisor/bcc.git)|BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more|12771||16-10-2021|  
 |411|[fish-shell](https://github.com/fish-shell/fish-shell.git)|The user-friendly command line shell.|17506||16-10-2021|  
-|412|[ace](https://github.com/ajaxorg/ace.git)|Ace (Ajax.org Cloud9 Editor)|23696||9-10-2021|  
+|412|[ace](https://github.com/ajaxorg/ace.git)|Ace (Ajax.org Cloud9 Editor)|23697||9-10-2021|  
 |413|[bat](https://github.com/sharkdp/bat.git)|A cat(1) clone with wings.|29834|command-line, tool, syntax-highlighting, git, terminal, cli, rust, hacktoberfest|16-10-2021|  
 |414|[awesome-hyper](https://github.com/bnb/awesome-hyper.git)|🖥 Delightful Hyper plugins, themes, and resources|9619|hyper, hyperterm, zeit, terminal, awesome, awesome-list|13-7-2021|  
 |415|[hyper](https://github.com/vercel/hyper.git)|A terminal built on web technologies|37006|terminal, javascript, html, css, react, terminal-emulators, hyper, macos, linux|13-10-2021|  
@@ -425,7 +425,7 @@
 |419|[traefik](https://github.com/traefik/traefik.git)|The Cloud Native Application Proxy|35375|microservice, docker, marathon, mesos, consul, etcd, kubernetes, load-balancer, reverse-proxy, zookeeper, letsencrypt, golang, go|6-10-2021|  
 |420|[aws-load-balancer-controller](https://github.com/kubernetes-sigs/aws-load-balancer-controller.git)|A Kubernetes controller for Elastic Load Balancers|2477|kubernetes-ingress-controller, aws, ingress-resource, kubernetes, ingress, k8s-sig-aws|15-10-2021|  
 |421|[project-based-learning](https://github.com/practical-tutorials/project-based-learning.git)|Curated list of project-based tutorials|57732|tutorial, project, beginner-project, webdevelopment, python, javascript, cpp, golang|14-9-2021|  
-|422|[istio](https://github.com/istio/istio.git)|Connect, secure, control, and observe services.|28228|microservices, service-mesh, lyft-envoy, kubernetes, api-management, circuit-breaker, polyglot-microservices, enforce-policies, proxies, microservice, envoy, consul, nomad, request-routing, resiliency, fault-injection|16-10-2021|  
+|422|[istio](https://github.com/istio/istio.git)|Connect, secure, control, and observe services.|28229|microservices, service-mesh, lyft-envoy, kubernetes, api-management, circuit-breaker, polyglot-microservices, enforce-policies, proxies, microservice, envoy, consul, nomad, request-routing, resiliency, fault-injection|16-10-2021|  
 |423|[typing](https://github.com/python/typing.git)|Python static typing home. Contains the source for typing_extensions and the documentation. Also hosts a user help forum.|1039|python, types, typing, static-typing, gradual-typing|7-10-2021|  
 |424|[statsd](https://github.com/statsd/statsd.git)|Daemon for easy but powerful stats aggregation|16057|statsd, graphite, javascript, metrics, nodejs|27-8-2020|  
 |425|[chef](https://github.com/chef/chef.git)|Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale|6710|chef, devops, cfgmgt, infrastructure, automation, deployment, hacktoberfest|17-10-2021|  
