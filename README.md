@@ -60,14 +60,14 @@
 |54|[docker-cheat-sheet](https://github.com/wsargent/docker-cheat-sheet.git)|Docker Cheat Sheet|20350|docker, cheet-sheet|11-9-2021|  
 |55|[faas](https://github.com/openfaas/faas.git)|OpenFaaS - Serverless Functions Made Simple|20509|functions-as-a-service, functions, lambda, serverless, prometheus, kubernetes, k8s, serverless-functions, paas, gitops, faas, docker, golang, nodejs|7-10-2021|  
 |56|[awesome-docker](https://github.com/veggiemonk/awesome-docker.git)|:whale: A curated list of Docker resources and projects|20527|docker, awesome, awesome-list, container, tools, dockerfile, list, moby, docker-container, docker-image, docker-environment, docker-deployment, docker-swarm, docker-api, docker-monitoring, docker-machine, docker-security, docker-registry|23-9-2021|  
-|57|[echo](https://github.com/labstack/echo.git)|High performance, minimalist Go web framework|20907|go, echo, web, middleware, microservice, websocket, ssl, letsencrypt, micro-framework, https, http2, web-framework, labstack-echo|15-10-2021|  
+|57|[echo](https://github.com/labstack/echo.git)|High performance, minimalist Go web framework|20908|go, echo, web, middleware, microservice, websocket, ssl, letsencrypt, micro-framework, https, http2, web-framework, labstack-echo|15-10-2021|  
 |58|[consul](https://github.com/hashicorp/consul.git)|Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.|23331|hacktoberfest|15-10-2021|  
 |59|[linux-insides](https://github.com/0xAX/linux-insides.git)|A little bit about a linux kernel|23714|linux-kernel, linux-insides, linux|14-8-2021|  
 |60|[compose](https://github.com/docker/compose.git)|Define and run multi-container applications with Docker|23868|docker, docker-compose, orchestration, go, golang|12-10-2021|  
 |61|[request](https://github.com/request/request.git)|🏊🏾 Simplified HTTP request client.|25304||11-2-2020|  
 |62|[dive](https://github.com/wagoodman/dive.git)|A tool for exploring each layer in a docker image|27941|docker, docker-image, inspector, explorer, cli, tui|2-7-2021|  
 |63|[minio](https://github.com/minio/minio.git)|High Performance, Kubernetes Native Object Storage|29653|go, storage, cloud, s3, objectstorage, cloudstorage, amazon-s3, cloudnative|15-10-2021|  
-|64|[mkcert](https://github.com/FiloSottile/mkcert.git)|A simple zero-config tool to make locally trusted development certificates with any names you'd like.|32245|https, tls, certificates, local-development, localhost, root-ca, macos, linux, windows, ios, firefox, chrome|13-2-2021|  
+|64|[mkcert](https://github.com/FiloSottile/mkcert.git)|A simple zero-config tool to make locally trusted development certificates with any names you'd like.|32246|https, tls, certificates, local-development, localhost, root-ca, macos, linux, windows, ios, firefox, chrome|13-2-2021|  
 |65|[localstack](https://github.com/localstack/localstack.git)|💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!|35691|aws, localstack, testing, continuous-integration, developer-tools, python|16-10-2021|  
 |66|[etcd](https://github.com/etcd-io/etcd.git)|Distributed reliable key-value store for the most critical data of a distributed system|37562|etcd, raft, distributed-systems, kubernetes, go, database, key-value, consensus, distributed-database|16-10-2021|  
 |67|[prometheus](https://github.com/prometheus/prometheus.git)|The Prometheus monitoring system and time series database.|39165|monitoring, metrics, alerting, graphing, time-series, prometheus, hacktoberfest|17-10-2021|  
@@ -109,7 +109,7 @@
 |103|[ipython](https://github.com/ipython/ipython.git)|Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.|15019|ipython, jupyter, data-science, notebook, python, repl, closember, hacktoberfest|12-10-2021|  
 |104|[pace](https://github.com/CodeByZach/pace.git)|Automatically add a progress bar to your site.|15340|pace, progress-bar, pace-js, loading-bar, loading-indicator, loading-animation|28-7-2021|  
 |105|[bokeh](https://github.com/bokeh/bokeh.git)|Interactive Data Visualization in the browser, from  Python|15624|bokeh, python, interactive-plots, javascript, visualization, plotting, plots, data-visualisation, notebooks, jupyter, visualisation, numfocus|13-10-2021|  
-|106|[system-design-interview](https://github.com/checkcheckzz/system-design-interview.git)|System design interview for IT companies|15935|interview, interview-questions, interview-preparation, design-systems, system, system-design|23-12-2020|  
+|106|[system-design-interview](https://github.com/checkcheckzz/system-design-interview.git)|System design interview for IT companies|15936|interview, interview-questions, interview-preparation, design-systems, system, system-design|23-12-2020|  
 |107|[gotty](https://github.com/yudai/gotty.git)|Share your terminal as a web application|15874|tty, terminal, browser, web, go, websocket, javascript, typescript|13-12-2017|  
 |108|[professional-programming](https://github.com/charlax/professional-programming.git)|A collection of full-stack resources for programmers.|15846|read-articles, programmer, professional, scalability, concepts, documentation, lessons-learned, engineer, programming-language, learning, architecture, computer-science|19-9-2021|  
 |109|[fasthttp](https://github.com/valyala/fasthttp.git)|Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http|16216||9-10-2021|  
@@ -124,7 +124,7 @@
 |118|[profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github.git)|Tool for visualizing GitHub profiles|19464|kotlin, webapp, github-api, javalin|13-9-2021|  
 |119|[python-fire](https://github.com/google/python-fire.git)|Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.|20268|python, cli|17-6-2021|  
 |120|[engineering-blogs](https://github.com/kilimchoi/engineering-blogs.git)|A curated list of engineering blogs|20395|engineering-blogs, tech, programming-blogs, software-development, lists|2-7-2021|  
-|121|[jq](https://github.com/stedolan/jq.git)|Command-line JSON processor|20460||7-9-2021|  
+|121|[jq](https://github.com/stedolan/jq.git)|Command-line JSON processor|20461||7-9-2021|  
 |122|[ngrok](https://github.com/inconshreveable/ngrok.git)|Introspected tunnels to localhost|20894||31-5-2016|  
 |123|[mattermost-server](https://github.com/mattermost/mattermost-server.git)|Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.|21106|collaboration, mattermost, golang, go, react, react-native, hacktoberfest|16-10-2021|  
 |124|[hub](https://github.com/github/hub.git)|A command-line tool that makes git easier to use with GitHub.|21289|go, homebrew, git, github-api, pull-request|4-9-2021|  
@@ -188,8 +188,8 @@
 |182|[youtube-dl](https://github.com/ytdl-org/youtube-dl.git)|Command-line program to download videos from YouTube.com and other video sites|101326||1-7-2021|  
 |183|[build-your-own-x](https://github.com/danistefanovic/build-your-own-x.git)|🤓 Build your own (insert technology here)|120306|programming, tutorials, tutorial-code, tutorial-exercises, free|29-6-2021|  
 |184|[gitignore](https://github.com/github/gitignore.git)|A collection of useful .gitignore templates|124315|gitignore, git|14-10-2021|  
-|185|[system-design-primer](https://github.com/donnemartin/system-design-primer.git)|Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.|146882|programming, development, design, design-system, system, design-patterns, web, web-application, webapp, python, interview, interview-questions, interview-practice|9-5-2021|  
-|186|[public-apis](https://github.com/public-apis/public-apis.git)|A collective list of free APIs|164318|api, public-apis, free, apis, list, development, software, public, resources, hacktoberfest|16-10-2021|  
+|185|[system-design-primer](https://github.com/donnemartin/system-design-primer.git)|Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.|146883|programming, development, design, design-system, system, design-patterns, web, web-application, webapp, python, interview, interview-questions, interview-practice|9-5-2021|  
+|186|[public-apis](https://github.com/public-apis/public-apis.git)|A collective list of free APIs|164319|api, public-apis, free, apis, list, development, software, public, resources, hacktoberfest|16-10-2021|  
 |187|[awesome](https://github.com/sindresorhus/awesome.git)|😎 Awesome lists about all kinds of interesting topics|172440|awesome, awesome-list, unicorns, lists, resources|3-10-2021|  
 |188|[developer-roadmap](https://github.com/kamranahmedse/developer-roadmap.git)|Roadmap to becoming a web developer in 2021|174211|computer-science, roadmap, developer-roadmap, frontend-roadmap, devops-roadmap, backend-roadmap, study-plan, engineering|7-9-2021|  
 |189|[free-programming-books](https://github.com/EbookFoundation/free-programming-books.git)|:books: Freely available programming books|208506|education, books, list, resource, hacktoberfest|16-10-2021|  
@@ -205,7 +205,7 @@
 |199|[graphene-django](https://github.com/graphql-python/graphene-django.git)|Integrate GraphQL into your Django project.|3689|graphene, django, python, graphql|11-6-2021|  
 |200|[nginx-module-vts](https://github.com/vozlt/nginx-module-vts.git)|Nginx virtual host traffic status module|2478|c, nginx, nginx-module, nginx-vhost-traffic-status, vozlt-nginx-modules, monitoring|10-2-2021|  
 |201|[json-server](https://github.com/typicode/json-server.git)|Get a full fake REST API with zero coding in less than 30 seconds (seriously)|56873||14-10-2021|  
-|202|[fucking-algorithm](https://github.com/labuladong/fucking-algorithm.git)|刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. |97076|leetcode, algorithms, interview-questions, data-structures, kmp, dynamic-programming, computer-science, dynamic-programming-algorithm|8-7-2021|  
+|202|[fucking-algorithm](https://github.com/labuladong/fucking-algorithm.git)|刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why. |97077|leetcode, algorithms, interview-questions, data-structures, kmp, dynamic-programming, computer-science, dynamic-programming-algorithm|8-7-2021|  
 |203|[askgit](https://github.com/askgitdev/askgit.git)|Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊|2636|git, sql, sqlite, golang, go, cli, command-line|15-10-2021|  
 |204|[archivy](https://github.com/archivy/archivy.git)|Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.|2684|elasticsearch, knowledge, productivity, python, knowledge-base, note-taking, digital-brain, cli, hacktoberfest|17-10-2021|  
 |205|[htop](https://github.com/htop-dev/htop.git)|htop - an interactive process viewer|2838|process, viewer, console, terminal, linux, macos, bsd, c, hacktoberfest|15-10-2021|  
@@ -231,7 +231,7 @@
 |225|[ytfzf](https://github.com/pystardust/ytfzf.git)|A posix script to find and watch youtube videos from the terminal. (Without API)|2062|youtube, cli, terminal, posix, fzf, dmenu, ueberzug|12-10-2021|  
 |226|[pyWhat](https://github.com/bee-san/pyWhat.git)|🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️|4639|cyber, security, hacking, cybersecurity, malware, re, python, pcap, malware-analysis, malware-research, tryhackme, hacktoberfest|17-10-2021|  
 |227|[textual](https://github.com/willmcgugan/textual.git)|Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.|5829|terminal, python, tui, rich|26-9-2021|  
-|228|[age](https://github.com/FiloSottile/age.git)|A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.|8721|built-at-rc, age-encryption|16-10-2021|  
+|228|[age](https://github.com/FiloSottile/age.git)|A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.|8722|built-at-rc, age-encryption|16-10-2021|  
 |229|[htmlq](https://github.com/mgdm/htmlq.git)|Like jq, but for HTML.|4898||30-9-2021|  
 |230|[sqlc](https://github.com/kyleconroy/sqlc.git)|Generate type safe Go from SQL|4063|go, postgresql, sql, orm, code-generator, mysql|15-10-2021|  
 |231|[tv](https://github.com/alexhallam/tv.git)|📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.|1275|cli, terminal, csv, pretty-printer, pretty-print, command-line-tool, data-science, rust, command-line, tabular-data, tibble, dataframe, datatable, csv-viewer, csv-visualization, csv-pretty-print, csv-cat, column, csv-column, hacktoberfest|10-10-2021|  
@@ -298,14 +298,14 @@
 |292|[pulumi](https://github.com/pulumi/pulumi.git)|Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀|10220|infrastructure-as-code, serverless, containers, aws, azure, gcp, kubernetes, cloud, cloud-computing, iac, csharp, typescript, javascript, golang, go, dotnet, fsharp, python|15-10-2021|  
 |293|[envoy](https://github.com/envoyproxy/envoy.git)|Cloud-native high-performance edge/middle/service proxy|18151|cats, rocket-ships, cars, more-cats, cats-over-dogs, nanoservices, corgis, cncf|16-10-2021|  
 |294|[ohmyzsh](https://github.com/ohmyzsh/ohmyzsh.git)|🙃   A delightful community-driven (with 1900+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.|134725|shell, zsh-configuration, theme, terminal, productivity, hacktoberfest|13-10-2021|  
-|295|[kubectx](https://github.com/ahmetb/kubectx.git)|Faster way to switch between clusters and namespaces in kubectl|11492|kubernetes, kubectl, kubectl-plugins, kubernetes-clusters|19-8-2021|  
+|295|[kubectx](https://github.com/ahmetb/kubectx.git)|Faster way to switch between clusters and namespaces in kubectl|11493|kubernetes, kubectl, kubectl-plugins, kubernetes-clusters|19-8-2021|  
 |296|[gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse.git)|A user-space file system for interacting with Google Cloud Storage|1349||16-10-2021|  
 |297|[google-api-python-client](https://github.com/googleapis/google-api-python-client.git)|🐍 The official Python client library for Google's discovery based APIs.|5133||13-10-2021|  
 |298|[google-cloud-python](https://github.com/googleapis/google-cloud-python.git)|Google Cloud Client Library for Python|3706||13-10-2021|  
 |299|[python-container](https://github.com/googleapis/python-container.git)|-|23||13-10-2021|  
 |300|[pipenv](https://github.com/pypa/pipenv.git)| Python Development Workflow for Humans.|22353|pip, python, packaging, virtualenv, pipfile|31-8-2021|  
 |301|[crouton](https://github.com/dnschneid/crouton.git)|Chromium OS Universal Chroot Environment|7876|chroot, shell, crouton, minecraft, ubuntu, debian, kali, linux, chromeos|8-9-2021|  
-|302|[nativefier](https://github.com/nativefier/nativefier.git)|Make any web page a desktop application|28731|nodejs, electron, linux, windows, macos, desktop-application|4-10-2021|  
+|302|[nativefier](https://github.com/nativefier/nativefier.git)|Make any web page a desktop application|28732|nodejs, electron, linux, windows, macos, desktop-application|4-10-2021|  
 |303|[checkov](https://github.com/bridgecrewio/checkov.git)|Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.|3332|terraform, static-analysis, aws, gcp, azure, aws-security, azure-security, gcp-security, cloudformation, scans, compliance, kubernetes, kubernetes-security, devsecops, helm-charts, policy-as-code, infrastructure-as-code, devops, terraform-security, hacktoberfest|17-10-2021|  
 |304|[terraform-switcher](https://github.com/warrensbox/terraform-switcher.git)|A command line tool to switch between different versions of terraform  (install with homebrew and more)|737|terraform, go|13-9-2021|  
 |305|[python-slack-sdk](https://github.com/slackapi/python-slack-sdk.git)|Slack Developer Kit for Python|3264|python, slack, slackapi, asyncio, aiohttp-client, aiohttp, websockets, websocket, websocket-client, socket-mode|17-10-2021|  
@@ -346,7 +346,7 @@
 |340|[nicstat](https://github.com/scotte/nicstat.git)|Fork of https://sourceforge.net/projects/nicstat/ to fix bugs|52||9-5-2018|  
 |341|[FlameGraph](https://github.com/brendangregg/FlameGraph.git)|Stack trace visualizer|11996||31-8-2021|  
 |342|[perf-tools](https://github.com/brendangregg/perf-tools.git)|Performance analysis tools based on Linux perf_events (aka perf) and ftrace|7825||14-1-2020|  
-|343|[linux](https://github.com/torvalds/linux.git)|Linux kernel source tree|119694||16-10-2021|  
+|343|[linux](https://github.com/torvalds/linux.git)|Linux kernel source tree|119695||16-10-2021|  
 |344|[interview](https://github.com/mission-peace/interview.git)|Interview questions|9998||30-7-2018|  
 |345|[fastapi](https://github.com/tiangolo/fastapi.git)|FastAPI framework, high performance, easy to learn, fast to code, ready for production|36992|python, json, swagger-ui, redoc, starlette, openapi, api, openapi3, framework, async, asyncio, uvicorn, python3, python-types, pydantic, json-schema, fastapi, swagger, rest, web|7-10-2021|  
 |346|[pipeline](https://github.com/tektoncd/pipeline.git)|A cloud-native Pipeline resource.|6570|tekton, pipeline, kubernetes, cdf, hacktoberfest|15-10-2021|  
@@ -360,7 +360,7 @@
 |354|[resume.github.com](https://github.com/resume/resume.github.com.git)|Resumes generated using the GitHub informations|49987||5-8-2016|  
 |355|[resume-cli](https://github.com/jsonresume/resume-cli.git)|CLI tool to easily setup a new resume 📑|3937|cli, javascript, resume, json|19-6-2021|  
 |356|[aws-cloudformation-user-guide](https://github.com/awsdocs/aws-cloudformation-user-guide.git)|The open source version of the AWS CloudFormation User Guide|563|aws, aws-cloudformation, cloudformation|13-10-2021|  
-|357|[blockly](https://github.com/google/blockly.git)|The web-based visual programming editor.|9656||28-9-2021|  
+|357|[blockly](https://github.com/google/blockly.git)|The web-based visual programming editor.|9657||28-9-2021|  
 |358|[codebytere.github.io](https://github.com/codebytere/codebytere.github.io.git)|personal website|406||10-5-2021|  
 |359|[30-Days-of-Code](https://github.com/xeoneux/30-Days-of-Code.git)|👨‍💻 30 Days of Code by HackerRank Solutions in C++, C#, F#, Go, Java, JavaScript, Python, Ruby, Swift & TypeScript. PRs Welcome! 😄|603|hackerrank, java, swift, python, csharp, fsharp, cplusplus, solutions, 30, days, of, code, typescript, go, ruby, kotlin, javascript|17-8-2021|  
 |360|[geeksforgeeks.pdf](https://github.com/dufferzafar/geeksforgeeks.pdf.git)|Topic wise PDFs of Geeks for Geeks articles. (Last updated in October 2018)|486|||  
@@ -389,7 +389,7 @@
 |383|[terraform-multi-account](https://github.com/inovex/terraform-multi-account.git)|Some example how toadress multiple aws accounts with Terraform|20||12-6-2018|  
 |384|[Terraform-012](https://github.com/addamstj/Terraform-012.git)|Code for the Terraform course|39||6-7-2020|  
 |385|[terraform-course](https://github.com/wardviaene/terraform-course.git)|Course files for my Udemy course about Terraform|1136||31-8-2021|  
-|386|[awesome-python-applications](https://github.com/mahmoud/awesome-python-applications.git)|💿 Free software that works great, and also happens to be open-source Python. |13118|python, application, video, audio, graphics, gui, productivity, education, science, game|11-10-2021|  
+|386|[awesome-python-applications](https://github.com/mahmoud/awesome-python-applications.git)|💿 Free software that works great, and also happens to be open-source Python. |13119|python, application, video, audio, graphics, gui, productivity, education, science, game|11-10-2021|  
 |387|[Python-Sample-Application](https://github.com/uber/Python-Sample-Application.git)|-|349||9-3-2015|  
 |388|[grequests](https://github.com/spyoungtech/grequests.git)|Requests + Gevent = <3|3881||4-10-2021|  
 |389|[opencv](https://github.com/opencv/opencv.git)|Open Source Computer Vision Library|57314|opencv, c-plus-plus, computer-vision, deep-learning, image-processing|15-10-2021|  
@@ -397,7 +397,7 @@
 |391|[game_control](https://github.com/ChoudharyChanchal/game_control.git)|-|749||19-7-2020|  
 |392|[Python](https://github.com/TheAlgorithms/Python.git)|All Algorithms implemented in Python|120496|python, algorithm, algorithms-implemented, algorithm-competitions, algos, sorts, searches, sorting-algorithms, education, learn, practice, community-driven, interview, hacktoberfest|17-10-2021|  
 |393|[managers-playbook](https://github.com/ksindi/managers-playbook.git)|:book: Heuristics for effective management|4438|management, one-on-ones, feedback, advice, coaching, meetings, decision-making|3-8-2021|  
-|394|[tqdm](https://github.com/tqdm/tqdm.git)|A Fast, Extensible Progress Bar for Python and CLI|19747|progressbar, progressmeter, progress-bar, meter, rate, console, terminal, time, progress, gui, python, parallel, cli, utilities, jupyter, tkinter, discord, telegram, pandas, keras|20-9-2021|  
+|394|[tqdm](https://github.com/tqdm/tqdm.git)|A Fast, Extensible Progress Bar for Python and CLI|19748|progressbar, progressmeter, progress-bar, meter, rate, console, terminal, time, progress, gui, python, parallel, cli, utilities, jupyter, tkinter, discord, telegram, pandas, keras|20-9-2021|  
 |395|[admiral](https://github.com/istio-ecosystem/admiral.git)|Admiral provides automatic configuration generation, syncing and service discovery for multicluster Istio service mesh|388|admiral, service-mesh, istio, k8s, multi-cluster, automation, configuration, service-discovery, multicluster, microservices, clusters|30-6-2021|  
 |396|[schema](https://github.com/keleshev/schema.git)|Schema validation just got Pythonic|2446||12-3-2021|  
 |397|[cheatsheets.pdf](https://github.com/qg0/cheatsheets.pdf.git)|📚 Various cheatsheets in PDF|185|pandas, keras, python, django, deep-learning, scikit-learn, skipy, numpy, python3, django-framework, r, jupyter, jython, ipython, cheatsheet, apache-spark, cheat-sheets, cheatsheets, jquery, php|19-3-2021|  
