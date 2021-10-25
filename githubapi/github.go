@@ -7,6 +7,7 @@ import (
 	"log"
 	"strconv"
 	"strings"
+	"sync"
 )
 
 var allRepos []*github.StarredRepository
@@ -60,7 +61,10 @@ func GetGithubStarredRepoByUser(client *github.Client, context context.Context) 
 
 
 func ParseGitHubApiResponse(allRepos []*github.StarredRepository, client *github.Client, context context.Context) []GitHubResponseField {
-	for _, getRepo := range allRepos {
+	wg:=sync.WaitGroup{}
+	wg.Add(len(allRepos))
+	getData := func (getRepo *github.StarredRepository, wg *sync.WaitGroup) []GitHubResponseField{
+		defer wg.Done()
 		repoDetails := getRepo.GetRepository()
 		name := *repoDetails.Name
 		fullName := *repoDetails.FullName
@@ -91,7 +95,18 @@ func ParseGitHubApiResponse(allRepos []*github.StarredRepository, client *github
 			LastUpdated: lastUpdated,
 			Topics: topics,
 		})
+
+		return githubResponseField
 	}
+
+
+	for _, getRepo := range allRepos {
+
+		go getData(getRepo,&wg)
+
+	}
+
+	wg.Wait()
 	return githubResponseField
 }
 
