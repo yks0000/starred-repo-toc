@@ -2,9 +2,9 @@ package githubapi
 
 import (
 	"context"
+	logger "github-stars/logging"
 	"github.com/google/go-github/github"
 	"golang.org/x/oauth2"
-	"log"
 	"strconv"
 	"strings"
 	"sync"
@@ -37,7 +37,7 @@ func GetGitHubClient(accessToken string) (*github.Client, context.Context) {
 func GetGithubStarredRepoByUser(client *github.Client, context context.Context) []*github.StarredRepository {
 	user, _, err := client.Users.Get(context, "")
 	if err != nil {
-		log.Panicln("Error while making authenticated call to github", err)
+		logger.Panic("Error while making authenticated call to github: ", err.Error())
 	}
 
 	activityListStarredOptions := &github.ActivityListStarredOptions{ListOptions: github.ListOptions{PerPage: 100}}
@@ -45,13 +45,13 @@ func GetGithubStarredRepoByUser(client *github.Client, context context.Context) 
 	for {
 		repos, resp, err := client.Activity.ListStarred(context, *user.Login, activityListStarredOptions)
 		if err != nil {
-			log.Panicln("Error while making authenticated call to github", err)
+			logger.Panic("Error while making authenticated call to github: ", err.Error())
 		}
 		allRepos = append(allRepos, repos...)
 		if resp.NextPage == 0 {
 			break
 		} else {
-			log.Printf("Loading another page. Page loaded: %d", resp.NextPage)
+			logger.Info("Loading another page. Page loaded: ", resp.NextPage)
 		}
 		activityListStarredOptions.Page = resp.NextPage
 	}
@@ -113,7 +113,7 @@ func ParseGitHubApiResponse(allRepos []*github.StarredRepository, client *github
 func GetDefaultBranchDetails(client *github.Client, context context.Context, repoName string, ownerName string, branchName string) string {
 	branch, _, err := client.Repositories.GetBranch(context, ownerName, repoName, branchName)
 	if err != nil {
-		log.Println(err)
+		logger.Error(err.Error())
 		return ""
 	}
 	year, month, day := branch.GetCommit().Commit.Committer.GetDate().Date()
@@ -122,10 +122,10 @@ func GetDefaultBranchDetails(client *github.Client, context context.Context, rep
 }
 
 func GetGitHubRepoTopics(client *github.Client, context context.Context, repoName string, ownerName string, channel chan []string) {
-	log.Println("Getting topics tag for repo", repoName)
+	logger.Info("Getting topics tag for repo: ", repoName)
 	topics, _, err := client.Repositories.ListAllTopics(context, ownerName, repoName)
 	if err != nil {
-		log.Println(err)
+		logger.Error(err.Error())
 	}
 	channel <- topics
 }

@@ -4,6 +4,8 @@ import (
 	"bufio"
 	"fmt"
 	"github-stars/githubapi"
+	logger "github-stars/logging"
+	"github.com/sirupsen/logrus"
 	"os"
 	"strconv"
 	"strings"
@@ -46,7 +48,20 @@ func WriteMarkDownFile(fileName string, allRepos []githubapi.GitHubResponseField
 		topics := strings.Join(getRepo.Topics, ", ")
 		_, err = writer.WriteString("|" + strconv.Itoa(index+1) + "|" + "[" + name + "]" + "(" + cloneUrl + ")" + "|" + description + "|" + strconv.Itoa(starCount) + "|" + topics + "|" + lastUpdated + "|" + "  " + "\n")
 
-		fmt.Printf("Id: %d\tName: %s\tFullName: %s\tDescription: %s\tCloneURL: %s\tOwner: %s\tStargazersCount: %d\tLastUpdated: %s\n", index, name, fullName, description, cloneUrl, ownerName, starCount, lastUpdated)
+		//fmt.Printf("Id: %d\tName: %s\tFullName: %s\tDescription: %s\tCloneURL: %s\tOwner: %s\tStargazersCount: %d\tLastUpdated: %s\n", index, name, fullName, description, cloneUrl, ownerName, starCount, lastUpdated)
+		logger.WithFields(logrus.Fields{
+			"Id": index,
+			"Name": name,
+			"FullName": fullName,
+			"Description": description,
+			"CloneURL": cloneUrl,
+			"Owner": ownerName,
+			"StargazersCount": starCount,
+			"LastUpdated": lastUpdated,
+		}).Debug("")
 	}
-	writer.Flush()
+	err = writer.Flush()
+	if err != nil {
+		return
+	}
 }
