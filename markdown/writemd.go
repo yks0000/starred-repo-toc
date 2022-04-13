@@ -50,14 +50,14 @@ func WriteMarkDownFile(fileName string, allRepos []githubapi.GitHubResponseField
 
 		//fmt.Printf("Id: %d\tName: %s\tFullName: %s\tDescription: %s\tCloneURL: %s\tOwner: %s\tStargazersCount: %d\tLastUpdated: %s\n", index, name, fullName, description, cloneUrl, ownerName, starCount, lastUpdated)
 		logger.WithFields(logrus.Fields{
-			"Id": index,
-			"Name": name,
-			"FullName": fullName,
-			"Description": description,
-			"CloneURL": cloneUrl,
-			"Owner": ownerName,
+			"Id":              index,
+			"Name":            name,
+			"FullName":        fullName,
+			"Description":     description,
+			"CloneURL":        cloneUrl,
+			"Owner":           ownerName,
 			"StargazersCount": starCount,
-			"LastUpdated": lastUpdated,
+			"LastUpdated":     lastUpdated,
 		}).Debug("")
 	}
 	err = writer.Flush()

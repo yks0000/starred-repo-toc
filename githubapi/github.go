@@ -13,14 +13,14 @@ import (
 var allRepos []*github.StarredRepository
 
 type GitHubResponseField struct {
-	Name string
-	FullName string
+	Name        string
+	FullName    string
 	Description string
-	CloneUrl string
-	OwnerName string
-	StarCount int
+	CloneUrl    string
+	OwnerName   string
+	StarCount   int
 	LastUpdated string
-	Topics []string
+	Topics      []string
 }
 
 var githubResponseField []GitHubResponseField
@@ -59,11 +59,10 @@ func GetGithubStarredRepoByUser(client *github.Client, context context.Context) 
 
 }
 
-
 func ParseGitHubApiResponse(allRepos []*github.StarredRepository, client *github.Client, context context.Context) []GitHubResponseField {
-	wg:=sync.WaitGroup{}
+	wg := sync.WaitGroup{}
 	wg.Add(len(allRepos))
-	getData := func (getRepo *github.StarredRepository, wg *sync.WaitGroup) []GitHubResponseField{
+	getData := func(getRepo *github.StarredRepository, wg *sync.WaitGroup) []GitHubResponseField {
 		defer wg.Done()
 		repoDetails := getRepo.GetRepository()
 		name := *repoDetails.Name
@@ -84,25 +83,24 @@ func ParseGitHubApiResponse(allRepos []*github.StarredRepository, client *github
 
 		channels := make(chan []string)
 		go GetGitHubRepoTopics(client, context, name, ownerName, channels)
-		topics := <- channels
+		topics := <-channels
 		githubResponseField = append(githubResponseField, GitHubResponseField{
-			Name: name,
-			FullName: fullName,
+			Name:        name,
+			FullName:    fullName,
 			Description: description,
-			CloneUrl: cloneUrl,
-			OwnerName: ownerName,
-			StarCount: starCount,
+			CloneUrl:    cloneUrl,
+			OwnerName:   ownerName,
+			StarCount:   starCount,
 			LastUpdated: lastUpdated,
-			Topics: topics,
+			Topics:      topics,
 		})
 
 		return githubResponseField
 	}
 
-
 	for _, getRepo := range allRepos {
 
-		go getData(getRepo,&wg)
+		go getData(getRepo, &wg)
 
 	}
 
