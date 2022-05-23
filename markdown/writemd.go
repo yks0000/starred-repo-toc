@@ -18,15 +18,24 @@ func WriteMarkDownFile(fileName string, allRepos []schemas.GitHubResponseField) 
 		panic(err)
 	}
 
-	//parentFolder := filepath.Dir(pwd)
-	markDownFile, _ := os.Create(pwd + "/" + fileName)
+	markDownFile, err := os.Create(pwd + "/" + fileName)
+	if err != nil {
+		panic(err)
+	}
+	defer func(markDownFile *os.File) {
+		err := markDownFile.Close()
+		if err != nil {
+
+		}
+	}(markDownFile)
+
 	writer := bufio.NewWriter(markDownFile)
 
-	_, _ = writer.WriteString("# Starred Repositories" + "  " + "\n\n")
-	_, _ = writer.WriteString("[How this generated?](../master/USAGE.md)" + "  " + "\n\n")
-
-	_, _ = writer.WriteString("| Id 			| Name			| Description | Star Counts | Topics/Tags   | Last Updated 	|" + "  " + "\n")
-	_, _ = writer.WriteString("| ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |" + "  " + "\n")
+	_, _ = fmt.Fprintln(writer, "# Starred Repositories" + "  ")
+	_, _ = fmt.Fprintln(writer, "[How this generated?](../master/USAGE.md)" + "  ")
+	_, _ = fmt.Fprintln(writer, "  ")
+	_, _ = fmt.Fprintln(writer, "| Id 			| Name			| Description | Star Counts | Topics/Tags   | Last Updated 	|" + "  ")
+	_, _ = fmt.Fprintln(writer, "| ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |" + "  ")
 
 	if err != nil {
 		fmt.Println(err)
@@ -37,6 +46,13 @@ func WriteMarkDownFile(fileName string, allRepos []schemas.GitHubResponseField) 
 		return
 	}
 
+	// Sort by Name
+	//sort.Slice(allRepos[:], func(i, j int) bool {
+	//	return allRepos[i].Name < allRepos[i].Name
+	//})
+
+	// Use of Reflection to sort all Repos
+	By(Prop("Name", true)).Sort(allRepos)
 
 	for index, getRepo := range allRepos {
 		name := getRepo.Name
@@ -48,9 +64,10 @@ func WriteMarkDownFile(fileName string, allRepos []schemas.GitHubResponseField) 
 		ownerName := getRepo.OwnerName
 		starCount := getRepo.StarCount
 		topics := strings.Join(getRepo.Topics, ", ")
-		_, err = writer.WriteString("|" + strconv.Itoa(index+1) + "|" + "[" + name + "]" + "(" + cloneUrl + ")" + "|" + description + "|" + strconv.Itoa(starCount) + "|" + topics + "|" + lastUpdated + "|" + "  " + "\n")
+		_, _ = fmt.Fprintln(writer, "|" + strconv.Itoa(index+1) + "|" + "[" + name + "]" + "(" + cloneUrl + ")" + "|" + description + "|" + strconv.Itoa(starCount) + "|" + topics + "|" + lastUpdated + "|" + "  ")
+		//_, err = writer.WriteString("|" + strconv.Itoa(index+1) + "|" + "[" + name + "]" + "(" + cloneUrl + ")" + "|" + description + "|" + strconv.Itoa(starCount) + "|" + topics + "|" + lastUpdated + "|" + "  " + "\n")
 
-		//fmt.Printf("Id: %d\tName: %s\tFullName: %s\tDescription: %s\tCloneURL: %s\tOwner: %s\tStargazersCount: %d\tLastUpdated: %s\n", index, name, fullName, description, cloneUrl, ownerName, starCount, lastUpdated)
+		//fmt.Printf("Id: %d, Name: %s, FullName: %s, Description: %s, CloneURL: %s, Owner: %s, StargazersCount: %d, LastUpdated: %s\n", index, name, fullName, description, cloneUrl, ownerName, starCount, lastUpdated)
 		logger.WithFields(logrus.Fields{
 			"Id":              index,
 			"Name":            name,
@@ -62,6 +79,7 @@ func WriteMarkDownFile(fileName string, allRepos []schemas.GitHubResponseField) 
 			"LastUpdated":     lastUpdated,
 		}).Debug("")
 	}
+	_, _ = fmt.Fprintln(writer, "  ")
 	err = writer.Flush()
 	if err != nil {
 		return
