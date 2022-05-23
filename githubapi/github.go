@@ -3,39 +3,35 @@ package githubapi
 import (
 	"context"
 	logger "github-stars/logging"
+	"github-stars/schemas"
 	"github.com/google/go-github/github"
 	"golang.org/x/oauth2"
 	"strconv"
 	"strings"
 	"sync"
 )
-
-var allRepos []*github.StarredRepository
-
-type GitHubResponseField struct {
-	Name        string
-	FullName    string
-	Description string
-	CloneUrl    string
-	OwnerName   string
-	StarCount   int
-	LastUpdated string
-	Topics      []string
+type GithubClientInformation struct {
+	client  *github.Client
+	context context.Context
 }
 
-var githubResponseField []GitHubResponseField
+var allRepos []*github.StarredRepository
+var githubResponseField []schemas.GitHubResponseField
 
-func GetGitHubClient(accessToken string) (*github.Client, context.Context) {
+func GetGitHubClient(accessToken string) GithubClientInformation {
 	ctx := context.Background()
 	secureTokenSource := oauth2.StaticTokenSource(
 		&oauth2.Token{AccessToken: accessToken})
 	tc := oauth2.NewClient(ctx, secureTokenSource)
 	client := github.NewClient(tc)
-	return client, ctx
+	return GithubClientInformation{
+		client:  client,
+		context: ctx,
+	}
 }
 
-func GetGithubStarredRepoByUser(client *github.Client, context context.Context) []*github.StarredRepository {
-	user, _, err := client.Users.Get(context, "")
+func (clientInfo GithubClientInformation) GetGithubStarredRepoByUser() []*github.StarredRepository {
+	user, _, err := clientInfo.client.Users.Get(clientInfo.context, "")
 	if err != nil {
 		logger.Panic("Error while making authenticated call to github: ", err.Error())
 	}
@@ -43,7 +39,7 @@ func GetGithubStarredRepoByUser(client *github.Client, context context.Context) 
 	activityListStarredOptions := &github.ActivityListStarredOptions{ListOptions: github.ListOptions{PerPage: 100}}
 
 	for {
-		repos, resp, err := client.Activity.ListStarred(context, *user.Login, activityListStarredOptions)
+		repos, resp, err := clientInfo.client.Activity.ListStarred(clientInfo.context, *user.Login, activityListStarredOptions)
 		if err != nil {
 			logger.Panic("Error while making authenticated call to github: ", err.Error())
 		}
@@ -59,10 +55,10 @@ func GetGithubStarredRepoByUser(client *github.Client, context context.Context) 
 
 }
 
-func ParseGitHubApiResponse(allRepos []*github.StarredRepository, client *github.Client, context context.Context) []GitHubResponseField {
+func (clientInfo *GithubClientInformation) ParseGitHubApiResponse(allRepos []*github.StarredRepository) []schemas.GitHubResponseField {
 	wg := sync.WaitGroup{}
 	wg.Add(len(allRepos))
-	getData := func(getRepo *github.StarredRepository, wg *sync.WaitGroup) []GitHubResponseField {
+	getData := func(getRepo *github.StarredRepository, wg *sync.WaitGroup) []schemas.GitHubResponseField {
 		defer wg.Done()
 		repoDetails := getRepo.GetRepository()
 		name := *repoDetails.Name
@@ -79,12 +75,12 @@ func ParseGitHubApiResponse(allRepos []*github.StarredRepository, client *github
 			ownerName = *repoDetails.Owner.Login
 		}
 		starCount := *repoDetails.StargazersCount
-		lastUpdated := GetDefaultBranchDetails(client, context, name, ownerName, defaultBranch)
+		lastUpdated := clientInfo.GetDefaultBranchDetails(name, ownerName, defaultBranch)
 
 		channels := make(chan []string)
-		go GetGitHubRepoTopics(client, context, name, ownerName, channels)
+		go clientInfo.GetGitHubRepoTopics(name, ownerName, channels)
 		topics := <-channels
-		githubResponseField = append(githubResponseField, GitHubResponseField{
+		githubResponseField = append(githubResponseField, schemas.GitHubResponseField{
 			Name:        name,
 			FullName:    fullName,
 			Description: description,
@@ -108,8 +104,8 @@ func ParseGitHubApiResponse(allRepos []*github.StarredRepository, client *github
 	return githubResponseField
 }
 
-func GetDefaultBranchDetails(client *github.Client, context context.Context, repoName string, ownerName string, branchName string) string {
-	branch, _, err := client.Repositories.GetBranch(context, ownerName, repoName, branchName)
+func (clientInfo *GithubClientInformation) GetDefaultBranchDetails(repoName string, ownerName string, branchName string) string {
+	branch, _, err := clientInfo.client.Repositories.GetBranch(clientInfo.context, ownerName, repoName, branchName)
 	if err != nil {
 		logger.Error(err.Error())
 		return ""
@@ -119,9 +115,9 @@ func GetDefaultBranchDetails(client *github.Client, context context.Context, rep
 
 }
 
-func GetGitHubRepoTopics(client *github.Client, context context.Context, repoName string, ownerName string, channel chan []string) {
+func (clientInfo *GithubClientInformation) GetGitHubRepoTopics(repoName string, ownerName string, channel chan []string) {
 	logger.Info("Getting topics tag for repo: ", repoName)
-	topics, _, err := client.Repositories.ListAllTopics(context, ownerName, repoName)
+	topics, _, err := clientInfo.client.Repositories.ListAllTopics(clientInfo.context, ownerName, repoName)
 	if err != nil {
 		logger.Error(err.Error())
 	}
