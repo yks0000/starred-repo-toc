@@ -41,7 +41,9 @@ func (by By) Sort(responseFields []schemas.GitHubResponseField) {
 }
 
 // Len is part of sort.Interface.
-func (s *responseFieldsSorter) Len() int { return len(s.responseFields) }
+func (s *responseFieldsSorter) Len() int {
+	return len(s.responseFields)
+}
 
 // Swap is part of sort.Interface.
 func (s *responseFieldsSorter) Swap(i, j int) {
