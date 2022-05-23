@@ -3,15 +3,16 @@ package markdown
 import (
 	"bufio"
 	"fmt"
-	"github-stars/githubapi"
 	logger "github-stars/logging"
+	"github-stars/schemas"
 	"github.com/sirupsen/logrus"
 	"os"
 	"strconv"
 	"strings"
 )
 
-func WriteMarkDownFile(fileName string, allRepos []githubapi.GitHubResponseField) {
+
+func WriteMarkDownFile(fileName string, allRepos []schemas.GitHubResponseField) {
 	pwd, err := os.Getwd()
 	if err != nil {
 		panic(err)
@@ -35,6 +36,7 @@ func WriteMarkDownFile(fileName string, allRepos []githubapi.GitHubResponseField
 		}
 		return
 	}
+
 
 	for index, getRepo := range allRepos {
 		name := getRepo.Name
