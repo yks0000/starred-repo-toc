@@ -11,7 +11,6 @@ import (
 	"strings"
 )
 
-
 func WriteMarkDownFile(fileName string, allRepos []schemas.GitHubResponseField) {
 	pwd, err := os.Getwd()
 	if err != nil {
@@ -31,11 +30,11 @@ func WriteMarkDownFile(fileName string, allRepos []schemas.GitHubResponseField) 
 
 	writer := bufio.NewWriter(markDownFile)
 
-	_, _ = fmt.Fprintln(writer, "# Starred Repositories" + "  ")
-	_, _ = fmt.Fprintln(writer, "[How this generated?](../master/USAGE.md)" + "  ")
+	_, _ = fmt.Fprintln(writer, "# Starred Repositories"+"  ")
+	_, _ = fmt.Fprintln(writer, "[How this generated?](../master/USAGE.md)"+"  ")
 	_, _ = fmt.Fprintln(writer, "  ")
-	_, _ = fmt.Fprintln(writer, "| Id 			| Name			| Description | Star Counts | Topics/Tags   | Last Updated 	|" + "  ")
-	_, _ = fmt.Fprintln(writer, "| ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |" + "  ")
+	_, _ = fmt.Fprintln(writer, "| Id 			| Name			| Description | Star Counts | Topics/Tags   | Last Updated 	|"+"  ")
+	_, _ = fmt.Fprintln(writer, "| ----------- | ----------- 	| ----------- | ----------- | ----------- 	| -----------   |"+"  ")
 
 	if err != nil {
 		fmt.Println(err)
@@ -64,7 +63,7 @@ func WriteMarkDownFile(fileName string, allRepos []schemas.GitHubResponseField) 
 		ownerName := getRepo.OwnerName
 		starCount := getRepo.StarCount
 		topics := strings.Join(getRepo.Topics, ", ")
-		_, _ = fmt.Fprintln(writer, "|" + strconv.Itoa(index+1) + "|" + "[" + name + "]" + "(" + cloneUrl + ")" + "|" + description + "|" + strconv.Itoa(starCount) + "|" + topics + "|" + lastUpdated + "|" + "  ")
+		_, _ = fmt.Fprintln(writer, "|"+strconv.Itoa(index+1)+"|"+"["+name+"]"+"("+cloneUrl+")"+"|"+description+"|"+strconv.Itoa(starCount)+"|"+topics+"|"+lastUpdated+"|"+"  ")
 		//_, err = writer.WriteString("|" + strconv.Itoa(index+1) + "|" + "[" + name + "]" + "(" + cloneUrl + ")" + "|" + description + "|" + strconv.Itoa(starCount) + "|" + topics + "|" + lastUpdated + "|" + "  " + "\n")
 
 		//fmt.Printf("Id: %d, Name: %s, FullName: %s, Description: %s, CloneURL: %s, Owner: %s, StargazersCount: %d, LastUpdated: %s\n", index, name, fullName, description, cloneUrl, ownerName, starCount, lastUpdated)

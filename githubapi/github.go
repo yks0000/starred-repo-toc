@@ -10,6 +10,7 @@ import (
 	"strings"
 	"sync"
 )
+
 type GithubClientInformation struct {
 	client  *github.Client
 	context context.Context

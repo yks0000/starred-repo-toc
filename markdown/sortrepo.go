@@ -35,7 +35,7 @@ func Prop(field string, asc bool) func(p1, p2 *schemas.GitHubResponseField) bool
 func (by By) Sort(responseFields []schemas.GitHubResponseField) {
 	ps := &responseFieldsSorter{
 		responseFields: responseFields,
-		by:      by, // The Sort method's receiver is the function (closure) that defines the sort order.
+		by:             by, // The Sort method's receiver is the function (closure) that defines the sort order.
 	}
 	sort.Sort(ps)
 }
@@ -55,8 +55,7 @@ func (s *responseFieldsSorter) Less(i, j int) bool {
 	return s.by(&s.responseFields[i], &s.responseFields[j])
 }
 
-
 type responseFieldsSorter struct {
 	responseFields []schemas.GitHubResponseField
-	by      func(p1, p2 *schemas.GitHubResponseField) bool // Closure used in the Less method.
+	by             func(p1, p2 *schemas.GitHubResponseField) bool // Closure used in the Less method.
 }

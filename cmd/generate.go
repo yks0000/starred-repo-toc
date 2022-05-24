@@ -8,7 +8,6 @@ import (
 
 var fileName string
 
-
 // generateCmd represents the generate command
 var generateCmd = &cobra.Command{
 	Use:   "generate",
