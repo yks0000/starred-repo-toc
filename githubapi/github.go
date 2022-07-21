@@ -9,6 +9,7 @@ import (
 	"strconv"
 	"strings"
 	"sync"
+	"time"
 )
 
 type GithubClientInformation struct {
@@ -18,6 +19,7 @@ type GithubClientInformation struct {
 
 var allRepos []*github.StarredRepository
 var githubResponseField []schemas.GitHubResponseField
+var pageLoadSleepTime = 2 * time.Second
 
 func GetGitHubClient(accessToken string) GithubClientInformation {
 	ctx := context.Background()
@@ -48,7 +50,7 @@ func (clientInfo GithubClientInformation) GetGithubStarredRepoByUser() []*github
 		if resp.NextPage == 0 {
 			break
 		} else {
-			logger.Info("Loading another page. Page loaded: ", resp.NextPage)
+			logger.Info("Loading another page in 2 seconds. Page loaded: ", resp.NextPage)
 		}
 		activityListStarredOptions.Page = resp.NextPage
 	}
@@ -76,6 +78,17 @@ func (clientInfo *GithubClientInformation) ParseGitHubApiResponse(allRepos []*gi
 			ownerName = *repoDetails.Owner.Login
 		}
 		starCount := *repoDetails.StargazersCount
+
+		_, r, err := clientInfo.client.Repositories.GetByID(clientInfo.context, *repoDetails.ID)
+		if r.StatusCode == 404 {
+			clientInfo.UnStarDeleteGitHubRepo(name, ownerName)
+			return nil
+		}
+		if err != nil {
+			return nil
+		}
+
+		time.Sleep(pageLoadSleepTime)
 		lastUpdated := clientInfo.GetDefaultBranchDetails(name, ownerName, defaultBranch)
 
 		channels := make(chan []string)
@@ -117,10 +130,19 @@ func (clientInfo *GithubClientInformation) GetDefaultBranchDetails(repoName stri
 }
 
 func (clientInfo *GithubClientInformation) GetGitHubRepoTopics(repoName string, ownerName string, channel chan []string) {
+	time.Sleep(pageLoadSleepTime)
 	logger.Info("Getting topics tag for repo: ", repoName)
 	topics, _, err := clientInfo.client.Repositories.ListAllTopics(clientInfo.context, ownerName, repoName)
 	if err != nil {
 		logger.Error(err.Error())
 	}
 	channel <- topics
+}
+
+func (clientInfo *GithubClientInformation) UnStarDeleteGitHubRepo(repoName string, ownerName string) {
+	unstar, err := clientInfo.client.Activity.Unstar(clientInfo.context, ownerName, repoName)
+	logger.Info("Un starred deleted github repository ", repoName, unstar.StatusCode)
+	if err != nil {
+		return
+	}
 }
